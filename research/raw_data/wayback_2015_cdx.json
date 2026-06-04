@@ -1,0 +1,289 @@
+[
+  {
+    "timestamp": "20150205231445",
+    "original": "http://twincitiesstartupweek.com:80/",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "2034"
+  },
+  {
+    "timestamp": "20150702101644",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-114x114.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8807"
+  },
+  {
+    "timestamp": "20150702101549",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-120x120.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8899"
+  },
+  {
+    "timestamp": "20150702101619",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-144x144.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "10001"
+  },
+  {
+    "timestamp": "20150702101721",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-152x152.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "12683"
+  },
+  {
+    "timestamp": "20150702101540",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-57x57.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "3654"
+  },
+  {
+    "timestamp": "20150702101636",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-72x72.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "4554"
+  },
+  {
+    "timestamp": "20150702101632",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon-76x76.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "5157"
+  },
+  {
+    "timestamp": "20150702101730",
+    "original": "http://twincitiesstartupweek.com/apple-touch-icon.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "3648"
+  },
+  {
+    "timestamp": "20150430162643",
+    "original": "http://twincitiesstartupweek.com/favicon.ico",
+    "statuscode": "200",
+    "mimetype": "image/x-icon",
+    "length": "7100"
+  },
+  {
+    "timestamp": "20150430162639",
+    "original": "http://twincitiesstartupweek.com/fonts/icomoon.eot",
+    "statuscode": "200",
+    "mimetype": "application/vnd.ms-fontobject",
+    "length": "2324"
+  },
+  {
+    "timestamp": "20150825061051",
+    "original": "http://twincitiesstartupweek.com/fonts/icomoon.eot?-tvd92w",
+    "statuscode": "200",
+    "mimetype": "application/vnd.ms-fontobject",
+    "length": "2319"
+  },
+  {
+    "timestamp": "20150825074925",
+    "original": "http://twincitiesstartupweek.com/fonts/icomoon.svg?-tvd92w",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml",
+    "length": "2677"
+  },
+  {
+    "timestamp": "20150825084933",
+    "original": "http://twincitiesstartupweek.com/fonts/icomoon.ttf?-tvd92w",
+    "statuscode": "200",
+    "mimetype": "application/x-font-ttf",
+    "length": "2262"
+  },
+  {
+    "timestamp": "20150825091621",
+    "original": "http://twincitiesstartupweek.com/fonts/icomoon.woff?-tvd92w",
+    "statuscode": "200",
+    "mimetype": "application/font-woff",
+    "length": "1945"
+  },
+  {
+    "timestamp": "20150430162639",
+    "original": "http://twincitiesstartupweek.com/images/bg-skyline-bw.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "399950"
+  },
+  {
+    "timestamp": "20150430162639",
+    "original": "http://twincitiesstartupweek.com/images/footer.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "19764"
+  },
+  {
+    "timestamp": "20150430162639",
+    "original": "http://twincitiesstartupweek.com/images/hero.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "585901"
+  },
+  {
+    "timestamp": "20150825073640",
+    "original": "http://twincitiesstartupweek.com/images/hero@2x.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "2160784"
+  },
+  {
+    "timestamp": "20151220162933",
+    "original": "http://twincitiesstartupweek.com/images/logo-coco.svg",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml",
+    "length": "7178"
+  },
+  {
+    "timestamp": "20151220163637",
+    "original": "http://twincitiesstartupweek.com/images/logo-fred-byron.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "423660"
+  },
+  {
+    "timestamp": "20151220163121",
+    "original": "http://twincitiesstartupweek.com/images/logo-gmsp.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "51512"
+  },
+  {
+    "timestamp": "20151220192829",
+    "original": "http://twincitiesstartupweek.com/images/logo-holmes-center.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "26551"
+  },
+  {
+    "timestamp": "20151220192856",
+    "original": "http://twincitiesstartupweek.com/images/logo-merill-lynch.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "30768"
+  },
+  {
+    "timestamp": "20151220162736",
+    "original": "http://twincitiesstartupweek.com/images/logo-minne-star.svg",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml",
+    "length": "1377"
+  },
+  {
+    "timestamp": "20151220192821",
+    "original": "http://twincitiesstartupweek.com/images/logo-mn-cup.svg",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml",
+    "length": "3096"
+  },
+  {
+    "timestamp": "20151220162635",
+    "original": "http://twincitiesstartupweek.com/images/logo-press-friendly.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "26835"
+  },
+  {
+    "timestamp": "20151220163540",
+    "original": "http://twincitiesstartupweek.com/images/logo-social-lights.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "124819"
+  },
+  {
+    "timestamp": "20151220163446",
+    "original": "http://twincitiesstartupweek.com/images/logo-techdotmn.svg",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml",
+    "length": "2610"
+  },
+  {
+    "timestamp": "20151220192903",
+    "original": "http://twincitiesstartupweek.com/images/logo-umn.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "36098"
+  },
+  {
+    "timestamp": "20150706114727",
+    "original": "http://twincitiesstartupweek.com:80/index.html",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "3697"
+  },
+  {
+    "timestamp": "20150208213901",
+    "original": "http://twincitiesstartupweek.com/robots.txt",
+    "statuscode": "200",
+    "mimetype": "text/plain",
+    "length": "510"
+  },
+  {
+    "timestamp": "20151220163442",
+    "original": "http://twincitiesstartupweek.com/scripts/carousel.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "4030"
+  },
+  {
+    "timestamp": "20151220163622",
+    "original": "http://twincitiesstartupweek.com/scripts/instafeed.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "3229"
+  },
+  {
+    "timestamp": "20150430162638",
+    "original": "http://twincitiesstartupweek.com/scripts/main.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "5021"
+  },
+  {
+    "timestamp": "20150430162638",
+    "original": "http://twincitiesstartupweek.com/scripts/vendor.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "34046"
+  },
+  {
+    "timestamp": "20150430162638",
+    "original": "http://twincitiesstartupweek.com/scripts/vendor/modernizr.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "4933"
+  },
+  {
+    "timestamp": "20150702101624",
+    "original": "http://twincitiesstartupweek.com/styles/main-v2.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "4596"
+  },
+  {
+    "timestamp": "20151220162849",
+    "original": "http://twincitiesstartupweek.com/styles/main-v3.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "5016"
+  },
+  {
+    "timestamp": "20150430162638",
+    "original": "http://twincitiesstartupweek.com/styles/main.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "4756"
+  },
+  {
+    "timestamp": "20150703033617",
+    "original": "http://twincitiesstartupweek.com:80/submit-event.html",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "2874"
+  }
+]
