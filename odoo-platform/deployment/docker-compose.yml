@@ -2,8 +2,7 @@ version: '3.8'
 
 services:
   odoo:
-    image: everjust/odoo:latest
-    build: ./odoo
+    image: odoo:17
     depends_on:
       - db
       - redis
@@ -23,8 +22,6 @@ services:
       - AWS_REGION=${AWS_REGION}
       - S3_BUCKET=${S3_BUCKET}
     volumes:
-      - ./odoo/odoo:/opt/odoo
-      - ./custom-modules:/opt/odoo/addons/custom
       - odoo-data:/var/lib/odoo
       - /mnt/ebs/filestore:/var/lib/odoo/filestore
     restart: unless-stopped
