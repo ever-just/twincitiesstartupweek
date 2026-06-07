@@ -21,6 +21,7 @@ services:
       - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
       - AWS_REGION=${AWS_REGION}
       - S3_BUCKET=${S3_BUCKET}
+      - ODOO_ADMIN_PASSWD=admin
     volumes:
       - odoo-data:/var/lib/odoo
       - /mnt/ebs/filestore:/var/lib/odoo/filestore
