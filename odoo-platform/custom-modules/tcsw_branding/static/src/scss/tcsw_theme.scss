@@ -1,0 +1,125 @@
+// ============================================================
+// TCSW Backend Theme — Twin Cities Startup Week
+// Primary: #E8452C (TCSW Orange-Red)
+// Dark:    #1A1A2E (Deep Navy)
+// Accent:  #F5A623 (Warm Gold)
+// ============================================================
+
+// Override Odoo primary brand color
+$o-brand-primary: #E8452C;
+$o-brand-secondary: #1A1A2E;
+
+:root {
+    --tcsw-primary: #E8452C;
+    --tcsw-dark: #1A1A2E;
+    --tcsw-gold: #F5A623;
+    --tcsw-light: #F8F8F8;
+}
+
+// ---- Top navigation bar ----
+.o_main_navbar {
+    background-color: #1A1A2E !important;
+    border-bottom: 3px solid #E8452C !important;
+
+    .o_menu_brand {
+        color: #FFFFFF !important;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: 0.5px;
+
+        &::before {
+            content: "TCSW";
+            font-weight: 900;
+            color: #E8452C;
+            margin-right: 4px;
+        }
+    }
+
+    .o_nav_entry,
+    .o_menu_sections > .o_nav_entry > a,
+    .o_menu_sections .o_nav_entry a {
+        color: #FFFFFF !important;
+
+        &:hover {
+            background-color: rgba(232, 69, 44, 0.2) !important;
+            color: #F5A623 !important;
+        }
+    }
+
+    // Active menu item
+    .o_nav_entry.active > a,
+    .o_menu_sections .show > a {
+        background-color: #E8452C !important;
+        color: #FFFFFF !important;
+    }
+
+    .o_user_menu .o_user_menu_avatar {
+        border: 2px solid #E8452C !important;
+    }
+}
+
+// ---- Primary buttons ----
+.btn-primary {
+    background-color: #E8452C !important;
+    border-color: #E8452C !important;
+    color: #FFFFFF !important;
+
+    &:hover, &:focus, &:active {
+        background-color: #C93520 !important;
+        border-color: #C93520 !important;
+    }
+}
+
+// ---- Kanban / status colors ----
+.o_kanban_view .o_kanban_quick_add:hover {
+    color: #E8452C !important;
+}
+
+// ---- Links ----
+a {
+    color: #E8452C;
+    &:hover { color: #C93520; }
+}
+
+// ---- Sidebar (apps menu) ----
+.o_home_menu {
+    background: linear-gradient(135deg, #1A1A2E 0%, #2D2D4E 100%) !important;
+
+    .o_app .o_caption {
+        color: #FFFFFF !important;
+    }
+}
+
+// ---- Chatter / form highlights ----
+.o_form_view .o_statusbar_status button.btn-primary,
+.o_statusbar_status .o_arrow_button.btn-primary {
+    background-color: #E8452C !important;
+    border-color: #C93520 !important;
+}
+
+// ---- Remove "Powered by Odoo" / any Odoo footer text ----
+.o_main_navbar .o_menu_brand img,
+.o_web_client .o_powered_by_odoo,
+footer.o_footer_copyright,
+.o_frontend_to_backend_btn,
+[title*="Odoo"],
+.o_odoo_pg {
+    display: none !important;
+}
+
+// ---- Page titles ----
+.o_control_panel .breadcrumb-item.active,
+.o_control_panel .o_breadcrumb .active {
+    color: #1A1A2E;
+    font-weight: 600;
+}
+
+// ---- Stats / dashboard highlight cards ----
+.o_stat_info .o_field_widget {
+    color: #E8452C;
+}
+
+// ---- Activity markers ----
+.o_activity_summary .o_activity_today {
+    color: #E8452C !important;
+}

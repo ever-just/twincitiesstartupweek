@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Update default company with TCSW branding -->
+    <record id="base.main_company" model="res.company">
+        <field name="name">Twin Cities Startup Week</field>
+        <field name="email">company@everjust.org</field>
+        <field name="website">https://tcsw.everjust.app</field>
+        <field name="phone">+1 (612) 555-0100</field>
+        <field name="city">Minneapolis</field>
+        <field name="zip">55401</field>
+        <field name="country_id" ref="base.us"/>
+        <field name="state_id" ref="base.state_us_24"/>
+    </record>
+
+    <!-- Remove Odoo from app title -->
+    <record id="base.res_users_action_my" model="ir.actions.act_window">
+        <field name="name">My Profile</field>
+    </record>
+
+    <!-- System parameters for clean branding -->
+    <record id="web.action_website" model="ir.actions.act_url" forcecreate="0">
+    </record>
+</odoo>

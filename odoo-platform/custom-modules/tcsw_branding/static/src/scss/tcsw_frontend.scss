@@ -1,0 +1,61 @@
+// ============================================================
+// TCSW Frontend (Website / Event Pages)
+// ============================================================
+
+// Override website primary colors
+:root {
+    --bs-primary: #E8452C;
+    --bs-primary-rgb: 232, 69, 44;
+    --bs-link-color: #E8452C;
+    --bs-link-hover-color: #C93520;
+}
+
+// Navbar
+.o_main_navbar,
+nav.navbar,
+#oe_main_menu_navbar {
+    background-color: #1A1A2E !important;
+    border-bottom: 3px solid #E8452C !important;
+}
+
+// Hide "Powered by Odoo" in website footer
+.o_footer_copyright,
+.o_powered_by_odoo,
+.o_website_info,
+[href*="odoo.com"],
+a[href*="www.odoo.com"],
+span:has(a[href*="odoo.com"]),
+.o_footer_copyright_name {
+    display: none !important;
+}
+
+// Website buttons
+.btn-primary,
+.btn-fill {
+    background-color: #E8452C !important;
+    border-color: #E8452C !important;
+
+    &:hover {
+        background-color: #C93520 !important;
+        border-color: #C93520 !important;
+    }
+}
+
+// Event page headers
+.o_wevent_event_header,
+.o_wevent_index_main_row {
+    background: linear-gradient(135deg, #1A1A2E 0%, #2D2D4E 100%) !important;
+    color: #FFFFFF !important;
+}
+
+// Event tags/badges
+.badge-primary,
+.o_tag_color_0 {
+    background-color: #E8452C !important;
+}
+
+// Links
+a:not(.btn):not(.nav-link) {
+    color: #E8452C;
+    &:hover { color: #C93520; }
+}
