@@ -42,3 +42,6 @@ odoo-platform/odoo/.eslintcache
 odoo-platform/odoo/*.log
 odoo-platform/odoo/filestore/
 odoo-platform/odoo/sessions/
+odoo-platform/deployment/odoo-tcsw-key.pem
+INFRASTRUCTURE/odoo/
+INFRASTRUCTURE/odoo/

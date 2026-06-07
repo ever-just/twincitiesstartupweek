@@ -1,182 +1,135 @@
-# Twin Cities Startup Week — Research Intelligence Repository
+# Twin Cities Startup Week — Operating Repository
 
-> Comprehensive OSINT research archive covering **Twin Cities Startup Week (TCSW) 2014–2026** — Minnesota's largest startup festival, run by [The Beta Group (BETA)](https://beta.mn), a 501(c)(3) nonprofit.
+TCSW 2026 · September 14–18 · Minneapolis + St. Paul
+
+This repository is the central workspace for the **SMS x BETA partnership** producing Twin Cities Startup Week 2026. It holds historical research on TCSW, active planning and strategy, and the event management platform running at **[tcsw.everjust.app](https://tcsw.everjust.app)**.
 
 ---
 
-## At a Glance
+## What's here
 
-| Metric | Detail |
+```
+BACKGROUND/       Historical research on TCSW (2014-2026)
+PLANNING/         Live strategy and operating documents for 2026
+INFRASTRUCTURE/   Event management platform (tcsw.everjust.app)
+```
+
+---
+
+## BACKGROUND
+
+Comprehensive OSINT research on TCSW: sponsors, speakers, sessions, media, financials, and twelve years of history.
+
+```
+BACKGROUND/
+├── analysis/         Strategic analysis, master findings, event operations research
+├── history/          Year-by-year summaries and Wayback snapshots (2014-2025)
+├── sponsors/         Sponsor database (CSV + MD), logos, multi-year history, 2026 targets
+├── people/           Speaker database (600+), contacts, organization roster
+├── sessions/         Session records by year (CSV + JSON, 2018-2025)
+├── investors/        VC firms, MN Cup history, featured startups
+├── media/            Press coverage by year, publication, and topic
+├── quantitative/     Attendance data, financials, PDFs (2015-2021 recap reports)
+├── official-site/    Scraped official website content and assets
+└── raw/              Source HTML, JSON, Wayback archives, photos
+```
+
+**Key files:**
+
+| File | What it is |
 |---|---|
-| **Years Covered** | 2014–2026 (12 completed editions) |
-| **Peak Attendance** | ~17,000–19,000 (2019–2021) |
-| **Sponsors Catalogued** | 80+ companies across all tiers and years |
-| **Speakers Documented** | 80+ entries (CSV database) |
-| **Media Articles Collected** | 50+ articles across 8 publications |
-| **Data Sources** | sched.com, Wayback Machine, TCB Magazine, official site, BETA.MN |
-| **2026 Event Dates** | September 14–18, Minneapolis + St. Paul |
+| `BACKGROUND/analysis/master-findings-report.md` | Full OSINT findings — the single best summary of TCSW history |
+| `BACKGROUND/analysis/strategic-analysis.md` | SWOT, competitive landscape, opportunity framing |
+| `BACKGROUND/sponsors/sponsors-database.csv` | All known sponsors, tiers, and years of involvement |
+| `BACKGROUND/sponsors/TCSW_Sponsors_Master.pdf` | Full sponsor master document |
+| `BACKGROUND/people/speakers-database.csv` | 600+ speakers across all years |
+| `BACKGROUND/sessions/all-sessions.csv` | Every session from 2018-2025 |
 
----
+**TCSW at a glance:**
 
-## Repo Structure
-
-```
-twincitiesstartupweek/
-│
-├── data/                          ← Structured, clean research data
-│   ├── sessions/                  ← Session CSVs by year (2018–2025) + all-sessions
-│   ├── speakers/                  ← speakers-database.csv (80+ entries)
-│   ├── sponsors/                  ← Sponsor DB (CSV + MD), 2026 targets, Fortune 500 deep-dive
-│   │   └── logos/                 ← Sponsor + TCSW brand logos (SVG, PNG)
-│   ├── investors/                 ← VC firms, featured startups, MN Cup history
-│   │   ├── vc-firms/
-│   │   ├── startups/
-│   │   └── mn-cup/
-│   ├── media/                     ← 50+ media articles organized three ways
-│   │   ├── by-year/               ← Coverage per event year
-│   │   ├── by-publication/        ← TCB Magazine, Star Tribune, Medium
-│   │   └── by-topic/              ← Corporate sponsorship, growth history
-│   ├── history/                   ← Year summaries (2015–2025) + complete timeline
-│   ├── people-and-orgs/           ← Contacts CSV, orgs database, YouTube index
-│   ├── social/                    ← Social handles, hashtags, platform intelligence
-│   └── official-site/             ← Scraped 2026 site notes + BETA/TCSW brand assets
-│
-├── raw/                           ← All source files as-scraped (read-only reference)
-│   ├── sched/                     ← sched.com HTML, JSON, XML, ICS per year
-│   ├── wayback/                   ← Wayback Machine CDX + homepage snapshots
-│   ├── media/                     ← TCB, Start Midwest, BETA.MN, MN Cup HTML/JSON
-│   └── photos/                    ← YouTube thumbnails + Wayback archive images
-│
-├── analysis/
-│   └── strategic-analysis.md      ← SWOT, sponsorship strategy, 2026 priorities
-│
-├── findings/
-│   └── master-findings-report.md  ← Executive summary of all research
-│
-├── event-ops/
-│   └── event-operations-research.md ← How TCSW is operationally run
-│
-├── scripts/                       ← Python scrapers that built this dataset
-│   ├── scraper.py                 ← Main entry point
-│   ├── requirements.txt
-│   └── README.md                  ← How to run each scraper
-│
-└── docs/                          ← Research methodology, planning, logs
-    ├── research-log.md            ← Source tracking + error log
-    └── [planning docs]            ← OSINT guide, AI prompts, execution plan
-```
-
----
-
-## Quick Navigation
-
-| What you need | File |
+| Item | Detail |
 |---|---|
-| Executive summary of all findings | [`findings/master-findings-report.md`](findings/master-findings-report.md) |
-| Year-by-year history 2014–2026 | [`data/history/complete-timeline.md`](data/history/complete-timeline.md) |
-| Sponsor database | [`data/sponsors/sponsors-database.md`](data/sponsors/sponsors-database.md) |
-| Sponsor database (CSV) | [`data/sponsors/sponsors-database.csv`](data/sponsors/sponsors-database.csv) |
-| 2026 sponsor targets | [`data/sponsors/2026-sponsors.md`](data/sponsors/2026-sponsors.md) |
-| Fortune 500 sponsors deep-dive | [`data/sponsors/fortune500-2019.md`](data/sponsors/fortune500-2019.md) |
-| Speaker database (CSV) | [`data/speakers/speakers-database.csv`](data/speakers/speakers-database.csv) |
-| All sessions combined (CSV) | [`data/sessions/all-sessions.csv`](data/sessions/all-sessions.csv) |
-| All media coverage | [`data/media/media-coverage-database.md`](data/media/media-coverage-database.md) |
-| MN VC firms + investors | [`data/investors/vc-firms/mn-vc-firms.md`](data/investors/vc-firms/mn-vc-firms.md) |
-| MN Cup winners history | [`data/investors/mn-cup/mn-cup-history.md`](data/investors/mn-cup/mn-cup-history.md) |
-| SWOT + strategic analysis | [`analysis/strategic-analysis.md`](analysis/strategic-analysis.md) |
-| Event operations deep-dive | [`event-ops/event-operations-research.md`](event-ops/event-operations-research.md) |
-| Research methodology log | [`docs/research-log.md`](docs/research-log.md) |
+| Founded | 2014 |
+| Operator | The Beta Group (BETA) — 501(c)(3) |
+| Peak attendance | ~17,000-19,000 (2019-2020) |
+| 2025 attendance | 1,000+ (leaner format) |
+| 2026 dates | September 14-18 |
+| Format | Unconference — community-driven programming |
+| Website | tcstartupweek.com |
 
 ---
 
-## Key Findings
+## PLANNING
 
-### About TCSW
-
-- **Founded:** 2014 by The Beta Group (BETA), a Minneapolis-based 501(c)(3)
-- **Operator:** [beta.mn](https://beta.mn) — also manages tech.mn and MN startup community programs
-- **Format:** Unconference — community-submitted sessions; low production cost, high authenticity
-- **Contact:** [Angela.Eifert@BETA.MN](mailto:Angela.Eifert@BETA.MN) (Executive Director)
-
-### Growth Arc
+Live operating documents for TCSW 2026. SMS is the proposed end-to-end production and community experience partner.
 
 ```
-2014  →  ~few thousand attendees, 15 events (tech-only)
-2018  →  12,000+, 200+ events (first major expansion)
-2019  →  17,000+, Fortune 500 title sponsors (Target, Cargill, 3M)
-2020  →  ~19,000 VIRTUAL (COVID, 3-week format on Hopin)
-2021  →  ~17,000, hybrid return
-2023  →  Full in-person; Luminary Arts Center; Optum Cup naming rights
-2025  →  1,000+ (intentionally leaner; co-hosted with Communiful)
-2026  →  September 14–18; 6 campuses; themed days (AI, Investor, Give Back)
+PLANNING/
+├── thesis/           Core argument: why SMS, why now, what we're building
+├── stakeholders/     SMS team profiles, BETA contacts
+├── operating-model/  BETA-SMS partnership structure, roles, decision rights
+├── venues/           Venue pipeline and location architecture
+├── funding/          Budget model, sponsor pipeline, funding strategy, offer menu
+├── meetings/         Board-chair prep, Angela/Linda sessions, operating cadence
+└── deliverables/     Decision briefs and proposals for BETA
 ```
 
-### Sponsor Landscape
+**Start here:**
 
-- **Fortune 500:** Target, Cargill, 3M, Microsoft, AWS, Walmart, Ecolab, Mayo Clinic
-- **Financial/VC:** Optum (UnitedHealth), Mairs & Power, US Bank
-- **MN VCs:** Groove Capital, Great North Ventures, Matchstick Ventures, Bread & Butter, M25
-- **Ecosystem:** DEED, Launch Minnesota, MN Cup (U of MN), Minnestar, Communiful, gener8tor, Techstars
+| File | What it is |
+|---|---|
+| `PLANNING/thesis/current-discovery-synthesis.md` | Core frame: the integrated challenge and SMS's answer |
+| `PLANNING/deliverables/angela-linda-decision-brief.md` | Decision brief for BETA — what SMS is asking for |
+| `PLANNING/deliverables/sms-beta-end-to-end-proposal.md` | Full production partnership proposal |
+| `PLANNING/deliverables/sms-team-operating-brief.md` | SMS team structure and operating commitments |
+| `PLANNING/meetings/2026-06-08-board-chair-meeting-prep.md` | June 8 board meeting prep |
+| `PLANNING/funding/sponsor-pipeline.md` | Current sponsor pipeline and prioritization |
+| `PLANNING/venues/venue-pipeline.md` | Venue candidates and location logic |
 
-### Signature Events
+**Working thesis:**
 
-- **MN Cup Grand Finale** — $400K+ startup competition anchor event
-- **Minnedemo** — rapid-fire product demos; fan favorite
-- **BETA Showcase** — science-fair format for startups
-- **Innovation Crawl** — walking tour of innovative Twin Cities companies
-- **BITCon** — Blacks in Technology conference (co-located)
-- **Food | Ag Ideas Week** — AgTech track (co-located)
-- **MANOVA Summit** — Health innovation (co-located)
+> SMS proposes to serve as the end-to-end production and community experience partner for TCSW 2026. BETA holds institutional legitimacy and stewards sponsor relationships. SMS carries the production layer: venues, programming, brand, marketing, registration, sponsor experience, and attendee journey.
 
 ---
 
-## Data Completeness
+## INFRASTRUCTURE
 
-| Category | Completeness | Known Gaps |
+The event management platform at **[tcsw.everjust.app](https://tcsw.everjust.app)**.
+
+Self-hosted on AWS EC2 via Docker Compose. Manages CRM, contacts, event registration, project ops, sponsor pipeline, and email marketing — all under TCSW branding.
+
+```
+INFRASTRUCTURE/
+├── custom-modules/
+│   ├── tcsw_branding/     TCSW theme, colors, login page
+│   └── tcsw_events/       Custom event types, sponsor tiers, CRM pipeline
+├── deployment/
+│   ├── docker-compose.yml
+│   ├── .env.example
+│   └── scripts/backup.sh
+└── README.md              Platform setup, deployment, and module docs
+```
+
+**Platform status:**
+
+| What | Detail |
+|---|---|
+| URL | https://tcsw.everjust.app |
+| Login | company@everjust.org |
+| Server | AWS EC2 (us-east-1) |
+| Organizations loaded | 68 |
+| Speakers loaded | 600 |
+| Sponsor pipeline opps | 67 |
+| Events configured | 8 |
+
+See `INFRASTRUCTURE/README.md` for deployment and module documentation.
+
+---
+
+## Who built what
+
+| Contributor | Role | Area |
 |---|---|---|
-| Historical Timeline | 90% | 2022, 2024 sparse |
-| Sponsors | 85% | 2015–2016 missing |
-| Speakers | ~80% (2023/2025), ~40% (pre-2022) | Pre-2022 sparse |
-| Media Coverage | 85% | 2015–2017 missing |
-| Investors / VCs | 90% | — |
-| Featured Startups | 75% | 2025 BETA cohort names not public |
-| Analysis + Findings | 100% | Complete |
-
----
-
-## Running the Scrapers
-
-```bash
-pip install -r scripts/requirements.txt
-
-python scripts/scraper.py                        # run all sources
-python scripts/scraper.py --source sched         # sched.com sessions (all years)
-python scripts/scraper.py --source wayback       # Wayback Machine CDX
-python scripts/scraper.py --source tcb           # TCB Magazine articles
-python scripts/scraper.py --source official      # tcstartupweek.com (2026)
-python scripts/scraper.py --source mncup         # MN Cup winners
-python scripts/scraper.py --dry-run              # preview without writing files
-```
-
-> sched.com pages are JS-rendered — the scraper uses the static HTML fallback. BizJournals and Medium block programmatic access and must be read manually.
-
-See [`scripts/README.md`](scripts/README.md) for the full source-to-output mapping.
-
----
-
-## Methodology
-
-Data was collected via:
-
-1. **sched.com archives** — session/speaker data for 2018 and 2023 (most complete years)
-2. **Wayback Machine CDX API** — historical homepage snapshots for 2015–2017, 2022, 2024
-3. **Public web scraping** — TCB Magazine, Start Midwest, beta.mn, official TCSW site
-4. **Manual OSINT** — LinkedIn, Medium, Google, social media; cross-referenced across sources
-5. **YouTube data** — Video archive for speaker/session intelligence
-
-Research completed June 2026. Source URLs and access status logged in [`findings/master-findings-report.md`](findings/master-findings-report.md).
-
----
-
-**TCSW 2026:** September 14–18 — Minneapolis + St. Paul, six campuses.
-*Event inquiries: [Angela.Eifert@BETA.MN](mailto:Angela.Eifert@BETA.MN)*
+| **Weldon** | COO / Research | `BACKGROUND/` — OSINT research, sponsor intelligence, data collection |
+| **Liban** | Executive Producer | `PLANNING/` — strategy, proposals, operating OS |
+| **everjust.app team** | Infrastructure | `INFRASTRUCTURE/` — platform setup, branding, data import |
