@@ -10,11 +10,11 @@ services:
       - "8069:8069"
       - "8072:8072"
     environment:
-      - HOST=db
-      - PORT=5432
-      - USER=odoo
-      - PASSWORD=odoo
-      - DB_NAME=tcsw_main
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - POSTGRES_USER=odoo
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_DB=tcsw_main
       - REDIS_HOST=redis
       - REDIS_PORT=6379
       - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
