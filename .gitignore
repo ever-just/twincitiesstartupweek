@@ -44,4 +44,5 @@ odoo-platform/odoo/filestore/
 odoo-platform/odoo/sessions/
 odoo-platform/deployment/odoo-tcsw-key.pem
 INFRASTRUCTURE/odoo/
-INFRASTRUCTURE/odoo/
+INFRASTRUCTURE/deployment/odoo-tcsw-key.pem
+*.pem

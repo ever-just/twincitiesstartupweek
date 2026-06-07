@@ -1,59 +1,39 @@
-# INFRASTRUCTURE — everjust.app
+# INFRASTRUCTURE — Platform Access
 
-The operational platform for TCSW 2026, running at **[tcsw.everjust.app](https://tcsw.everjust.app)**.
-
-This is the event management system: CRM, contacts, sponsor pipeline, event registration, project ops, and email marketing — all under TCSW branding.
-
-## Platform
-
-Self-hosted on AWS EC2 via Docker Compose. Access at `https://tcsw.everjust.app`.
+TCSW's operational system runs on **EVERJUST.APP**, a managed multi-tenant SaaS platform. TCSW is a tenant on that platform — it is **no longer self-hosted from this repo**.
 
 | What | Detail |
 |---|---|
-| **URL** | https://tcsw.everjust.app |
-| **Login** | company@everjust.org |
-| **Modules active** | Events, CRM, Project, Email Marketing, Website |
-| **Data loaded** | 68 orgs, 600 speakers, 8 events, 67 CRM opps |
+| **Workspace** | https://tcsw.everjust.app |
+| **Platform** | EVERJUST.APP (managed SaaS) |
+| **Capabilities** | CRM, contacts, sponsor pipeline, event registration, project ops, email marketing |
+| **Hosting** | Managed by the platform — no servers to run from this repo |
+
+## What changed
+
+Previously this folder held a full self-hosted Odoo stack (1.3 GB of source, Docker Compose, custom modules, a server key). That setup is **retired**. The platform — branding, theming, multi-tenancy, billing, provisioning, and deployment — now lives in its own repository and is operated as a service.
+
+- **Platform code:** [`ever-just/ww.everjust.app`](https://github.com/ever-just/ww.everjust.app)
+- **This folder:** thin access layer only — how TCSW connects to and manages its workspace.
+
+## Access
+
+`PLATFORM_ACCESS.md` documents how to reach the TCSW workspace and manage it programmatically. Credentials are **not stored in this repo** — they live in the team password manager.
+
+### Interactive
+Open https://tcsw.everjust.app and sign in with the TCSW admin account.
+
+### Programmatic (MCP / API)
+The workspace exposes a standard XML-RPC API for automation and AI-agent access. See `PLATFORM_ACCESS.md` for the connection pattern (endpoints, auth, and example calls). This is how Cascade and other tooling read/write CRM, contacts, and event data without touching any server.
 
 ## Structure
 
 ```
 INFRASTRUCTURE/
-├── custom-modules/
-│   ├── tcsw_branding/     # TCSW theme, colors, login page (removes default branding)
-│   └── tcsw_events/       # Custom event types, sponsor tiers, CRM pipeline
-├── deployment/
-│   ├── docker-compose.yml # Full stack: app + database + proxy
-│   ├── .env.example       # Environment variable template
-│   └── scripts/
-│       └── backup.sh      # Automated database backup
-└── README.md
+├── README.md             # This file
+└── PLATFORM_ACCESS.md    # Workspace endpoints + API/MCP access pattern
 ```
 
-## Deployment
+## Server key
 
-```bash
-# SSH to server
-ssh -i deployment/odoo-tcsw-key.pem ubuntu@52.91.38.110
-
-# Restart platform
-cd ~/twincitiesstartupweek/INFRASTRUCTURE/deployment
-docker compose restart
-
-# View logs
-docker compose logs -f
-```
-
-## Custom Modules
-
-### tcsw_branding
-Removes default platform branding and applies TCSW identity: primary `#E8452C`, dark `#1A1A2E`, accent `#F5A623`. Covers backend, login page, and frontend event pages.
-
-### tcsw_events
-Extends the Events and CRM modules for startup week: multi-day event types, sponsor tier tracking, session/speaker relationships, and volunteer roles.
-
-## Adding New Modules
-
-1. Create module folder in `custom-modules/`
-2. Required files: `__manifest__.py`, `__init__.py`, `models/`, `views/`, `security/`
-3. Restart the platform — module will appear in Apps
+The SSH key for the underlying platform host is retained locally for break-glass admin only and is **git-ignored** (never committed). Day-to-day work needs no SSH — use the workspace UI or the API.

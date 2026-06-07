@@ -1,5 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_tcsw_event_event_user,tcsw.event.event.user,model_event_event,base.group_user,1,1,1,0
-access_tcsw_event_registration_user,tcsw.event.registration.user,model_event_registration,base.group_user,1,1,1,0
-access_tcsw_crm_lead_user,tcsw.crm.lead.user,model_crm_lead,base.group_user,1,1,1,0
-access_tcsw_res_partner_user,tcsw.res.partner.user,model_res_partner,base.group_user,1,1,1,0
