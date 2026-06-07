@@ -65,26 +65,27 @@ Live operating documents for TCSW 2026. SMS is the proposed end-to-end productio
 
 ```
 PLANNING/
-├── thesis/           Core argument: why SMS, why now, what we're building
-├── stakeholders/     SMS team profiles, BETA contacts
-├── operating-model/  BETA-SMS partnership structure, roles, decision rights
-├── venues/           Venue pipeline and location architecture
-├── funding/          Budget model, sponsor pipeline, funding strategy, offer menu
-├── meetings/         Board-chair prep, Angela/Linda sessions, operating cadence
-└── deliverables/     Decision briefs and proposals for BETA
+└── 01-runtime-os/              Liban's live operating system for TCSW 2026
+    ├── 01-thesis/              Core argument: why SMS, why now, what we're building
+    ├── 02-stakeholders/        SMS team profiles, BETA contacts
+    ├── 03-operating-model/     BETA-SMS partnership structure, roles, decision rights
+    ├── 05-venues/              Venue pipeline and location architecture
+    ├── 06-funding/             Budget model, sponsor pipeline, funding strategy, offer menu
+    ├── 09-meetings/            Board-chair prep, Angela/Linda sessions, operating cadence
+    └── 11-deliverables/        Decision briefs and proposals for BETA
 ```
 
 **Start here:**
 
 | File | What it is |
 |---|---|
-| `PLANNING/thesis/current-discovery-synthesis.md` | Core frame: the integrated challenge and SMS's answer |
-| `PLANNING/deliverables/angela-linda-decision-brief.md` | Decision brief for BETA — what SMS is asking for |
-| `PLANNING/deliverables/sms-beta-end-to-end-proposal.md` | Full production partnership proposal |
-| `PLANNING/deliverables/sms-team-operating-brief.md` | SMS team structure and operating commitments |
-| `PLANNING/meetings/2026-06-08-board-chair-meeting-prep.md` | June 8 board meeting prep |
-| `PLANNING/funding/sponsor-pipeline.md` | Current sponsor pipeline and prioritization |
-| `PLANNING/venues/venue-pipeline.md` | Venue candidates and location logic |
+| `PLANNING/01-runtime-os/01-thesis/current-discovery-synthesis.md` | Core frame: the integrated challenge and SMS's answer |
+| `PLANNING/01-runtime-os/11-deliverables/angela-linda-decision-brief.md` | Decision brief for BETA — what SMS is asking for |
+| `PLANNING/01-runtime-os/11-deliverables/sms-beta-end-to-end-proposal.md` | Full production partnership proposal |
+| `PLANNING/01-runtime-os/11-deliverables/sms-team-operating-brief.md` | SMS team structure and operating commitments |
+| `PLANNING/01-runtime-os/09-meetings/2026-06-08-board-chair-meeting-prep.md` | June 8 board meeting prep |
+| `PLANNING/01-runtime-os/06-funding/sponsor-pipeline.md` | Current sponsor pipeline and prioritization |
+| `PLANNING/01-runtime-os/05-venues/venue-pipeline.md` | Venue candidates and location logic |
 
 **Working thesis:**
 
