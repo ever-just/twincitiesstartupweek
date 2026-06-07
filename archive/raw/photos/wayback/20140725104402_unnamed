@@ -1,0 +1,601 @@
+<!doctype html>
+<html class="no-js">
+    <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://twincitiesstartupweek.com:80/","20140725104402","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1406285042");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+        <meta charset="utf-8">
+
+        <title>Twin Cities Startup Week</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="/web/20140725104402cs_/http://twincitiesstartupweek.com/styles/vendor.css">
+
+        <link href="https://web.archive.org/web/20140725104402cs_/http://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet" type="text/css">
+
+        <link rel="stylesheet" href="/web/20140725104402cs_/http://twincitiesstartupweek.com/styles/main.css">
+
+        <link rel="shortcut icon" href="/web/20140725104402im_/http://twincitiesstartupweek.com/favicon.ico" type="image/x-icon"/>
+        <link rel="apple-touch-icon" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon.png"/>
+        <link rel="apple-touch-icon" sizes="57x57" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-57x57.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-72x72.png"/>
+        <link rel="apple-touch-icon" sizes="76x76" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-76x76.png"/>
+        <link rel="apple-touch-icon" sizes="114x114" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-114x114.png"/>
+        <link rel="apple-touch-icon" sizes="120x120" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-120x120.png"/>
+        <link rel="apple-touch-icon" sizes="144x144" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-144x144.png"/>
+        <link rel="apple-touch-icon" sizes="152x152" href="/web/20140725104402im_/http://twincitiesstartupweek.com/apple-touch-icon-152x152.png"/>
+
+        <script src="/web/20140725104402js_/http://twincitiesstartupweek.com/scripts/vendor/modernizr.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 10]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div id="header" class="section">
+          <div class="header-logo"><image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-tcsw.svg"/></div>
+          <button class="nav-toggle"></button>
+          <nav>
+            <ul>
+              <li><a class="nav-link" href="#schedule">Schedule</a></li>
+              <li><a class="nav-link" href="#submit-event">Submit An Event</a></li>
+              <li><a class="nav-link" href="#partners">Our Partners</a></li>
+              <li class="social-links">
+                <a title="Our twitter feed" href="https://web.archive.org/web/20140725104402/https://twitter.com/tcstartupweek"><i class="icon-twitter"></i></a>
+                <a title="Out instagram feed" href="https://web.archive.org/web/20140725104402/http://instagram.com/tcstartupweek"><i class="icon-instagram"></i></a>
+                <a title="Send us an email" href="https://web.archive.org/web/20140725104402/mailto:info@twincitiesstartupweek.com"><i class="icon-mail"></i></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div id="hero" class="section">
+          <div class="hero-image"></div>
+          <h1>A whole week showcasing the <strong>Twin Cities'<br> startup community</strong> September 9-14</h1>
+
+          <!-- MailChimp Signup Form -->
+          <form action="//web.archive.org/web/20140725104402/http://twincitiesstartupweek.us8.list-manage.com/subscribe/post?u=9a3d7912f28d53a554ad644a2&amp;id=f55abf3ab5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          	<div class="input-wrapper"><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email to stay in the loop!"></div>
+               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_9a3d7912f28d53a554ad644a2_f55abf3ab5" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          </form>
+        </div>
+
+        <!-- START MAIN CONTENT SECTIONS -->
+        <div id="main-content-sections">
+          <!-- START LEFT COLUMN -->
+          <div id="left-column">
+        <div id="schedule" class="section">
+          <h2>Schedule</h2>
+          <div class="card">
+              <div class="day open">
+                  <h4 class="day-header">September 9</h4>
+                  <ul class="events" style="display:block;">
+                    <li class="event">
+                      <h5 class="event-title">Beta.MN 1.5</h5>
+                      <div class="event-time">6:00p-9:00p</div>
+                      <a class="event-location" href="https://web.archive.org/web/20140725104402/https://www.google.com/maps/place/Worrell+Design,+Inc./@45.001348,-93.271054,17z/data=!3m1!4b1!4m2!3m1!1s0x52b33270f136fcb9:0xf39ca0cf9066e3ae">Worrell</a>
+                      <div class="event-tags"><div class="event-tag featured">featured event</div></div>
+                      <!-- <a class="event-signup">Tickets<i class="icon-arrow-right"></i></a> -->
+                      <p class="event-description">Beta.MN 1.5 is designed to bring attention to the area’s undiscovered up-and-comers. Bucking formal presentations, Beta.MN start-ups demo their ideas in an accessible, one-to-one format, a lot like a science fair, but with more booze. The events are also a place for entrepreneurs, hackers, artists, investors, teachers and students to get to know each other in a comfortable, agenda-less setting.</p>
+                      <a class="event-info" href="https://web.archive.org/web/20140725104402/http://www.beta.mn/">More Info</a>
+                    </li>
+                  </ul>
+              </div>
+              <div class="day">
+                  <h4 class="day-header">September 10</h4>
+                  <ul class="events">
+                    <li class="event">
+                      <h5 class="event-title">MN Cup Final Round</h5>
+                      <div class="event-time">5:30p-7:30p</div>
+                      <a class="event-location" href="https://web.archive.org/web/20140725104402/https://www.google.com/maps/place/McNamara+Alumni+Center/@44.9741275,-93.2316822,16z/data=!4m2!3m1!1s0x52b32d18ed516031:0x5f984f594ceab6ad">McNamara Alumni Center</a>
+                      <div class="event-tags"><div class="event-tag featured">featured event</div></div>
+                      <!-- <a class="event-signup">RSVP<i class="icon-arrow-right"></i></a> -->
+                      <p class="event-description">The Minnesota Cup encourages and supports Minnesota's most innovative business ideas through the largest annual statewide new venture competition and related programming to assist Minnesota entrepreneurs.  The 2014 Minnesota Cup contest will culminate with this awards cermey where startups will compete for a share of $300,000 in prizes, as well as the opportunity to make their entrepreneurial dreams a reality.</p>
+                      <a class="event-info" href="https://web.archive.org/web/20140725104402/http://www.breakthroughideas.org/about-mncup-event-info">More Info</a>
+                    </li>
+                  </ul>
+              </div>
+              <div class="day">
+                  <h4 class="day-header">September 11</h4>
+                  <ul class="events">
+                    <li class="event">
+                      <h5 class="event-title">Bootstrappers Breakfast</h5>
+                      <div class="event-time">7:30a-9:30a</div>
+                      <a class="event-location" href="https://web.archive.org/web/20140725104402/https://www.google.com/maps/place/James+J.+Hill+Center/@44.943776,-93.096643,17z/data=!3m1!4b1!4m2!3m1!1s0x87f7d54b5c487a5d:0x35ff27dcf11bc8c9">JJ Hill Library</a>
+                      <div class="event-tags"><div class="event-tag featured">featured event</div></div>
+                      <!-- <a class="event-signup">Tickets<i class="icon-arrow-right"></i></a> -->
+                      <p class="event-description">Join Other Entrepreneurs Who Eat Problems For Breakfast. These breakfasts were designed for entrepreneurs to share ideas and leverage thoughts with other folks who are serious about growing their business.</p>
+                      <a class="event-info" href="https://web.archive.org/web/20140725104402/http://www.meetup.com/Bootstrappers-Breakfast-Minneapolis/">More Info</a>
+                    </li>
+                    <li class="event">
+                      <h5 class="event-title">MinneDemo18</h5>
+                      <div class="event-time">6:00p-9:00p</div>
+                      <a class="event-location" href="https://web.archive.org/web/20140725104402/https://www.google.com/maps/place/Riverview+Theater/@44.93418,-93.212939,17z/data=!3m1!4b1!4m2!3m1!1s0x87f629b67ec19eff:0x1c3e3c25d67319e6">RiverView Theater</a>
+                      <div class="event-tags"><div class="event-tag featured">featured event</div></div>
+                      <!-- <a class="event-signup">RSVP<i class="icon-arrow-right"></i></a> -->
+                      <p class="event-description">MinneDemo is for real, working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint is not allowed. Some have described it as geek show and tell. We like to think that geeks and those interested in what they are doing (i.e., investors, media organizations, etc) will enjoy an event centered on seeing what the local scene is up to and networking before, during, and afterward with food and drinks. It’s an energizing and informative evening.</p>
+                      <a class="event-info" href="https://web.archive.org/web/20140725104402/http://alttext.us1.list-manage.com/subscribe/post?u=0f2f5b8fd9523367a18c69383&amp;id=a1fb7ef350">More Info</a>
+                    </li>
+                  </ul>
+              </div>
+              <div class="day">
+                  <h4 class="day-header">September 12</h4>
+                  <ul class="events">
+                    <li class="event">
+                      <h5 class="event-title">Startup Weekend</h5>
+                      <div class="event-time">9/12 - 9/14</div>
+                      <div class="event-tags"><div class="event-tag featured">featured event</div></div>
+                      <!-- <span class="event-location" style="border:none;">TBD</span> -->
+                      <!-- <a class="event-signup">Tickets<i class="icon-arrow-right"></i></a> -->
+                      <p class="event-description">Startup Weekend is a global grassroots movement of active and empowered entrepreneurs who are learning the basics of founding startups and launching successful ventures.  The weekend is a 54 hour frenzy of business model creation, coding, designing, and market validation. The weekends culminate with presentations in front of local entrepreneurial leaders with another opportunity for critical feedback.</p>
+                      <a class="event-info" href="https://web.archive.org/web/20140725104402/http://twincities.startupweekend.org/">More Info</a>
+                    </li>
+                  </ul>
+              </div>
+            </div>
+        </div>
+      </div>
+        <!-- END LEFT COLUMN -->
+        <!-- START RIGHT COLUMN -->
+<div id="right-column">
+        <div id="submit-event" class="section">
+          <div id="submit-event-greeting">
+            <h2>Submit An Event</h2>
+            <div class="card">
+              <h3> Want to host your own event? </h3>
+              <div class="card-inset">
+                Or a meetup, happy hour or bike ride? Fill out the form to send us your idea!  If it's great, we'll add it to the schedule.
+                <button class="bottom" id="submit-event-start">Get Started</button>
+              </div>
+            </div>
+          </div>
+          <div id="submit-event-form" style="display: none;">
+            <h2>Submit An Event</h2>
+            <div class="card">
+              <h3> Have an event that you want to host? </h3>
+              <div class="card-inset">
+                Or a meetup, happy hour or bike ride? Fill out the form to send us your idea!  If it's great, we'll add it to the schedule.
+              </div>
+
+
+
+              <form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://web.archive.org/web/20140725104402/https://tcstartupweek.wufoo.com/forms/zklqw341ftvvp1/#public">
+  <ul>
+    <li>
+      <div>
+        <input placeholder="Event name or short description" id="Field1" name="Field1" type="text" value="" maxlength="32" tabindex="1" required/>
+      </div>
+    </li>
+    <li>
+        <input placeholder="Venue name" id="Field2" name="Field2" type="text" value="" maxlength="32" tabindex="2" required/>
+    </li>
+    <li>
+        <input placeholder="Street address" id="Field9" name="Field9" type="text" value="" maxlength="32" tabindex="3" required/>
+    </li>
+    <li>
+      <input placeholder="Zip Code" id="Field31" name="Field31" type="text" value="" min="0" max="0" maxlength="5" tabindex="3" required/>
+    </li>
+    <li>
+      <input placeholder="Price" id="Field23" name="Field23" type="text" value="" maxlength="32" tabindex="3" required>
+    </li>
+    <!-- <li class="radios">
+      <input id="Field10_0" name="Field10" type="radio" class="radio" value="Minneapolis" tabindex="4" checked="checked" required /><label class="radio" for="Field10_0"> Minneapolis</label>
+      <input id="Field10_1" name="Field10" type="radio" class="radio" value="St. Paul" tabindex="5" required /><label class="radio" for="Field10_1"> St. Paul </label>
+    </li> -->
+    <li class="date-time">
+      <label for="Field14">Starts</label>
+      <div class="dropdown">
+      <select id="Field14" name="Field14" class="field select medium" tabindex="6">
+        <option value="- Date -" selected="selected">
+          - Date -
+        </option>
+        <option value="Sep 9">
+          Sep 9
+        </option>
+        <option value="Sep 10">
+          Sep 10
+        </option>
+        <option value="Sep 11">
+          Sep 11
+        </option>
+        <option value="Sep 12">
+          Sep 12
+        </option>
+      </select>
+      <i class="icon-arrow-down"></i>
+    </div>
+      <div class="dropdown">
+        <select id="Field20" name="Field20" class="field select medium" tabindex="7">
+          <option value="- Time -" selected="selected">
+            - Time -
+          </option>
+          <option value="6:00a">
+            6:00a
+          </option>
+          <option value="6:30a">
+            6:30a
+          </option>
+          <option value="7:00a">
+            7:00a
+          </option>
+          <option value="7:30a">
+            7:30a
+          </option>
+          <option value="8:00a">
+            8:00a
+          </option>
+          <option value="8:30a">
+            8:30a
+          </option>
+          <option value="9:00a">
+            9:00a
+          </option>
+          <option value="9:30a">
+            9:30a
+          </option>
+          <option value="10:00a">
+            10:00a
+          </option>
+          <option value="10:30a">
+            10:30a
+          </option>
+          <option value="11:00a">
+            11:00a
+          </option>
+          <option value="11:30a">
+            11:30a
+          </option>
+          <option value="12:00p">
+            12:00p
+          </option>
+          <option value="12:30p">
+            12:30p
+          </option>
+          <option value="1:00p">
+            1:00p
+          </option>
+          <option value="1:30p">
+            1:30p
+          </option>
+          <option value="2:00p">
+            2:00p
+          </option>
+          <option value="2:30p">
+            2:30p
+          </option>
+          <option value="3:00p">
+            3:00p
+          </option>
+          <option value="3:30p">
+            3:30p
+          </option>
+          <option value="4:00p">
+            4:00p
+          </option>
+          <option value="4:30p">
+            4:30p
+          </option>
+          <option value="5:00p">
+            5:00p
+          </option>
+          <option value="5:30p">
+            5:30p
+          </option>
+          <option value="6:00p">
+            6:00p
+          </option>
+          <option value="6:30p">
+            6:30p
+          </option>
+          <option value="7:00p">
+            7:00p
+          </option>
+          <option value="7:30p">
+            7:30p
+          </option>
+          <option value="8:00p">
+            8:00p
+          </option>
+          <option value="8:30p">
+            8:30p
+          </option>
+          <option value="9:00p">
+            9:00p
+          </option>
+          <option value="9:30p">
+            9:30p
+          </option>
+          <option value="10:00p">
+            10:00p
+          </option>
+          <option value="10:30p">
+            10:30p
+          </option>
+          <option value="11:00p">
+            11:00p
+          </option>
+          <option value="11:30p">
+            11:30p
+          </option>
+        </select>
+        <i class="icon-arrow-down"></i>
+      </div>
+    </li>
+    <li class="date-time">
+      <label for="Field15">
+        Ends
+      </label>
+      <div class="dropdown">
+        <select id="Field15" name="Field15" class="field select medium" tabindex="8">
+          <option value="- Date -" selected="selected">
+            - Date -
+          </option>
+          <option value="Sep 9">
+            Sep 9
+          </option>
+          <option value="Sep 10">
+            Sep 10
+          </option>
+          <option value="Sep 11">
+            Sep 11
+          </option>
+          <option value="Sep 12">
+            Sep 12
+          </option>
+        </select>
+        <i class="icon-arrow-down"></i>
+      </div>
+      <div class="dropdown">
+        <select id="Field18" name="Field18" class="field select medium" tabindex="9">
+          <option value="- Time -" selected="selected">
+            - Time -
+          </option>
+          <option value="6:00a">
+            6:00a
+          </option>
+          <option value="6:30a">
+            6:30a
+          </option>
+          <option value="7:00a">
+            7:00a
+          </option>
+          <option value="7:30a">
+            7:30a
+          </option>
+          <option value="8:00a">
+            8:00a
+          </option>
+          <option value="8:30a">
+            8:30a
+          </option>
+          <option value="9:00a">
+            9:00a
+          </option>
+          <option value="9:30a">
+            9:30a
+          </option>
+          <option value="10:00a">
+            10:00a
+          </option>
+          <option value="10:30a">
+            10:30a
+          </option>
+          <option value="11:00a">
+            11:00a
+          </option>
+          <option value="11:30a">
+            11:30a
+          </option>
+          <option value="12:00p">
+            12:00p
+          </option>
+          <option value="12:30p">
+            12:30p
+          </option>
+          <option value="1:00p">
+            1:00p
+          </option>
+          <option value="1:30p">
+            1:30p
+          </option>
+          <option value="2:00p">
+            2:00p
+          </option>
+          <option value="2:30p">
+            2:30p
+          </option>
+          <option value="3:00p">
+            3:00p
+          </option>
+          <option value="3:30p">
+            3:30p
+          </option>
+          <option value="4:00p">
+            4:00p
+          </option>
+          <option value="4:30p">
+            4:30p
+          </option>
+          <option value="5:00p">
+            5:00p
+          </option>
+          <option value="5:30p">
+            5:30p
+          </option>
+          <option value="6:00p">
+            6:00p
+          </option>
+          <option value="6:30p">
+            6:30p
+          </option>
+          <option value="7:00p">
+            7:00p
+          </option>
+          <option value="7:30p">
+            7:30p
+          </option>
+          <option value="8:00p">
+            8:00p
+          </option>
+          <option value="8:30p">
+            8:30p
+          </option>
+          <option value="9:00p">
+            9:00p
+          </option>
+          <option value="9:30p">
+            9:30p
+          </option>
+          <option value="10:00p">
+            10:00p
+          </option>
+          <option value="10:30p">
+            10:30p
+          </option>
+          <option value="11:00p">
+            11:00p
+          </option>
+          <option value="11:30p">
+            11:30p
+          </option>
+        </select>
+        <i class="icon-arrow-down"></i>
+      </div>
+    </li>
+    <li>
+        <input placeholder="Contact Email" id="Field21" name="Field21" type="email" spellcheck="false" class="field text large" value="" maxlength="255" tabindex="10" required/>
+    </li>
+    <input type="hidden" id="idstamp" name="idstamp" value="FnRvOC6asDhLkAKWEcDo/6E/14sqDxk8pU4fBJP7KvI="/>
+  </ul>
+  <input id="saveForm" name="saveForm" class="button bottom" type="submit" value="Submit"/>
+</form>
+            </div>
+          </div>
+          <div id="submit-event-success" style="display: none;">
+            <h2>Success!</h2>
+            <h3>We'll be in touch.</h3>
+            <a href="javascript:void(0)" id="event-submit-startover">submit another event &gt; </a>
+          </div>
+        </div>
+
+        <div id="twitter" class="section">
+          <h2><i class="icon-twitter"></i>Twitter</h2>
+          <div class="twitter-widget">
+            <a class="twitter-timeline" href="https://web.archive.org/web/20140725104402/https://twitter.com/tcstartupweek" data-widget-id="486886820546760705">Tweets by @tcstartupweek</a>
+          </div>
+        </div>
+
+        <div id="instagram" class="section">
+          <h2><i class="icon-instagram"></i>Instagram</h2>
+          <div class="card" id="instagram-widget"></div>
+        </div>
+
+    </div>
+    <!-- END RIGHT COLUMN -->
+
+</div>
+<!-- END MIDDLE CONTENT SECTIONS -->
+
+    <div id="partners" class="section">
+      <h2>Our Partners</h2>
+
+      <!-- the viewport -->
+      <div class="m-carousel m-fluid">
+        <!-- the slider -->
+        <div class="m-carousel-inner">
+          <!-- the items -->
+          <div class="m-item m-active partner">
+            <image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-beta-mn.svg">
+            <p>Beta.MN is a gathering of friends &amp; founders in support of Minnesota’s startup community. By throwing meaningful events, in casual settings, for the area’s brightest innovators we ensure that the next big thing happens in our own backyard.</p>
+            <div class="partner-links"><a href="https://web.archive.org/web/20140725104402/http://beta.mn/">Website</a> &#9679; <a href="https://web.archive.org/web/20140725104402/https://twitter.com/betadotmn">Twitter</a></div>
+          </div>
+          <div class="m-item partner">
+            <image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-mn-cup@2x.png">
+            <p>To encourage and support Minnesota's most innovative business ideas through the largest annual statewide new venture competition and related programming to assist Minnesota entrepreneurs.
+</p>
+            <div class="partner-links"><a href="https://web.archive.org/web/20140725104402/http://www.breakthroughideas.org/">Website</a> &#9679; <a href="https://web.archive.org/web/20140725104402/https://twitter.com/MinnesotaCup">Twitter</a></div>
+          </div>
+          <div class="m-item partner">
+            <image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-minne-star.svg">
+            <p>minne&ast; is a non-profit organization dedicated to connecting the Minnesota technology community and promoting high tech entrepreneurship.</p>
+            <div class="partner-links"><a href="https://web.archive.org/web/20140725104402/http://minnestar.org/">Website</a> &#9679; <a href="https://web.archive.org/web/20140725104402/https://twitter.com/minnebar">Twitter</a></div>
+          </div>
+          <div class="m-item partner">
+            <image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-techdotmn.svg">
+            <p>TECHdotMN is Minnesota's tech news creator and curator with an emphasis on the startup culture. Jobs board, events calendar and community directory.</p>
+            <div class="partner-links"><a href="https://web.archive.org/web/20140725104402/http://tech.mn/">Website</a> &#9679; <a href="https://web.archive.org/web/20140725104402/https://twitter.com/TECHdotMN">Twitter</a></div>
+          </div>
+        </div>
+        <!-- the controls -->
+        <div class="m-carousel-controls m-carousel-bulleted">
+          <a href="#" data-slide="1" class="m-active">1</a>
+          <a href="#" data-slide="2">2</a>
+          <a href="#" data-slide="3">3</a>
+          <a href="#" data-slide="4">4</a>
+        </div>
+      </div>
+    </div>
+
+        <div id="footer" class="section">
+          <div class="footer-logo" title="back to top"><image src="/web/20140725104402im_/http://twincitiesstartupweek.com/images/logo-tcsw-secondary.svg"/></div>
+          <p> Showcasing the Twin Cities' startup community </p>
+          <div class="footer-details">
+            <a class="hashtag">#TCSW14</a>
+            <p class="copyright">&copy; 2014 Twin Cities Startup Week<p>
+            <div class="social-links">
+              <a title="Our twitter feed" href="https://web.archive.org/web/20140725104402/https://twitter.com/tcstartupweek"><i class="icon-twitter"></i></a>
+              <a title="Out instagram feed" href="https://web.archive.org/web/20140725104402/http://instagram.com/tcstartupweek"><i class="icon-instagram"></i></a>
+              <a title="Send us an email" href="https://web.archive.org/web/20140725104402/mailto:info@twincitiesstartupweek.com"><i class="icon-mail"></i></a>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//web.archive.org/web/20140725104402/http://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+
+        <script src="/web/20140725104402js_/http://twincitiesstartupweek.com/scripts/vendor.js"></script>
+
+        <script src="/web/20140725104402js_/http://twincitiesstartupweek.com/scripts/main.js"></script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 10:44:02 Jul 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:43:05 Jun 04, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.354
+  exclusion.robots: 0.029
+  exclusion.robots.policy: 0.021
+  esindex: 0.006
+  cdx.remote: 9.164
+  LoadShardBlock: 159.595 (3)
+  PetaboxLoader3.resolve: 207.479 (4)
+  PetaboxLoader3.datanode: 113.772 (4)
+  load_resource: 200.44
+-->

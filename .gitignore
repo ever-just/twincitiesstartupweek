@@ -28,3 +28,17 @@ env/
 # Environment
 .env
 *.env
+
+# Odoo-specific
+odoo-platform/odoo/.git/
+odoo-platform/odoo/.local/
+odoo-platform/odoo/odoo.egg-info/
+odoo-platform/odoo/*.pyc
+odoo-platform/odoo/__pycache__/
+odoo-platform/odoo/odoo/addons/__pycache__/
+odoo-platform/odoo/odoo/addons/*/__pycache__/
+odoo-platform/odoo/node_modules/
+odoo-platform/odoo/.eslintcache
+odoo-platform/odoo/*.log
+odoo-platform/odoo/filestore/
+odoo-platform/odoo/sessions/

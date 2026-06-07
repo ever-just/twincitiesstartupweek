@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "20220122021134",
+    "original": "https://www.twincitiesstartupweek.com",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "18405"
+  },
+  {
+    "timestamp": "20220705193309",
+    "original": "https://www.twincitiesstartupweek.com/?hsLang=en&__hstc=178127162.43520982a7c7a054a6448ab657d75c2b.1652279224849.1652279224849.1652279224849.1&__hssc=178127162.2.1652279224849&__hsfp=187408764",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "16317"
+  },
+  {
+    "timestamp": "20221203021658",
+    "original": "https://www.twincitiesstartupweek.com/?utm_campaign=TCSW%202022%20Content&utm_medium=email&_hsmi=223348456&_hsenc=p2ANqtz--hlQT6E_jEHOjDBZ1lja11_R8EzkysRf7vcrrFMALNhK5CZFgzdD5YZ4O3fo65o5eB8-A1Tsp3pouA4myIMxmzjDl41A&utm_content=223348456&utm_source=hs_email",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "15612"
+  },
+  {
+    "timestamp": "20220522193008",
+    "original": "https://www.twincitiesstartupweek.com?hsLang=en",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "16380"
+  },
+  {
+    "timestamp": "20220727163707",
+    "original": "https://www.twincitiesstartupweek.com/?hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "13741"
+  },
+  {
+    "timestamp": "20220727163711",
+    "original": "https://www.twincitiesstartupweek.com/?utm_content=215700059&utm_medium=social&utm_source=twitter&hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "13736"
+  },
+  {
+    "timestamp": "20220830131802",
+    "original": "https://www.twincitiesstartupweek.com/?utm_content=218970390&utm_medium=social&utm_source=twitter&hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "12871"
+  },
+  {
+    "timestamp": "20220901221121",
+    "original": "https://www.twincitiesstartupweek.com/?utm_content=219214345&utm_medium=social&utm_source=twitter&hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "11596"
+  },
+  {
+    "timestamp": "20220916131754",
+    "original": "https://www.twincitiesstartupweek.com/?utm_content=221177150&utm_medium=social&utm_source=twitter&hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "11624"
+  },
+  {
+    "timestamp": "20220504130935",
+    "original": "https://www.twincitiesstartupweek.com/_hcms/forms/v2.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "142445"
+  },
+  {
+    "timestamp": "20220122020703",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "50299"
+  },
+  {
+    "timestamp": "20221107210227",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library-2022",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "17439"
+  },
+  {
+    "timestamp": "20221109230658",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library-2022?hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "17432"
+  },
+  {
+    "timestamp": "20221109230644",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library-2022?utm_content=227500401&utm_medium=social&utm_source=twitter&hss_channel=tw-1017844990804971520",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "17456"
+  },
+  {
+    "timestamp": "20221107210032",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library-2022?hss_channel=tw-2508348145",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "17470"
+  },
+  {
+    "timestamp": "20221107210018",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library-2022?utm_campaign=TCSW%202022%20Content&utm_content=227350314&utm_medium=social&utm_source=twitter&hss_channel=tw-2508348145",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "17499"
+  },
+  {
+    "timestamp": "20220120213454",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library?utm_campaign=TCSW%202022&utm_content=194761140&utm_medium=social&utm_source=twitter&hss_channel=tw-2508348145",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "38330"
+  },
+  {
+    "timestamp": "20220112150624",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library?utm_campaign=TCSW%20Resource%20Library&utm_content=193587496&utm_medium=social&utm_source=twitter&hss_channel=tw-2508348145",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "38345"
+  },
+  {
+    "timestamp": "20220221160642",
+    "original": "https://www.twincitiesstartupweek.com/en-us/resource-library?utm_campaign=TCSW%20Resource%20Library&utm_content=197238934&utm_medium=social&utm_source=twitter&hss_channel=tw-2508348145",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "38330"
+  },
+  {
+    "timestamp": "20220122013225",
+    "original": "https://www.twincitiesstartupweek.com/faq",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "10904"
+  },
+  {
+    "timestamp": "20220510045815",
+    "original": "http://twincitiesstartupweek.com/favicon.ico",
+    "statuscode": "200",
+    "mimetype": "image/x-icon",
+    "length": "627"
+  },
+  {
+    "timestamp": "20220522063757",
+    "original": "https://www.twincitiesstartupweek.com/fly-in-program",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "12682"
+  },
+  {
+    "timestamp": "20220906200812",
+    "original": "https://www.twincitiesstartupweek.com/fly-in-program?hss_channel=tw-382190563",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "11020"
+  },
+  {
+    "timestamp": "20220906200705",
+    "original": "https://www.twincitiesstartupweek.com/fly-in-program?utm_content=220355077&utm_medium=social&utm_source=twitter&hss_channel=tw-382190563",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "length": "11036"
+  },
+  {
+    "timestamp": "20220504130927",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hub/5463664/hub_generated/module_assets/1549907061014/module_7529931961.min.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "1138"
+  },
+  {
+    "timestamp": "20220504130928",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hub/5463664/hub_generated/module_assets/1549907061149/module_7529931961.min.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "1115"
+  },
+  {
+    "timestamp": "20220925234748",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hub/5463664/hub_generated/template_assets/27530601333/1606752209198/Marketplace/maka_Agency/POWER_-_Full_Pack/Coded_Files/pwr.min.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript",
+    "length": "38660"
+  },
+  {
+    "timestamp": "20220924021131",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hub/5463664/hub_generated/template_assets/32063667872/1594218152758/Marketplace/maka_Agency/POWER_-_Full_Pack/Coded_Files/custom-styles-tcsw.min.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "2499"
+  },
+  {
+    "timestamp": "20220924021134",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hub/5463664/hub_generated/template_assets/32063704717/1621267465470/Marketplace/maka_Agency/POWER_-_Full_Pack/Coded_Files/pwr-tcsw.min.css",
+    "statuscode": "200",
+    "mimetype": "text/css",
+    "length": "52199"
+  },
+  {
+    "timestamp": "20220221175208",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "1483328"
+  },
+  {
+    "timestamp": "20220221160933",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=1005&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "1483390"
+  },
+  {
+    "timestamp": "20220221160918",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=1340&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "1483397"
+  },
+  {
+    "timestamp": "20220221160950",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=1675&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "1483394"
+  },
+  {
+    "timestamp": "20220221160925",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=2010&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "1483414"
+  },
+  {
+    "timestamp": "20220221160924",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=335&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "207778"
+  },
+  {
+    "timestamp": "20220221160954",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20TCSW%20Website/Beta-Pass-TCSW.png?width=670&name=Beta-Pass-TCSW.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "768999"
+  },
+  {
+    "timestamp": "20220528185654",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/2020%20Website/Imagery/TCSW-11.png?width=960&name=TCSW-11.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "840789"
+  },
+  {
+    "timestamp": "20220830171124",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "195168"
+  },
+  {
+    "timestamp": "20220830171118",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=105&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "3461"
+  },
+  {
+    "timestamp": "20220830171117",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=140&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "4881"
+  },
+  {
+    "timestamp": "20220830171123",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=175&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "5830"
+  },
+  {
+    "timestamp": "20220830171117",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=210&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "7548"
+  },
+  {
+    "timestamp": "20220830171123",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=35&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "1870"
+  },
+  {
+    "timestamp": "20220830171118",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Angel%20Even_Founder%20Pic_1.jpg?width=70&name=Angel%20Even_Founder%20Pic_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "2595"
+  },
+  {
+    "timestamp": "20220830171133",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "48905"
+  },
+  {
+    "timestamp": "20220830175442",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=105&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "5172"
+  },
+  {
+    "timestamp": "20220830171137",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=140&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "7273"
+  },
+  {
+    "timestamp": "20220830171127",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=175&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "9916"
+  },
+  {
+    "timestamp": "20220830171112",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=210&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "13373"
+  },
+  {
+    "timestamp": "20220830175036",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=35&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "2140"
+  },
+  {
+    "timestamp": "20220830171135",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Ben%20Headshot.jpg?width=70&name=Ben%20Headshot.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "3183"
+  },
+  {
+    "timestamp": "20220112150839",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8473"
+  },
+  {
+    "timestamp": "20220112150738",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=120&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "2856"
+  },
+  {
+    "timestamp": "20220112150745",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=160&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "3272"
+  },
+  {
+    "timestamp": "20220112150753",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=200&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8428"
+  },
+  {
+    "timestamp": "20220112150728",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=240&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "4048"
+  },
+  {
+    "timestamp": "20220112150718",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=40&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8447"
+  },
+  {
+    "timestamp": "20220112150715",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Beta-grey-white20.png?width=80&name=Beta-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "2475"
+  },
+  {
+    "timestamp": "20220112150817",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "20563"
+  },
+  {
+    "timestamp": "20220112150707",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=127&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "3611"
+  },
+  {
+    "timestamp": "20220112150824",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=191&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "4840"
+  },
+  {
+    "timestamp": "20220112150754",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=254&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "9280"
+  },
+  {
+    "timestamp": "20220112150719",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=318&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "20519"
+  },
+  {
+    "timestamp": "20220112150740",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=381&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "13735"
+  },
+  {
+    "timestamp": "20220112150741",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/TCSW-grey-white20.png?width=64&name=TCSW-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "20518"
+  },
+  {
+    "timestamp": "20220112150820",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "12228"
+  },
+  {
+    "timestamp": "20220112150745",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=108&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "3063"
+  },
+  {
+    "timestamp": "20220112150732",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=162&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "6465"
+  },
+  {
+    "timestamp": "20220112150735",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=216&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "8888"
+  },
+  {
+    "timestamp": "20220112150713",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=270&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "12174"
+  },
+  {
+    "timestamp": "20220112150725",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=324&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "13321"
+  },
+  {
+    "timestamp": "20220112150720",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Beta%20Logos/Tech-mn-grey-white20.png?width=54&name=Tech-mn-grey-white20.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "12197"
+  },
+  {
+    "timestamp": "20220830171132",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "81448"
+  },
+  {
+    "timestamp": "20220830171111",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=105&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "3092"
+  },
+  {
+    "timestamp": "20220830174816",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=140&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "4156"
+  },
+  {
+    "timestamp": "20220830171131",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=175&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "5101"
+  },
+  {
+    "timestamp": "20220830171120",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=210&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "6091"
+  },
+  {
+    "timestamp": "20220830171115",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=35&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "81647"
+  },
+  {
+    "timestamp": "20220830171119",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Brad%20Otto%20headshot_1.jpg?width=70&name=Brad%20Otto%20headshot_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "2299"
+  },
+  {
+    "timestamp": "20220830171140",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "535902"
+  },
+  {
+    "timestamp": "20220830171137",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=105&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "31446"
+  },
+  {
+    "timestamp": "20220830174619",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=140&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "51687"
+  },
+  {
+    "timestamp": "20220830171138",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=175&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "74760"
+  },
+  {
+    "timestamp": "20220830171127",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=210&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "105125"
+  },
+  {
+    "timestamp": "20220830171222",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=35&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "535461"
+  },
+  {
+    "timestamp": "20220830171124",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/chad-poitra-2.png?width=70&name=chad-poitra-2.png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "16107"
+  },
+  {
+    "timestamp": "20220830171210",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "421744"
+  },
+  {
+    "timestamp": "20220830171136",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=105&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "23038"
+  },
+  {
+    "timestamp": "20220830171116",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=140&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "38183"
+  },
+  {
+    "timestamp": "20220830171124",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=175&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "56555"
+  },
+  {
+    "timestamp": "20220830174834",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=210&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "79246"
+  },
+  {
+    "timestamp": "20220830174742",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=35&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "4468"
+  },
+  {
+    "timestamp": "20220830171124",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/connie%20(1).png?width=70&name=connie%20(1).png",
+    "statuscode": "200",
+    "mimetype": "image/png",
+    "length": "11609"
+  },
+  {
+    "timestamp": "20220830171131",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "12725"
+  },
+  {
+    "timestamp": "20220830175305",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=105&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "5468"
+  },
+  {
+    "timestamp": "20220830171133",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=140&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "7969"
+  },
+  {
+    "timestamp": "20220830171211",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=175&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "10882"
+  },
+  {
+    "timestamp": "20220830171133",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=210&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "12777"
+  },
+  {
+    "timestamp": "20220830171138",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=35&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "12717"
+  },
+  {
+    "timestamp": "20220830171122",
+    "original": "https://www.twincitiesstartupweek.com/hs-fs/hubfs/Courtney%20New%20Headshot%20(2)_1.jpg?width=70&name=Courtney%20New%20Headshot%20(2)_1.jpg",
+    "statuscode": "200",
+    "mimetype": "image/jpeg",
+    "length": "3546"
+  }
+]

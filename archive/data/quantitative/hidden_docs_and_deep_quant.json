@@ -1,0 +1,3255 @@
+{
+  "generated": "2026-06-06",
+  "irs_990_financials": [
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2024,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202523219349317932/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2023,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202413189349302391/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2022,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202402259349302190/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2021,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202410179349300426/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2020,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202103199349310690/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2019,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/202043219349301644/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    },
+    {
+      "source": "IRS Form 990 / ProPublica",
+      "fiscal_year": 2018,
+      "url": "https://projects.propublica.org/nonprofits/organizations/812227583/201911049349300316/full",
+      "total_revenue": null,
+      "total_expenses": null,
+      "net_assets": null,
+      "program_expenses": null,
+      "grants_received": null,
+      "employees": null,
+      "volunteers": null,
+      "top_executive_comp": null,
+      "largest_dollar_amounts_on_form": [
+        750000,
+        500000,
+        200000,
+        50000
+      ]
+    }
+  ],
+  "tcsw_beta_live_site": [
+    {
+      "source": "TCSW/BETA live",
+      "url": "https://www.tcstartupweek.com/",
+      "attendees": [],
+      "events": [],
+      "speakers": [],
+      "startups": [],
+      "dollar_figures": [
+        "5,000."
+      ],
+      "years_mentioned": [],
+      "jobs": [],
+      "stat_elements": [
+        "MondaySep 14\u00b7MinneapolisRegistration & Check-in \u00b7 12\u20134pm2026 MN Cup Grand Finale",
+        "TuesdaySep 15\u00b7MinneapolisIndustry DayFounder Showcases & DemosSpeakers & Workshops",
+        "WednesdaySep 16\u00b7St. PaulAI Innovation DayFounder Showcases & DemosSpeakers & Workshops",
+        "ThursdaySep 17\u00b7St. PaulInvestor DayShowcases & DemosSpeakers & Workshops",
+        "FridaySep 18\u00b7St. PaulGreat MN Give Back Hack in collaboration with TCBAF"
+      ]
+    },
+    {
+      "source": "TCSW/BETA live",
+      "url": "https://www.beta.mn/",
+      "attendees": [],
+      "events": [],
+      "speakers": [],
+      "startups": [
+        "330"
+      ],
+      "dollar_figures": [
+        "651"
+      ],
+      "years_mentioned": [],
+      "jobs": [],
+      "stat_elements": [
+        "CloseProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate NowProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate Now",
+        "CloseProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate NowProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate Now",
+        "Accelerating the Success of Minnesota's Startup FoundersBETA is an early stage accelerator for technology founders to learn & grow together. We\u2019re always looking for great teams.We're Committed to Helping Founders SucceedBETA accelerates the success of founders from Minnesota-based technology startups. It\u2019s a group effort that couldn\u2019t be done without the help of people like you; and it\u2019s working.ALUMNI GROWTH METRICS:330Startups$651MFunds Raised2,334EmployeesBETA is a 501(c)(3) nonprofit organization that runs two main programs -Twin Cities Startup Week(TCSW), which inspires would-be entrepreneurs to start a business and theBETA Cohort, a free, non-dilutive accelerator which trains founders on the topics required to grow their business. BETA offers a host of other programs and a community designed to support founders long after their time with us.BETA Programming Includes:Twin Cities Startup Week is one of the largest annual startup-innovation festivals in the nation.More InfoA FREE, non-dilutive 3-month accelerator\u00a0where founding teams learn, work, and grow together.More InfoPowered byA science fair for startups with 500+ guests there to discover products from the top emerging companies.More InfoPowered byA series of industry specific roundtable discussions where startups & the area\u2019s largest companies meet to explore opportunities to work together.More InfoA weekly conversation where experts cover essential strategies to grow your business and community members discuss.More InfoNot a startup but want to get involved?There are many ways to contribute to this incredible story of growth and economic development.Strategic PartnersAll of this made possible through the incredible support of our partners. Their generosity and passion for the success of our startup community ensures that the next great thing happens in our own backyard.Meet all BETA Partners.Become a PartnerThere are many ways to support BETA\u2019s programming! With every partnership, we\u2019re looking to share your expertise and resources in addition to a financial commitment.",
+        "Accelerating the Success of Minnesota's Startup FoundersBETA is an early stage accelerator for technology founders to learn & grow together. We\u2019re always looking for great teams.We're Committed to Helping Founders SucceedBETA accelerates the success of founders from Minnesota-based technology startups. It\u2019s a group effort that couldn\u2019t be done without the help of people like you; and it\u2019s working.ALUMNI GROWTH METRICS:330Startups$651MFunds Raised2,334EmployeesBETA is a 501(c)(3) nonprofit organization that runs two main programs -Twin Cities Startup Week(TCSW), which inspires would-be entrepreneurs to start a business and theBETA Cohort, a free, non-dilutive accelerator which trains founders on the topics required to grow their business. BETA offers a host of other programs and a community designed to support founders long after their time with us.BETA Programming Includes:Twin Cities Startup Week is one of the largest annual startup-innovation festivals in the nation.More InfoA FREE, non-dilutive 3-month accelerator\u00a0where founding teams learn, work, and grow together.More InfoPowered byA science fair for startups with 500+ guests there to discover products from the top emerging companies.More InfoPowered byA series of industry specific roundtable discussions where startups & the area\u2019s largest companies meet to explore opportunities to work together.More InfoA weekly conversation where experts cover essential strategies to grow your business and community members discuss.More InfoNot a startup but want to get involved?There are many ways to contribute to this incredible story of growth and economic development.Strategic PartnersAll of this made possible through the incredible support of our partners. Their generosity and passion for the success of our startup community ensures that the next great thing happens in our own backyard.Meet all BETA Partners.Become a PartnerThere are many ways to support BETA\u2019s programming! With every partnership, we\u2019re looking to share your expertise and resources in addition to a financial commitment.",
+        "We're Committed to Helping Founders SucceedBETA accelerates the success of founders from Minnesota-based technology startups. It\u2019s a group effort that couldn\u2019t be done without the help of people like you; and it\u2019s working.ALUMNI GROWTH METRICS:330Startups$651MFunds Raised2,334Employees",
+        "We're Committed to Helping Founders SucceedBETA accelerates the success of founders from Minnesota-based technology startups. It\u2019s a group effort that couldn\u2019t be done without the help of people like you; and it\u2019s working.ALUMNI GROWTH METRICS:",
+        "We're Committed to Helping Founders Succeed",
+        "BETA accelerates the success of founders from Minnesota-based technology startups. It\u2019s a group effort that couldn\u2019t be done without the help of people like you; and it\u2019s working.ALUMNI GROWTH METRICS:",
+        "330Startups$651MFunds Raised2,334Employees",
+        "330Startups$651MFunds Raised2,334Employees",
+        "330Startups",
+        "330",
+        "Startups",
+        "$651MFunds Raised",
+        "$651M",
+        "Funds Raised",
+        "2,334Employees",
+        "2,334",
+        "Employees",
+        "The Beta Group (BETA) is a 501(c)(3) nonprofit organization providing Minnesota's technology startup founders the resources + relationships required to scale their companies.Office Hours: 10 am - 4 pm, Mon-ThursBeta.mnAboutContactSubscribeProgramsAcceleratorShowcaseBridge\u00a9 2026 The Beta Group- All rights reservedTerms / Privacy"
+      ]
+    },
+    {
+      "source": "TCSW/BETA live",
+      "url": "https://www.beta.mn/about",
+      "attendees": [],
+      "events": [],
+      "speakers": [],
+      "startups": [],
+      "dollar_figures": [],
+      "years_mentioned": [],
+      "jobs": [],
+      "stat_elements": [
+        "CloseProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate NowProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate Now",
+        "CloseProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate NowProgramsTwin Cities Startup WeekAcceleratorShowcaseBridgeTuesdaysPortfolioPartnersGet InvolvedDonate Now",
+        "AboutBETA provides Minnesota-based founders from the top local tech startups with the resources and relationships required to scale their business.OverviewThe Beta Group is a 501(c)(3) that develops Minnesota\u2019s next generation of business leaders by inspiring and educating first-time founders. We nurture these scalable small businesses so that they can grow to become our next Fortune 100s.BETA runs two main programs:Twin Cities Startup Week (TCSW): Inspiring would be entrepreneurs to start a businessBETA Cohort: Training founders on the topics required to grow a businessAt a Glance:MISSION - Accelerating the success of Minnesota-based technology founders.Year founded: 2013Headquarters: Minneapolis, MNStatus: 501(c)(3)Brands managed: BETA - beta.mn,TCSW - twincitiesstartupweek.com, and tech.mnCommunity GuidelinesAt BETA, we\u2019re committed to putting Minnesota founders first and doing whatever we can to help them find success in their companies.We\u2019re open to partnering with anyone who has this same vision and dedication to innovation. If you\u2019d like topartner with us, we\u2019d love to hear from you and discuss ways to work together that benefits the whole community.Key ProgramsTwin Cities Startup Week is the front door to Minnesota\u2019s startup ecosystem. What began as intimate gathering of local technologists has ballooned to a regional festival celebrating the leaders who are creating impact within their community, startup, Fortune 100, nonprofit and more. The week includes countless events featuring the area\u2019s brightest innovators and creative hotbeds.TCSW functions as an unconference where a majority of the content comes from local community and business leaders. The TCSW team includes a full time Director plus a lean group of part-time contributors who execute the operational and promotional activities of the week in addition to hosting its own events.BETA\u2019s Cohort experience is a series of programs where founding teams learn and grow together. Their education is similar to a coding school, but in place of training programmers, we groom the next great non-technical business leaders. Each program is designed to provide founders with resources and relationships to accelerate the growth of their business.The cohort experience includes access to space, education and events geared toward introducing founders to the people that will positively influence their business.Meet Our Amazing TeamRead MoreAngela EifertExecutive DirectorRead MoreRead MoreDylan DierkingPrograms and Operations DirectorRead MoreBoard of DirectorsRead MoreMichael ArulfoBoard ChairRead MoreRead MoreEva RasmussenSecretaryRead MoreRead MoreChris TaylorTreasurerRead MoreRead MoreAutumn WayRead MoreRead MoreLuke WendlandtRead MoreRead MoreChristopher CarlisleRead MoreRead MoreMatthew SoperRead MoreRead MoreGinny RichardsonRead MoreRead MoreJenna ZangsRead MoreExecutive Advisory BoardRead MoreDerek HayesRead MoreRead MoreMatthew RobinsonRead MoreRead MoreJim GrahamRead MoreRead MoreIngrid LindbergRead MoreRead MoreJackie DarrahRead MoreRead MoreBen WellsRead MoreOur HistoryBETA was founded in 2013 by Reed Robinson, Ryan Broshar, and Justin Cox with a simple vision \u2014 to celebrate the efforts of local tech founders. We hosted our first event \u2014 the BETA Showcase \u2014 in January, 2014. We found a venue, invited the active startups in our network, and convinced 200+ of our closest friends to see what our startup community is all about.Though the organization has expanded into a variety of offerings, the mission has never changed \u2014 BETA brings people together to support and celebrate the efforts of Minnesota-based entrepreneurs. We do that to increase the likelihood of their success, and to inspire others to join in the action.Share the same passion?Click the button to learn how you can help.",
+        "AboutBETA provides Minnesota-based founders from the top local tech startups with the resources and relationships required to scale their business.OverviewThe Beta Group is a 501(c)(3) that develops Minnesota\u2019s next generation of business leaders by inspiring and educating first-time founders. We nurture these scalable small businesses so that they can grow to become our next Fortune 100s.BETA runs two main programs:Twin Cities Startup Week (TCSW): Inspiring would be entrepreneurs to start a businessBETA Cohort: Training founders on the topics required to grow a businessAt a Glance:MISSION - Accelerating the success of Minnesota-based technology founders.Year founded: 2013Headquarters: Minneapolis, MNStatus: 501(c)(3)Brands managed: BETA - beta.mn,TCSW - twincitiesstartupweek.com, and tech.mnCommunity GuidelinesAt BETA, we\u2019re committed to putting Minnesota founders first and doing whatever we can to help them find success in their companies.We\u2019re open to partnering with anyone who has this same vision and dedication to innovation. If you\u2019d like topartner with us, we\u2019d love to hear from you and discuss ways to work together that benefits the whole community.Key ProgramsTwin Cities Startup Week is the front door to Minnesota\u2019s startup ecosystem. What began as intimate gathering of local technologists has ballooned to a regional festival celebrating the leaders who are creating impact within their community, startup, Fortune 100, nonprofit and more. The week includes countless events featuring the area\u2019s brightest innovators and creative hotbeds.TCSW functions as an unconference where a majority of the content comes from local community and business leaders. The TCSW team includes a full time Director plus a lean group of part-time contributors who execute the operational and promotional activities of the week in addition to hosting its own events.BETA\u2019s Cohort experience is a series of programs where founding teams learn and grow together. Their education is similar to a coding school, but in place of training programmers, we groom the next great non-technical business leaders. Each program is designed to provide founders with resources and relationships to accelerate the growth of their business.The cohort experience includes access to space, education and events geared toward introducing founders to the people that will positively influence their business.Meet Our Amazing TeamRead MoreAngela EifertExecutive DirectorRead MoreRead MoreDylan DierkingPrograms and Operations DirectorRead MoreBoard of DirectorsRead MoreMichael ArulfoBoard ChairRead MoreRead MoreEva RasmussenSecretaryRead MoreRead MoreChris TaylorTreasurerRead MoreRead MoreAutumn WayRead MoreRead MoreLuke WendlandtRead MoreRead MoreChristopher CarlisleRead MoreRead MoreMatthew SoperRead MoreRead MoreGinny RichardsonRead MoreRead MoreJenna ZangsRead MoreExecutive Advisory BoardRead MoreDerek HayesRead MoreRead MoreMatthew RobinsonRead MoreRead MoreJim GrahamRead MoreRead MoreIngrid LindbergRead MoreRead MoreJackie DarrahRead MoreRead MoreBen WellsRead MoreOur HistoryBETA was founded in 2013 by Reed Robinson, Ryan Broshar, and Justin Cox with a simple vision \u2014 to celebrate the efforts of local tech founders. We hosted our first event \u2014 the BETA Showcase \u2014 in January, 2014. We found a venue, invited the active startups in our network, and convinced 200+ of our closest friends to see what our startup community is all about.Though the organization has expanded into a variety of offerings, the mission has never changed \u2014 BETA brings people together to support and celebrate the efforts of Minnesota-based entrepreneurs. We do that to increase the likelihood of their success, and to inspire others to join in the action.Share the same passion?Click the button to learn how you can help.",
+        "The Beta Group (BETA) is a 501(c)(3) nonprofit organization providing Minnesota's technology startup founders the resources + relationships required to scale their companies.Office Hours: 10 am - 4 pm, Mon-ThursBeta.mnAboutContactSubscribeProgramsAcceleratorShowcaseBridge\u00a9 2026 The Beta Group- All rights reservedTerms / Privacy",
+        "The Beta Group (BETA) is a 501(c)(3) nonprofit organization providing Minnesota's technology startup founders the resources + relationships required to scale their companies.Office Hours: 10 am - 4 pm, Mon-ThursBeta.mnAboutContactSubscribeProgramsAcceleratorShowcaseBridge\u00a9 2026 The Beta Group- All rights reservedTerms / Privacy"
+      ]
+    }
+  ],
+  "eventbrite_events": [
+    {
+      "source": "Eventbrite",
+      "label": "MN Cup 2025 Grand Finale",
+      "url": "https://www.eventbrite.com/e/2025-mn-cup-grand-finale-tickets-1295771049089",
+      "capacity_mentions": [],
+      "sold_mentions": [],
+      "price_mentions": [
+        ""
+      ],
+      "dates_mentioned": [
+        "Mon, Oct 6, 2025"
+      ],
+      "json_ld_capacity": null,
+      "json_ld_attendees": null
+    },
+    {
+      "source": "Eventbrite",
+      "label": "MN Cup 2024 Grand Finale",
+      "url": "https://www.eventbrite.com/e/2024-mn-cup-grand-finale-tickets-899333850757",
+      "capacity_mentions": [],
+      "sold_mentions": [],
+      "price_mentions": [
+        ""
+      ],
+      "dates_mentioned": [
+        "Mon, Sep 16, 2024"
+      ],
+      "json_ld_capacity": null,
+      "json_ld_attendees": null
+    },
+    {
+      "source": "Eventbrite",
+      "label": "TCSW 2023 search",
+      "url": "https://www.eventbrite.com/d/mn--minneapolis/twin-cities-startup-week/?page=1",
+      "capacity_mentions": [],
+      "sold_mentions": [],
+      "price_mentions": [
+        ""
+      ],
+      "dates_mentioned": [],
+      "json_ld_capacity": null,
+      "json_ld_attendees": null
+    },
+    {
+      "source": "Eventbrite",
+      "label": "BETA Showcase search",
+      "url": "https://www.eventbrite.com/d/mn--minneapolis/beta-showcase/",
+      "capacity_mentions": [],
+      "sold_mentions": [],
+      "price_mentions": [
+        ""
+      ],
+      "dates_mentioned": [],
+      "json_ld_capacity": null,
+      "json_ld_attendees": null
+    },
+    {
+      "source": "Eventbrite",
+      "label": "Minnedemo search",
+      "url": "https://www.eventbrite.com/d/mn--minneapolis/minnedemo/",
+      "capacity_mentions": [],
+      "sold_mentions": [],
+      "price_mentions": [
+        ""
+      ],
+      "dates_mentioned": [],
+      "json_ld_capacity": null,
+      "json_ld_attendees": null
+    }
+  ],
+  "mn_sos_filings": [],
+  "wayback_hidden_docs": [
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/2015%20Year%20End%20Review%20(3).pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "1024763",
+      "wayback_ts": "20251114182202",
+      "wayback_url": "https://web.archive.org/web/20251114182202/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/2015%20Year%20End%20Review%20(3).pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/2015%20Year%20End%20Review%20(3).pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "1024206",
+      "wayback_ts": "20251017034047",
+      "wayback_url": "https://web.archive.org/web/20251017034047/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/2015%20Year%20End%20Review%20(3).pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta%202018%20Recap.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "638449",
+      "wayback_ts": "20251114170722",
+      "wayback_url": "https://web.archive.org/web/20251114170722/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta%202018%20Recap.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta%202018%20Recap.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "641655",
+      "wayback_ts": "20251017035133",
+      "wayback_url": "https://web.archive.org/web/20251017035133/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta%202018%20Recap.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/BETA%202019%20Recap.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "404212",
+      "wayback_ts": "20251118171929",
+      "wayback_url": "https://web.archive.org/web/20251118171929/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/BETA%202019%20Recap.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/BETA%202019%20Recap.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "405064",
+      "wayback_ts": "20251017033836",
+      "wayback_url": "https://web.archive.org/web/20251017033836/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/BETA%202019%20Recap.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.MN%202016%20Annaul%20Report%20(1).pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "411998",
+      "wayback_ts": "20251114143617",
+      "wayback_url": "https://web.archive.org/web/20251114143617/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.MN%202016%20Annaul%20Report%20(1).pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.MN%202016%20Annaul%20Report%20(1).pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "409292",
+      "wayback_ts": "20251017043208",
+      "wayback_url": "https://web.archive.org/web/20251017043208/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.MN%202016%20Annaul%20Report%20(1).pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.mn%202017%20Review.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "3182446",
+      "wayback_ts": "20251114150923",
+      "wayback_url": "https://web.archive.org/web/20251114150923/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.mn%202017%20Review.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.mn%202017%20Review.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "3182195",
+      "wayback_ts": "20251017042413",
+      "wayback_url": "https://web.archive.org/web/20251017042413/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/Beta.mn%202017%20Review.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW%202019%20Recap.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "327089",
+      "wayback_ts": "20251114145412",
+      "wayback_url": "https://web.archive.org/web/20251114145412/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW%202019%20Recap.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW%202019%20Recap.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "326233",
+      "wayback_ts": "20251017041045",
+      "wayback_url": "https://web.archive.org/web/20251017041045/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW%202019%20Recap.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW17%20Recap.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "4120549",
+      "wayback_ts": "20251114153855",
+      "wayback_url": "https://web.archive.org/web/20251114153855/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW17%20Recap.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW17%20Recap.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "4106087",
+      "wayback_ts": "20251017042056",
+      "wayback_url": "https://web.archive.org/web/20251017042056/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW17%20Recap.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW18-recap_ALL_web.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "1677852",
+      "wayback_ts": "20251114183718",
+      "wayback_url": "https://web.archive.org/web/20251114183718/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW18-recap_ALL_web.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW18-recap_ALL_web.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "1683723",
+      "wayback_ts": "20251017045842",
+      "wayback_url": "https://web.archive.org/web/20251017045842/https://www.beta.mn/hubfs/2020%20Website/How%20to%20Help%20PDFs/TCSW18-recap_ALL_web.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-BRAND-2022-METRICS.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "32181",
+      "wayback_ts": "20251114144618",
+      "wayback_url": "https://web.archive.org/web/20251114144618/https://www.beta.mn/hubfs/BETA-BRAND-2022-METRICS.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-BRAND-2022-METRICS.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "33087",
+      "wayback_ts": "20251017050615",
+      "wayback_url": "https://web.archive.org/web/20251017050615/https://www.beta.mn/hubfs/BETA-BRAND-2022-METRICS.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-Recap-2020.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "480714",
+      "wayback_ts": "20251130194126",
+      "wayback_url": "https://web.archive.org/web/20251130194126/https://www.beta.mn/hubfs/BETA-Recap-2020.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-Recap-2020.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "705774",
+      "wayback_ts": "20251017033331",
+      "wayback_url": "https://web.archive.org/web/20251017033331/https://www.beta.mn/hubfs/BETA-Recap-2020.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-Recap-2021.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "1092563",
+      "wayback_ts": "20251114144644",
+      "wayback_url": "https://web.archive.org/web/20251114144644/https://www.beta.mn/hubfs/BETA-Recap-2021.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/BETA-Recap-2021.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "1095263",
+      "wayback_ts": "20251017044050",
+      "wayback_url": "https://web.archive.org/web/20251017044050/https://www.beta.mn/hubfs/BETA-Recap-2021.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/TCSW%202021%20Recap.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "633973",
+      "wayback_ts": "20251127154653",
+      "wayback_url": "https://web.archive.org/web/20251127154653/https://www.beta.mn/hubfs/TCSW%202021%20Recap.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/TCSW%202021%20Recap.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "629776",
+      "wayback_ts": "20251017052130",
+      "wayback_url": "https://web.archive.org/web/20251017052130/https://www.beta.mn/hubfs/TCSW%202021%20Recap.pdf?hsLang=en-us"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/TCSW-Recap-2020.pdf",
+      "mimetype": "application/pdf",
+      "size_bytes": "798461",
+      "wayback_ts": "20251126153332",
+      "wayback_url": "https://web.archive.org/web/20251126153332/https://www.beta.mn/hubfs/TCSW-Recap-2020.pdf"
+    },
+    {
+      "source": "Wayback CDX",
+      "domain": "www.beta.mn",
+      "url": "https://www.beta.mn/hubfs/TCSW-Recap-2020.pdf?hsLang=en-us",
+      "mimetype": "application/pdf",
+      "size_bytes": "797182",
+      "wayback_ts": "20251017033622",
+      "wayback_url": "https://web.archive.org/web/20251017033622/https://www.beta.mn/hubfs/TCSW-Recap-2020.pdf?hsLang=en-us"
+    }
+  ],
+  "live_server_hidden": [],
+  "youtube_view_counts": [
+    {
+      "id": "Dkc2jq0Bftc",
+      "title": "Minnesota Startup Awards 2022",
+      "url": "https://www.youtube.com/watch?v=Dkc2jq0Bftc",
+      "views": 124,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 2429.0
+    },
+    {
+      "id": "YzlzrbfqE7o",
+      "title": "Scaling in EdTech by Listening",
+      "url": "https://www.youtube.com/watch?v=YzlzrbfqE7o",
+      "views": 27,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3285.0
+    },
+    {
+      "id": "4gq-690LWkE",
+      "title": "UX Portfolio Coffee Hour: Get Hired Before Leaving Bootcamp",
+      "url": "https://www.youtube.com/watch?v=4gq-690LWkE",
+      "views": 32,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3734.0
+    },
+    {
+      "id": "U2MSAN77kh0",
+      "title": "Valuable aspects of company culture",
+      "url": "https://www.youtube.com/watch?v=U2MSAN77kh0",
+      "views": 32,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 2719.0
+    },
+    {
+      "id": "nTYvnIXdD2I",
+      "title": "Why Going Green is Good for Business",
+      "url": "https://www.youtube.com/watch?v=nTYvnIXdD2I",
+      "views": 19,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1847.0
+    },
+    {
+      "id": "fF2U_zNOrwg",
+      "title": "The Great Realization: Redefining the meaning of work in a post-pandemic world",
+      "url": "https://www.youtube.com/watch?v=fF2U_zNOrwg",
+      "views": 37,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 4060.0
+    },
+    {
+      "id": "NPFHQnX0tQA",
+      "title": "The Future of Business",
+      "url": "https://www.youtube.com/watch?v=NPFHQnX0tQA",
+      "views": 45,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3593.0
+    },
+    {
+      "id": "scSrsOYyd6s",
+      "title": "Normalizing Not Drinking in Workplace Culture",
+      "url": "https://www.youtube.com/watch?v=scSrsOYyd6s",
+      "views": 119,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3559.0
+    },
+    {
+      "id": "dj7zS1OhyCI",
+      "title": "Seeing Through the Hype: Finding Alignment with Your Technology Partners",
+      "url": "https://www.youtube.com/watch?v=dj7zS1OhyCI",
+      "views": 26,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2661.0
+    },
+    {
+      "id": "c-c4J3ziAE0",
+      "title": "Twin Cities Startup Jeopardy",
+      "url": "https://www.youtube.com/watch?v=c-c4J3ziAE0",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1340.0
+    },
+    {
+      "id": "rPsH8UvBJ-c",
+      "title": "The Future of Gaming",
+      "url": "https://www.youtube.com/watch?v=rPsH8UvBJ-c",
+      "views": 24,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1499.0
+    },
+    {
+      "id": "g5t9ejZ_qd8",
+      "title": "Launching Naturally Minnesota",
+      "url": "https://www.youtube.com/watch?v=g5t9ejZ_qd8",
+      "views": 50,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3681.0
+    },
+    {
+      "id": "hRNtzJsVrBA",
+      "title": "Launch Minnesota Board AMA",
+      "url": "https://www.youtube.com/watch?v=hRNtzJsVrBA",
+      "views": 34,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3694.0
+    },
+    {
+      "id": "o93gE7VSx70",
+      "title": "What the Great British Bake Off Can Teach Us About Feedback",
+      "url": "https://www.youtube.com/watch?v=o93gE7VSx70",
+      "views": 223,
+      "likes": 5,
+      "published": null,
+      "duration_sec": 1583.0
+    },
+    {
+      "id": "_2-2QUy7rQk",
+      "title": "Leading Change in Autonomy",
+      "url": "https://www.youtube.com/watch?v=_2-2QUy7rQk",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2631.0
+    },
+    {
+      "id": "zqF-a4HjRMI",
+      "title": "Investor Focus: De-Risking Early Stage Ventures",
+      "url": "https://www.youtube.com/watch?v=zqF-a4HjRMI",
+      "views": 54,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2997.0
+    },
+    {
+      "id": "6_IzJb5NjI4",
+      "title": "How To Save Money On Prescription Medications",
+      "url": "https://www.youtube.com/watch?v=6_IzJb5NjI4",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2089.0
+    },
+    {
+      "id": "uXwpGCMp6h8",
+      "title": "Hiring, Onboarding, and Retaining Diverse Tech Talent",
+      "url": "https://www.youtube.com/watch?v=uXwpGCMp6h8",
+      "views": 51,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3755.0
+    },
+    {
+      "id": "1NGHRwktA2c",
+      "title": "How to Know When It's Time to Quit",
+      "url": "https://www.youtube.com/watch?v=1NGHRwktA2c",
+      "views": 20,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2974.0
+    },
+    {
+      "id": "KarA2fcG1dQ",
+      "title": "How To Build A Product Market Fit Engine",
+      "url": "https://www.youtube.com/watch?v=KarA2fcG1dQ",
+      "views": 37,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3602.0
+    },
+    {
+      "id": "0SyZFFW2mWs",
+      "title": "Fundraising for Female Entrepreneurs",
+      "url": "https://www.youtube.com/watch?v=0SyZFFW2mWs",
+      "views": 76,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3443.0
+    },
+    {
+      "id": "fgyiV6b-sqg",
+      "title": "How Cultural Awareness Can Propel Growth",
+      "url": "https://www.youtube.com/watch?v=fgyiV6b-sqg",
+      "views": 34,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 2754.0
+    },
+    {
+      "id": "ulFDrIugLuo",
+      "title": "Do I Really Need A Product Roadmap?",
+      "url": "https://www.youtube.com/watch?v=ulFDrIugLuo",
+      "views": 23,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3078.0
+    },
+    {
+      "id": "ExZDHZqUMZk",
+      "title": "Code Savvy Presents: Entrepreneurial Thinking For Students",
+      "url": "https://www.youtube.com/watch?v=ExZDHZqUMZk",
+      "views": 32,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 5312.0
+    },
+    {
+      "id": "mSFbdRTTblc",
+      "title": "A deep dive into Gen Z Industry Trends with Atland Ventures",
+      "url": "https://www.youtube.com/watch?v=mSFbdRTTblc",
+      "views": 59,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3626.0
+    },
+    {
+      "id": "McacCxBQeNM",
+      "title": "Begin with Validation: The First Step to Turning Your Idea into a Profitable Business",
+      "url": "https://www.youtube.com/watch?v=McacCxBQeNM",
+      "views": 49,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3829.0
+    },
+    {
+      "id": "LhgrvbeI-fY",
+      "title": "Bringing your product to life - The value of hiring an experienced team",
+      "url": "https://www.youtube.com/watch?v=LhgrvbeI-fY",
+      "views": 9,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2685.0
+    },
+    {
+      "id": "S4UsYbQt4Gk",
+      "title": "Build your STEM talent pipeline and get a rebate to do it!",
+      "url": "https://www.youtube.com/watch?v=S4UsYbQt4Gk",
+      "views": 7,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3297.0
+    },
+    {
+      "id": "NfcUeloyntA",
+      "title": "Building A Business that Does Not Burn You Out",
+      "url": "https://www.youtube.com/watch?v=NfcUeloyntA",
+      "views": 33,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2586.0
+    },
+    {
+      "id": "lGgBRhb1N88",
+      "title": "PR on a Startup Budget",
+      "url": "https://www.youtube.com/watch?v=lGgBRhb1N88",
+      "views": 39,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3163.0
+    },
+    {
+      "id": "1BxChT8YLHA",
+      "title": "Piecing Together the Talent Puzzle - 4 Truths About Finding and Keeping Talent",
+      "url": "https://www.youtube.com/watch?v=1BxChT8YLHA",
+      "views": 75,
+      "likes": 5,
+      "published": null,
+      "duration_sec": 2632.0
+    },
+    {
+      "id": "LEQM9TyaEm0",
+      "title": "Minnesota: An Optical Place to Build and Grow In Technology",
+      "url": "https://www.youtube.com/watch?v=LEQM9TyaEm0",
+      "views": 25,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 637.0
+    },
+    {
+      "id": "hL6elm7wQfc",
+      "title": "Diversity and Inclusion Drives Innovation",
+      "url": "https://www.youtube.com/watch?v=hL6elm7wQfc",
+      "views": 89,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3181.0
+    },
+    {
+      "id": "dnnepworZRg",
+      "title": "Building the Table",
+      "url": "https://www.youtube.com/watch?v=dnnepworZRg",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3064.0
+    },
+    {
+      "id": "OCwheQQ8hQc",
+      "title": "Creating an Irresistible Consumer Product",
+      "url": "https://www.youtube.com/watch?v=OCwheQQ8hQc",
+      "views": 91,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3161.0
+    },
+    {
+      "id": "NeSzelhxvUw",
+      "title": "Impact Measurement: A 360 View of Concept and Importance",
+      "url": "https://www.youtube.com/watch?v=NeSzelhxvUw",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2974.0
+    },
+    {
+      "id": "ZSkX2X-ZUWc",
+      "title": "Intellectual Property: Patents",
+      "url": "https://www.youtube.com/watch?v=ZSkX2X-ZUWc",
+      "views": 10,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3523.0
+    },
+    {
+      "id": "wxYpv-H_7nk",
+      "title": "Lessons from TikTok: Why micro-lessons are changing everything",
+      "url": "https://www.youtube.com/watch?v=wxYpv-H_7nk",
+      "views": 44,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2214.0
+    },
+    {
+      "id": "X7FvUAC_DBc",
+      "title": "Removing Risk When Developing Your Digital Product",
+      "url": "https://www.youtube.com/watch?v=X7FvUAC_DBc",
+      "views": 22,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2566.0
+    },
+    {
+      "id": "OhLRBk9wz3w",
+      "title": "The Metaverse: NOW",
+      "url": "https://www.youtube.com/watch?v=OhLRBk9wz3w",
+      "views": 40,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3599.0
+    },
+    {
+      "id": "_N1RAcjPNZw",
+      "title": "How to build an award-winning product without raising venture capital",
+      "url": "https://www.youtube.com/watch?v=_N1RAcjPNZw",
+      "views": 66,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3264.0
+    },
+    {
+      "id": "uc3FxTisWfw",
+      "title": "Developing an Equitable Startup Ecosystem",
+      "url": "https://www.youtube.com/watch?v=uc3FxTisWfw",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2628.0
+    },
+    {
+      "id": "K8Ltc9BzuZY",
+      "title": "Designing Your DEI Culture to Attract Top Talent!",
+      "url": "https://www.youtube.com/watch?v=K8Ltc9BzuZY",
+      "views": 64,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3282.0
+    },
+    {
+      "id": "MMi90tcouNY",
+      "title": "Zero to One with Mobile: What You Need to Know Before Bringing Your First Mobile App to Market",
+      "url": "https://www.youtube.com/watch?v=MMi90tcouNY",
+      "views": 202,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 3278.0
+    },
+    {
+      "id": "MeWS5T6Oh-8",
+      "title": "Getting Past \"Imposter Syndrome\"",
+      "url": "https://www.youtube.com/watch?v=MeWS5T6Oh-8",
+      "views": 72,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2373.0
+    },
+    {
+      "id": "hzB02-RTC0A",
+      "title": "How to Take Fortune 500 S&M Strategies, Scale Them to Your Business to Achieve the Same Results",
+      "url": "https://www.youtube.com/watch?v=hzB02-RTC0A",
+      "views": 306,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 2371.0
+    },
+    {
+      "id": "fq2FKan-_YE",
+      "title": "Courageous Conversations: Common Mistakes and Uncommon Strategies",
+      "url": "https://www.youtube.com/watch?v=fq2FKan-_YE",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2521.0
+    },
+    {
+      "id": "y-xISt1prNQ",
+      "title": "Amplify - Our Collective Stories",
+      "url": "https://www.youtube.com/watch?v=y-xISt1prNQ",
+      "views": 33,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 3705.0
+    },
+    {
+      "id": "s-ngT4nbc3Y",
+      "title": "A conversation with Felecia Hatcher presented by Knight Foundation",
+      "url": "https://www.youtube.com/watch?v=s-ngT4nbc3Y",
+      "views": 257,
+      "likes": 8,
+      "published": null,
+      "duration_sec": 3438.0
+    },
+    {
+      "id": "sWibxJDNFEU",
+      "title": "How to pitch the Fortune 500",
+      "url": "https://www.youtube.com/watch?v=sWibxJDNFEU",
+      "views": 89,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3674.0
+    },
+    {
+      "id": "MA21GqEH0qY",
+      "title": "How to Strike the Perfect Pitch",
+      "url": "https://www.youtube.com/watch?v=MA21GqEH0qY",
+      "views": 24,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3734.0
+    },
+    {
+      "id": "KuVJNq5srGU",
+      "title": "Best Practices for Scaling a Culture of DI&B: Convo with Beta.mn and HubSpot",
+      "url": "https://www.youtube.com/watch?v=KuVJNq5srGU",
+      "views": 32,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3707.0
+    },
+    {
+      "id": "Jnj74KsySZo",
+      "title": "Raising The F*cking Bar: Unlocking Explosive Growth at Ovative",
+      "url": "https://www.youtube.com/watch?v=Jnj74KsySZo",
+      "views": 103,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 2474.0
+    },
+    {
+      "id": "7GFC07gr4c8",
+      "title": "Raising The F*cking Bar with EMR: Creating a Marketing Metric That Actually Works",
+      "url": "https://www.youtube.com/watch?v=7GFC07gr4c8",
+      "views": 83,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2015.0
+    },
+    {
+      "id": "PMB8ld8qkdw",
+      "title": "The Real Pitch: Live Feedback from Real Investors",
+      "url": "https://www.youtube.com/watch?v=PMB8ld8qkdw",
+      "views": 83,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3000.0
+    },
+    {
+      "id": "Yk7VMPaqmsw",
+      "title": "Ask a VC Anything",
+      "url": "https://www.youtube.com/watch?v=Yk7VMPaqmsw",
+      "views": 46,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2879.0
+    },
+    {
+      "id": "9fyS7OVTeW8",
+      "title": "Marketing for Founders - From Concept to Funding to Scale",
+      "url": "https://www.youtube.com/watch?v=9fyS7OVTeW8",
+      "views": 82,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2155.0
+    },
+    {
+      "id": "P26cPrNPhDU",
+      "title": "How to Supercharge Customer Acquisition & Boost Employee Engagement with Crypto Loyalty",
+      "url": "https://www.youtube.com/watch?v=P26cPrNPhDU",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1963.0
+    },
+    {
+      "id": "_Ehk12rFb-k",
+      "title": "How to get your first investment",
+      "url": "https://www.youtube.com/watch?v=_Ehk12rFb-k",
+      "views": 411,
+      "likes": 6,
+      "published": null,
+      "duration_sec": 3287.0
+    },
+    {
+      "id": "Y6BZ9UzFbX4",
+      "title": "Building A Bigger Table: Philanthropy\u2019s Role In Making Space for Underrepresented Fund Managers",
+      "url": "https://www.youtube.com/watch?v=Y6BZ9UzFbX4",
+      "views": 51,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2781.0
+    },
+    {
+      "id": "MT3N34reDNs",
+      "title": "Accelerating growth: How philanthropy fuels startup success",
+      "url": "https://www.youtube.com/watch?v=MT3N34reDNs",
+      "views": 21,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3474.0
+    },
+    {
+      "id": "U0vMU6KbXfM",
+      "title": "Why Creatives are the Future Tech Giants",
+      "url": "https://www.youtube.com/watch?v=U0vMU6KbXfM",
+      "views": 51,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2821.0
+    },
+    {
+      "id": "eXz6nlWdUwk",
+      "title": "Reconsidering How to Keep Teachers in the Field",
+      "url": "https://www.youtube.com/watch?v=eXz6nlWdUwk",
+      "views": 50,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1511.0
+    },
+    {
+      "id": "k4iYLBCvFOA",
+      "title": "Are reviews (social proof) the most important growth driver? BETA program study results.",
+      "url": "https://www.youtube.com/watch?v=k4iYLBCvFOA",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1194.0
+    },
+    {
+      "id": "iJRsRcuMtCk",
+      "title": "The Seeds of a Thriving Community",
+      "url": "https://www.youtube.com/watch?v=iJRsRcuMtCk",
+      "views": 19,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1216.0
+    },
+    {
+      "id": "BANu0cAdlME",
+      "title": "Youth Lens 360 Presentation: The Impact of the Twin Cities Startup Week Fly-In Program",
+      "url": "https://www.youtube.com/watch?v=BANu0cAdlME",
+      "views": 60,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 637.0
+    },
+    {
+      "id": "ZMFDb8_amzY",
+      "title": "The Impact of the Twin Cities Startup Week Fly-In Program",
+      "url": "https://www.youtube.com/watch?v=ZMFDb8_amzY",
+      "views": 165,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 290.0
+    },
+    {
+      "id": "gvCBdjtVxgs",
+      "title": "Twin Cities Startup Week 2022 Info Session",
+      "url": "https://www.youtube.com/watch?v=gvCBdjtVxgs",
+      "views": 71,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2825.0
+    },
+    {
+      "id": "A-KGeIOamMc",
+      "title": "A Side Hustle",
+      "url": "https://www.youtube.com/watch?v=A-KGeIOamMc",
+      "views": 24,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3551.0
+    },
+    {
+      "id": "dTRPgBx_DR0",
+      "title": "Business Essentials for Startups",
+      "url": "https://www.youtube.com/watch?v=dTRPgBx_DR0",
+      "views": 41,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 5216.0
+    },
+    {
+      "id": "Ezgg-RJV9dU",
+      "title": "How to build a CPG Brand?",
+      "url": "https://www.youtube.com/watch?v=Ezgg-RJV9dU",
+      "views": 9454,
+      "likes": 289,
+      "published": null,
+      "duration_sec": 3377.0
+    },
+    {
+      "id": "N5Kr9B6XRWk",
+      "title": "The 2 Keys to Successfully Marketing your Business",
+      "url": "https://www.youtube.com/watch?v=N5Kr9B6XRWk",
+      "views": 30,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3869.0
+    },
+    {
+      "id": "R1Bp-Aqqyic",
+      "title": "Early EdTech Founders Panel",
+      "url": "https://www.youtube.com/watch?v=R1Bp-Aqqyic",
+      "views": 34,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2463.0
+    },
+    {
+      "id": "FiGgcd2k6X4",
+      "title": "Too Many Children Left Behind: Improving Equity in Education through Innovation",
+      "url": "https://www.youtube.com/watch?v=FiGgcd2k6X4",
+      "views": 27,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2909.0
+    },
+    {
+      "id": "vWDjrdSqcEc",
+      "title": "Getting Technical About the Challenges of Ensuring Everyone Has Access to STEM Programming",
+      "url": "https://www.youtube.com/watch?v=vWDjrdSqcEc",
+      "views": 12,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2849.0
+    },
+    {
+      "id": "hgbQtI_bKKc",
+      "title": "OnRamp Education & Workforce Innovation Accelerator Premiere",
+      "url": "https://www.youtube.com/watch?v=hgbQtI_bKKc",
+      "views": 53,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3016.0
+    },
+    {
+      "id": "TIepIsBV7DA",
+      "title": "Preparing Your Startup For Fundraising",
+      "url": "https://www.youtube.com/watch?v=TIepIsBV7DA",
+      "views": 23,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2768.0
+    },
+    {
+      "id": "BTsYMyZr4Lc",
+      "title": "EdTech Startup Guide published by AWS",
+      "url": "https://www.youtube.com/watch?v=BTsYMyZr4Lc",
+      "views": 836,
+      "likes": 18,
+      "published": null,
+      "duration_sec": 2862.0
+    },
+    {
+      "id": "NqKrdPlXy4E",
+      "title": "Managing Fast paced Growth for Emerging EdTech Companies",
+      "url": "https://www.youtube.com/watch?v=NqKrdPlXy4E",
+      "views": 27,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2654.0
+    },
+    {
+      "id": "SG1ZHIiNesg",
+      "title": "Be the Change: Youth Workforce Development through Social Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=SG1ZHIiNesg",
+      "views": 39,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1830.0
+    },
+    {
+      "id": "KJwPZ7I3lMU",
+      "title": "Startup Success For Non Technical Founders",
+      "url": "https://www.youtube.com/watch?v=KJwPZ7I3lMU",
+      "views": 78,
+      "likes": 5,
+      "published": null,
+      "duration_sec": 3453.0
+    },
+    {
+      "id": "cHHR--qu_lw",
+      "title": "Your Body's Energies: A Missing Piece in Your Wellness Toolkit? (and why it's not all \"woo-woo\")",
+      "url": "https://www.youtube.com/watch?v=cHHR--qu_lw",
+      "views": 20,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3865.0
+    },
+    {
+      "id": "BL6xVYrUwho",
+      "title": "How is the MN Startup Market Perceived by Out of State VCs?",
+      "url": "https://www.youtube.com/watch?v=BL6xVYrUwho",
+      "views": 13,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2452.0
+    },
+    {
+      "id": "aQVEEun7q6s",
+      "title": "Rethinking \"Best Practices\"",
+      "url": "https://www.youtube.com/watch?v=aQVEEun7q6s",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3157.0
+    },
+    {
+      "id": "v-U2vr_9aLk",
+      "title": "Your Strategic Playbook for Growth & Execution",
+      "url": "https://www.youtube.com/watch?v=v-U2vr_9aLk",
+      "views": 29,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3535.0
+    },
+    {
+      "id": "PubzLE8FXV4",
+      "title": "Understanding Your Startup Non-dilutive Funding Options",
+      "url": "https://www.youtube.com/watch?v=PubzLE8FXV4",
+      "views": 108,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 2377.0
+    },
+    {
+      "id": "SaIT3wkD_oM",
+      "title": "Come Meditate! A mindfulness Break",
+      "url": "https://www.youtube.com/watch?v=SaIT3wkD_oM",
+      "views": 10,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 965.0
+    },
+    {
+      "id": "FtlSj3HBLzU",
+      "title": "Leverage Your Success",
+      "url": "https://www.youtube.com/watch?v=FtlSj3HBLzU",
+      "views": 5,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3279.0
+    },
+    {
+      "id": "akAEnH51bqY",
+      "title": "Three Strategies for Building a Consultancy That Matters",
+      "url": "https://www.youtube.com/watch?v=akAEnH51bqY",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3552.0
+    },
+    {
+      "id": "NC1q5c5wW5I",
+      "title": "Overcoming Burnout with Mindful Productivity for Entrepreneurs",
+      "url": "https://www.youtube.com/watch?v=NC1q5c5wW5I",
+      "views": 28,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3523.0
+    },
+    {
+      "id": "_qlTDhp9P9E",
+      "title": "Among Us: Imposter Syndrome",
+      "url": "https://www.youtube.com/watch?v=_qlTDhp9P9E",
+      "views": 25,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1407.0
+    },
+    {
+      "id": "x6WszAE9AK4",
+      "title": "Double Your Sales: How to Build a Growth Roadmap that Works",
+      "url": "https://www.youtube.com/watch?v=x6WszAE9AK4",
+      "views": 47,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2349.0
+    },
+    {
+      "id": "FVahmOryFS0",
+      "title": "Fundraising AMA w/ VC",
+      "url": "https://www.youtube.com/watch?v=FVahmOryFS0",
+      "views": 21,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2645.0
+    },
+    {
+      "id": "xs8NjGheP5w",
+      "title": "Non-Dilutive Federal Funding for Novel Early Stage R&D Projects",
+      "url": "https://www.youtube.com/watch?v=xs8NjGheP5w",
+      "views": 20,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 2558.0
+    },
+    {
+      "id": "Ks7_HJQLuAo",
+      "title": "Bookkeeping Basics",
+      "url": "https://www.youtube.com/watch?v=Ks7_HJQLuAo",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2914.0
+    },
+    {
+      "id": "Ot6lrhkdcIk",
+      "title": "Shark Tank Reverse Pitch",
+      "url": "https://www.youtube.com/watch?v=Ot6lrhkdcIk",
+      "views": 60,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 4765.0
+    },
+    {
+      "id": "flPdb7DPTtk",
+      "title": "The Re emergence of Place-based Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=flPdb7DPTtk",
+      "views": 27,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2487.0
+    },
+    {
+      "id": "7o2R2bAbrQE",
+      "title": "Investing in Our Collective Futures",
+      "url": "https://www.youtube.com/watch?v=7o2R2bAbrQE",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2810.0
+    },
+    {
+      "id": "AVWy-eM2Zqw",
+      "title": "Bringing the Future Forward Fast!",
+      "url": "https://www.youtube.com/watch?v=AVWy-eM2Zqw",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2581.0
+    },
+    {
+      "id": "MVJYUsJJRss",
+      "title": "Tackling the Affordable Housing Crisis Through a New Investment Strategy",
+      "url": "https://www.youtube.com/watch?v=MVJYUsJJRss",
+      "views": 53,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2465.0
+    },
+    {
+      "id": "6lPi9XsXbc8",
+      "title": "Digital Equity -  The Next Great Equalizer",
+      "url": "https://www.youtube.com/watch?v=6lPi9XsXbc8",
+      "views": 30,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2794.0
+    },
+    {
+      "id": "uaJzwx3tDho",
+      "title": "What's your Blueprint for becoming Future Ready?",
+      "url": "https://www.youtube.com/watch?v=uaJzwx3tDho",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1544.0
+    },
+    {
+      "id": "6BzqsKXDK40",
+      "title": "Reimagining Our Cities in the Post-Pandemic World",
+      "url": "https://www.youtube.com/watch?v=6BzqsKXDK40",
+      "views": 64,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2271.0
+    },
+    {
+      "id": "rvR7O_iP5RI",
+      "title": "Transforming Livability and Equity Through Technology",
+      "url": "https://www.youtube.com/watch?v=rvR7O_iP5RI",
+      "views": 45,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2266.0
+    },
+    {
+      "id": "kjtScgLvkyM",
+      "title": "How Experimentation in a Consumer Business Improves Both Business and Customer Outcomes",
+      "url": "https://www.youtube.com/watch?v=kjtScgLvkyM",
+      "views": 53,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2425.0
+    },
+    {
+      "id": "qcwFizHMV4Y",
+      "title": "Kotlin Multiplatform Mobile: Real World Lessons Learned",
+      "url": "https://www.youtube.com/watch?v=qcwFizHMV4Y",
+      "views": 2401,
+      "likes": 60,
+      "published": null,
+      "duration_sec": 3395.0
+    },
+    {
+      "id": "loW1K6tS4y8",
+      "title": "Tips For Hiring Developers and Designers in 2021",
+      "url": "https://www.youtube.com/watch?v=loW1K6tS4y8",
+      "views": 34,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3289.0
+    },
+    {
+      "id": "DcEpX6__ohE",
+      "title": "Becoming a Waymaker: Level Up Your Self-Awareness",
+      "url": "https://www.youtube.com/watch?v=DcEpX6__ohE",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3121.0
+    },
+    {
+      "id": "gSiQrDsFW4w",
+      "title": "Don\u2019t Have a Plan, Build a Strategy: How to Recognize and Prioritize Marketing Opportunities",
+      "url": "https://www.youtube.com/watch?v=gSiQrDsFW4w",
+      "views": 50,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2436.0
+    },
+    {
+      "id": "hrvcAp7E1OM",
+      "title": "Inspiring Young Women for a Future Role in Your Business",
+      "url": "https://www.youtube.com/watch?v=hrvcAp7E1OM",
+      "views": 86,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3100.0
+    },
+    {
+      "id": "5S2Beow6P4Y",
+      "title": "Taking the First Step with Tech",
+      "url": "https://www.youtube.com/watch?v=5S2Beow6P4Y",
+      "views": 19,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2686.0
+    },
+    {
+      "id": "H8r162zymzo",
+      "title": "Using No Code Tools to Launch Faster, Save Money, and Streamline Your Startup",
+      "url": "https://www.youtube.com/watch?v=H8r162zymzo",
+      "views": 31,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3989.0
+    },
+    {
+      "id": "3TxJmzs6sqI",
+      "title": "Restaurant Tech For The Win and For The Future",
+      "url": "https://www.youtube.com/watch?v=3TxJmzs6sqI",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1799.0
+    },
+    {
+      "id": "FtMLw975c_c",
+      "title": "The Power of Community in Marketing",
+      "url": "https://www.youtube.com/watch?v=FtMLw975c_c",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 4196.0
+    },
+    {
+      "id": "Rhm727khDYg",
+      "title": "Twin Cities Podcast Hosts UNPLUGGED, Part 2: Marketing",
+      "url": "https://www.youtube.com/watch?v=Rhm727khDYg",
+      "views": 32,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3222.0
+    },
+    {
+      "id": "-miZ3FX5z_c",
+      "title": "Stop Guessing Start Asking: Using Research to Drive Growth",
+      "url": "https://www.youtube.com/watch?v=-miZ3FX5z_c",
+      "views": 137,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 3208.0
+    },
+    {
+      "id": "ugyOKccDjoE",
+      "title": "Pitching Yourself and Your Company For Success",
+      "url": "https://www.youtube.com/watch?v=ugyOKccDjoE",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3627.0
+    },
+    {
+      "id": "8CHQJ4Mkar4",
+      "title": "Twin Cities Podcast Hosts UNPLUGGED, Part 1: Sales",
+      "url": "https://www.youtube.com/watch?v=8CHQJ4Mkar4",
+      "views": 26,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3382.0
+    },
+    {
+      "id": "XiEdMWZN8m4",
+      "title": "MEDA Million Dollar Challenge Announcement",
+      "url": "https://www.youtube.com/watch?v=XiEdMWZN8m4",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1171.0
+    },
+    {
+      "id": "W17xBB97MXc",
+      "title": "Building & Scaling Your Community",
+      "url": "https://www.youtube.com/watch?v=W17xBB97MXc",
+      "views": 19,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 3749.0
+    },
+    {
+      "id": "o2pFband1iI",
+      "title": "Learn the Basics of Selling On Amazon.com",
+      "url": "https://www.youtube.com/watch?v=o2pFband1iI",
+      "views": 3,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 7193.0
+    },
+    {
+      "id": "677j1o0_ZpI",
+      "title": "Program Related Investments (PRIs) in Healthcare",
+      "url": "https://www.youtube.com/watch?v=677j1o0_ZpI",
+      "views": 68,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3575.0
+    },
+    {
+      "id": "e4qQs902CDY",
+      "title": "What\u2019s Changed? Adjusting to Customer Needs in the New Normal",
+      "url": "https://www.youtube.com/watch?v=e4qQs902CDY",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2317.0
+    },
+    {
+      "id": "WI2U-iBjCLA",
+      "title": "Making Peace w/ Non Violent Communication",
+      "url": "https://www.youtube.com/watch?v=WI2U-iBjCLA",
+      "views": 10,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2596.0
+    },
+    {
+      "id": "DFUyzCGneFs",
+      "title": "How to Wake Up Your B2B Content",
+      "url": "https://www.youtube.com/watch?v=DFUyzCGneFs",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2463.0
+    },
+    {
+      "id": "8EOCCcgqJfY",
+      "title": "Growing Your Business: Do I Raise Money to Fund my Startup? - Presented by Traction Capital",
+      "url": "https://www.youtube.com/watch?v=8EOCCcgqJfY",
+      "views": 68,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3398.0
+    },
+    {
+      "id": "EtbWjd10CgE",
+      "title": "To fund or not to fund\u2026the founder\u2019s dilemma from an investor perspective",
+      "url": "https://www.youtube.com/watch?v=EtbWjd10CgE",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1989.0
+    },
+    {
+      "id": "fG96W9swG6s",
+      "title": "2021 MN Startup Awards",
+      "url": "https://www.youtube.com/watch?v=fG96W9swG6s",
+      "views": 26,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1741.0
+    },
+    {
+      "id": "D_pnx-VnYJ8",
+      "title": "Customer Obsession Creates Restaurant Resiliency",
+      "url": "https://www.youtube.com/watch?v=D_pnx-VnYJ8",
+      "views": 9,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1340.0
+    },
+    {
+      "id": "V3Uh7OTJOqw",
+      "title": "The Real Pitch MN",
+      "url": "https://www.youtube.com/watch?v=V3Uh7OTJOqw",
+      "views": 121,
+      "likes": 5,
+      "published": null,
+      "duration_sec": 3508.0
+    },
+    {
+      "id": "RNWhLxtFbIk",
+      "title": "If You Build It Will They Come? How To Hire and Retain Your First Employees",
+      "url": "https://www.youtube.com/watch?v=RNWhLxtFbIk",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2653.0
+    },
+    {
+      "id": "ZNpLeh4amkA",
+      "title": "Lessons from Black Tech Leaders",
+      "url": "https://www.youtube.com/watch?v=ZNpLeh4amkA",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3543.0
+    },
+    {
+      "id": "59ziZHKtoig",
+      "title": "State of Startup + Enterprise Partnerships in MSP",
+      "url": "https://www.youtube.com/watch?v=59ziZHKtoig",
+      "views": 113,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2688.0
+    },
+    {
+      "id": "j3yM4mJsAvM",
+      "title": "Do Well by Doing Good Making a Positive Impact in EdTech",
+      "url": "https://www.youtube.com/watch?v=j3yM4mJsAvM",
+      "views": 42,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2141.0
+    },
+    {
+      "id": "d_mnhOq1KbI",
+      "title": "Your Marketing Should Pay for Itself: Optimizing for Conversion",
+      "url": "https://www.youtube.com/watch?v=d_mnhOq1KbI",
+      "views": 13,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3411.0
+    },
+    {
+      "id": "XHcHrcZdQpY",
+      "title": "Future of Venture with Atland Ventures",
+      "url": "https://www.youtube.com/watch?v=XHcHrcZdQpY",
+      "views": 39,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3714.0
+    },
+    {
+      "id": "4K_0Kg7MCL4",
+      "title": "Growing your startup with Open Scout and AWS University Scout Program",
+      "url": "https://www.youtube.com/watch?v=4K_0Kg7MCL4",
+      "views": 88,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3200.0
+    },
+    {
+      "id": "HfV8l4RpoGI",
+      "title": "Beyond the Core - The magic of product ecosystems",
+      "url": "https://www.youtube.com/watch?v=HfV8l4RpoGI",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2991.0
+    },
+    {
+      "id": "END9HnuLIhQ",
+      "title": "An Emotionally Intelligent Coach That Meditates With You",
+      "url": "https://www.youtube.com/watch?v=END9HnuLIhQ",
+      "views": 8,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2191.0
+    },
+    {
+      "id": "9yBX8HdcO-w",
+      "title": "The Crucial Capability Every Entrepreneur Must Develop",
+      "url": "https://www.youtube.com/watch?v=9yBX8HdcO-w",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2033.0
+    },
+    {
+      "id": "oEUBSSLOKN0",
+      "title": "Location, Privacy, and Craft Breweries",
+      "url": "https://www.youtube.com/watch?v=oEUBSSLOKN0",
+      "views": 48,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1521.0
+    },
+    {
+      "id": "4pxjDqE3RCA",
+      "title": "Launching and Sustaining your Nonprofit Organization",
+      "url": "https://www.youtube.com/watch?v=4pxjDqE3RCA",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2147.0
+    },
+    {
+      "id": "jLKzHFgOMCg",
+      "title": "Get More Clients with Sales Funnel Automation",
+      "url": "https://www.youtube.com/watch?v=jLKzHFgOMCg",
+      "views": 33,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1700.0
+    },
+    {
+      "id": "avRFseaPLDc",
+      "title": "Demystifying Market Research",
+      "url": "https://www.youtube.com/watch?v=avRFseaPLDc",
+      "views": 19,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3537.0
+    },
+    {
+      "id": "8zPobkQzt9E",
+      "title": "Crowdfunding: What You Should Know Before You Start",
+      "url": "https://www.youtube.com/watch?v=8zPobkQzt9E",
+      "views": 21,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3408.0
+    },
+    {
+      "id": "NyirMyOt1pc",
+      "title": "Coffee & Closers: How to Land your Next 3 Customers",
+      "url": "https://www.youtube.com/watch?v=NyirMyOt1pc",
+      "views": 32,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3585.0
+    },
+    {
+      "id": "xNVhRFQ-ajw",
+      "title": "PLAY Your Way to a Profitable Holiday Pre-Sale Campaign",
+      "url": "https://www.youtube.com/watch?v=xNVhRFQ-ajw",
+      "views": 22,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3443.0
+    },
+    {
+      "id": "lvyJTmORYac",
+      "title": "How To Design & Deliver an Elevator Speech",
+      "url": "https://www.youtube.com/watch?v=lvyJTmORYac",
+      "views": 46,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2401.0
+    },
+    {
+      "id": "XccPNHAT9hg",
+      "title": "Breaking Into Tech Panel Discussion",
+      "url": "https://www.youtube.com/watch?v=XccPNHAT9hg",
+      "views": 44,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3622.0
+    },
+    {
+      "id": "cyFeei5iIZM",
+      "title": "11 Clues Your Project Might Be In Trouble",
+      "url": "https://www.youtube.com/watch?v=cyFeei5iIZM",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2901.0
+    },
+    {
+      "id": "rxfBA_08Csg",
+      "title": "Marketing Basics for the Non Marketer",
+      "url": "https://www.youtube.com/watch?v=rxfBA_08Csg",
+      "views": 99,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 3142.0
+    },
+    {
+      "id": "aS5eG6oVioU",
+      "title": "How to Scale Tech Marketing with Purpose",
+      "url": "https://www.youtube.com/watch?v=aS5eG6oVioU",
+      "views": 21,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3494.0
+    },
+    {
+      "id": "X9bGBvwrapY",
+      "title": "Change Can\u2019t Happen in Isolation: Convergence of the Sustainable Development Goals",
+      "url": "https://www.youtube.com/watch?v=X9bGBvwrapY",
+      "views": 23,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3484.0
+    },
+    {
+      "id": "yzgdN4_2PFY",
+      "title": "Science Behind Testimonial Marketing",
+      "url": "https://www.youtube.com/watch?v=yzgdN4_2PFY",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1297.0
+    },
+    {
+      "id": "tTIjnWR-kM0",
+      "title": "Doing good while doing well",
+      "url": "https://www.youtube.com/watch?v=tTIjnWR-kM0",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3476.0
+    },
+    {
+      "id": "HgcENv1bVkw",
+      "title": "Using Goal Setting & Metrics to Grow Faster",
+      "url": "https://www.youtube.com/watch?v=HgcENv1bVkw",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1820.0
+    },
+    {
+      "id": "Cun6kQG3PFI",
+      "title": "Doing More of the Right Things Faster",
+      "url": "https://www.youtube.com/watch?v=Cun6kQG3PFI",
+      "views": 38,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2073.0
+    },
+    {
+      "id": "GCdusz0Sf-A",
+      "title": "Building a Great Company from the Inside Out",
+      "url": "https://www.youtube.com/watch?v=GCdusz0Sf-A",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2617.0
+    },
+    {
+      "id": "5mNcMOKiYzc",
+      "title": "The Art of Tech: Unlocking Creative Possibilities",
+      "url": "https://www.youtube.com/watch?v=5mNcMOKiYzc",
+      "views": 22,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1501.0
+    },
+    {
+      "id": "N1kcjhNFEvY",
+      "title": "Health Law 101: Key Legal Issues for Health Care Startups and Investors",
+      "url": "https://www.youtube.com/watch?v=N1kcjhNFEvY",
+      "views": 148,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 4365.0
+    },
+    {
+      "id": "DNx9vju0vKE",
+      "title": "Why Visual Planning for Your Instagram Feed Matters",
+      "url": "https://www.youtube.com/watch?v=DNx9vju0vKE",
+      "views": 26,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 966.0
+    },
+    {
+      "id": "k3WM2MVvl2Y",
+      "title": "Find Out if You've Outgrown Your Friend or Freelancer",
+      "url": "https://www.youtube.com/watch?v=k3WM2MVvl2Y",
+      "views": 52,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1591.0
+    },
+    {
+      "id": "UaErNSY9l1k",
+      "title": "Negotiating Collaborative Agreements with Large Companies: What to Expect",
+      "url": "https://www.youtube.com/watch?v=UaErNSY9l1k",
+      "views": 47,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 5600.0
+    },
+    {
+      "id": "4ZqtU4a-t5Y",
+      "title": "How the State Supports Startups",
+      "url": "https://www.youtube.com/watch?v=4ZqtU4a-t5Y",
+      "views": 114,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 2778.0
+    },
+    {
+      "id": "9XLXmuJfomM",
+      "title": "The Future of SEO and How to Win",
+      "url": "https://www.youtube.com/watch?v=9XLXmuJfomM",
+      "views": 149,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 2098.0
+    },
+    {
+      "id": "RRv8j9yCiao",
+      "title": "Generating Sales Via Your Website: A Beautiful Website Is Not Enough",
+      "url": "https://www.youtube.com/watch?v=RRv8j9yCiao",
+      "views": 129,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2599.0
+    },
+    {
+      "id": "PgKqyMAJ2s8",
+      "title": "Trust Equity Harnessing the power of trust to fuel early-stage growth",
+      "url": "https://www.youtube.com/watch?v=PgKqyMAJ2s8",
+      "views": 22,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2586.0
+    },
+    {
+      "id": "lGhFMCLSNhc",
+      "title": "Startup Awards 2018",
+      "url": "https://www.youtube.com/watch?v=lGhFMCLSNhc",
+      "views": 6,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 30.0
+    },
+    {
+      "id": "SsuOih2vucg",
+      "title": "Breaking Through in 2020: Using Growth for a Brand Boost",
+      "url": "https://www.youtube.com/watch?v=SsuOih2vucg",
+      "views": 26,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2261.0
+    },
+    {
+      "id": "_peX6wWREgA",
+      "title": "Benefits of Certification",
+      "url": "https://www.youtube.com/watch?v=_peX6wWREgA",
+      "views": 108,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2469.0
+    },
+    {
+      "id": "PGX-iBQWg6A",
+      "title": "Fundraising During COVID-19",
+      "url": "https://www.youtube.com/watch?v=PGX-iBQWg6A",
+      "views": 32,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1775.0
+    },
+    {
+      "id": "_Nostj3SD8Y",
+      "title": "Creating a Diverse Culture on Day One",
+      "url": "https://www.youtube.com/watch?v=_Nostj3SD8Y",
+      "views": 61,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1524.0
+    },
+    {
+      "id": "pYsbdw-gE-0",
+      "title": "Equity Investing",
+      "url": "https://www.youtube.com/watch?v=pYsbdw-gE-0",
+      "views": 69,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2110.0
+    },
+    {
+      "id": "XZ5-wBxXhzY",
+      "title": "MN-DEED Support Startups: Funding, Programs, and Resources",
+      "url": "https://www.youtube.com/watch?v=XZ5-wBxXhzY",
+      "views": 111,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 2640.0
+    },
+    {
+      "id": "OIRlhE_9F8Y",
+      "title": "The Real Pitch MN",
+      "url": "https://www.youtube.com/watch?v=OIRlhE_9F8Y",
+      "views": 219,
+      "likes": 6,
+      "published": null,
+      "duration_sec": 3955.0
+    },
+    {
+      "id": "ED5HDSLu14w",
+      "title": "The Art of Tech: Unlocking Creative Possibilities",
+      "url": "https://www.youtube.com/watch?v=ED5HDSLu14w",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2050.0
+    },
+    {
+      "id": "wgWULl6YRoI",
+      "title": "Closers Media presents :: Cocktails&Closers",
+      "url": "https://www.youtube.com/watch?v=wgWULl6YRoI",
+      "views": 54,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2107.0
+    },
+    {
+      "id": "EyEvBTN7KAk",
+      "title": "5 Things About 5 Things That Every Startup Should Know",
+      "url": "https://www.youtube.com/watch?v=EyEvBTN7KAk",
+      "views": 94,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2949.0
+    },
+    {
+      "id": "biDYf3LFOAg",
+      "title": "Values, Culture, and Work Ethic: The Journey to Today's Best Buy",
+      "url": "https://www.youtube.com/watch?v=biDYf3LFOAg",
+      "views": 91,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 2180.0
+    },
+    {
+      "id": "GEr3-JhlmI0",
+      "title": "Worrell Service Design Principles and Innovation for Healthcare Healthcare",
+      "url": "https://www.youtube.com/watch?v=GEr3-JhlmI0",
+      "views": 198,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 2004.0
+    },
+    {
+      "id": "XEce7E7J5go",
+      "title": "FemTech, Female Founders, and the Future",
+      "url": "https://www.youtube.com/watch?v=XEce7E7J5go",
+      "views": 45,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2829.0
+    },
+    {
+      "id": "mHvMr8Qoobc",
+      "title": "How Youth Entrepreneurs are Building the Hospitals of the Future",
+      "url": "https://www.youtube.com/watch?v=mHvMr8Qoobc",
+      "views": 20,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3613.0
+    },
+    {
+      "id": "MNpLuqqDAxQ",
+      "title": "The Current State of Medtech and Healthcare: A Fireside Chat with JP Morgan Chase and Medical Alley",
+      "url": "https://www.youtube.com/watch?v=MNpLuqqDAxQ",
+      "views": 42,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2784.0
+    },
+    {
+      "id": "9SDjdOQG6Pk",
+      "title": "Yoga with The Firm Healthcare Track",
+      "url": "https://www.youtube.com/watch?v=9SDjdOQG6Pk",
+      "views": 15,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1592.0
+    },
+    {
+      "id": "aazHHSf6nR4",
+      "title": "Disrupting the Medical Supply Industry: A Fireside Chat with Medinas Health & Precursor Ventures",
+      "url": "https://www.youtube.com/watch?v=aazHHSf6nR4",
+      "views": 65,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1970.0
+    },
+    {
+      "id": "WX6HhoA1ee4",
+      "title": "A Primer on the Three Pillars: What does Sustainability Mean?",
+      "url": "https://www.youtube.com/watch?v=WX6HhoA1ee4",
+      "views": 50,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1743.0
+    },
+    {
+      "id": "bd8xcuTd9sA",
+      "title": "ImpactSKU Preview Showcase",
+      "url": "https://www.youtube.com/watch?v=bd8xcuTd9sA",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2941.0
+    },
+    {
+      "id": "Ahq07eyXNks",
+      "title": "Sustainable Development: Is There Such A Thing?",
+      "url": "https://www.youtube.com/watch?v=Ahq07eyXNks",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2889.0
+    },
+    {
+      "id": "J_bn49HTB60",
+      "title": "You Will Probably Survive This",
+      "url": "https://www.youtube.com/watch?v=J_bn49HTB60",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1703.0
+    },
+    {
+      "id": "1V_L5OFlWH8",
+      "title": "Video Craft for Tech - Investing, Sales, Support & Marketing 360+",
+      "url": "https://www.youtube.com/watch?v=1V_L5OFlWH8",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2907.0
+    },
+    {
+      "id": "QD8sd9UHaOw",
+      "title": "Prep the Brand, Prep the Person: The 1-2 Punch of Successful Marketing",
+      "url": "https://www.youtube.com/watch?v=QD8sd9UHaOw",
+      "views": 24,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1864.0
+    },
+    {
+      "id": "Dyrjc73NR1g",
+      "title": "Using Data Visualization to Tell Your Story & Grow Your Business",
+      "url": "https://www.youtube.com/watch?v=Dyrjc73NR1g",
+      "views": 16,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2760.0
+    },
+    {
+      "id": "bTXxuS4EeyU",
+      "title": "The Power of Storytelling through Video",
+      "url": "https://www.youtube.com/watch?v=bTXxuS4EeyU",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1966.0
+    },
+    {
+      "id": "Tymos1pjIMk",
+      "title": "TCSW Virtual Career Fair Kickoff",
+      "url": "https://www.youtube.com/watch?v=Tymos1pjIMk",
+      "views": 7,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2786.0
+    },
+    {
+      "id": "Pbqs77CYkh8",
+      "title": "Supercharge Your Growth with a Scalable All-On-One Sales & Marketing System",
+      "url": "https://www.youtube.com/watch?v=Pbqs77CYkh8",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2064.0
+    },
+    {
+      "id": "ReSm1E1Qv1k",
+      "title": "Social Enterprise Showcase Panel + Marketplace",
+      "url": "https://www.youtube.com/watch?v=ReSm1E1Qv1k",
+      "views": 19,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3601.0
+    },
+    {
+      "id": "FxXzvFVJhQw",
+      "title": "SEO For Startups Get In The Game",
+      "url": "https://www.youtube.com/watch?v=FxXzvFVJhQw",
+      "views": 14,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2771.0
+    },
+    {
+      "id": "kv-oYhv96CI",
+      "title": "Minnestar Presents Lightning Talks",
+      "url": "https://www.youtube.com/watch?v=kv-oYhv96CI",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3771.0
+    },
+    {
+      "id": "Yt4Sye_9Tpk",
+      "title": "Ready, Set, Go-to-Market: Launch Strategies for Founders",
+      "url": "https://www.youtube.com/watch?v=Yt4Sye_9Tpk",
+      "views": 7,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2064.0
+    },
+    {
+      "id": "g_19cUx0MHw",
+      "title": "Launch Marketing for Purpose-Driven Founders: How to Build the MVP of your Marketing Plan",
+      "url": "https://www.youtube.com/watch?v=g_19cUx0MHw",
+      "views": 150,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 2702.0
+    },
+    {
+      "id": "DYkpgPr13CE",
+      "title": "Intro to Growth Hacking: The Idea Pipeline & ICE metrics",
+      "url": "https://www.youtube.com/watch?v=DYkpgPr13CE",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3008.0
+    },
+    {
+      "id": "CfOg6hd3hWg",
+      "title": "How as a Founder to get your first customers",
+      "url": "https://www.youtube.com/watch?v=CfOg6hd3hWg",
+      "views": 23,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1873.0
+    },
+    {
+      "id": "Jy5uAM8tnZE",
+      "title": "Harness the Power of AI: Improving Business Outcomes",
+      "url": "https://www.youtube.com/watch?v=Jy5uAM8tnZE",
+      "views": 45,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3838.0
+    },
+    {
+      "id": "zHeqUUGVtVE",
+      "title": "Keeping Sales Connected, Motivated and Closing in Interesting Times",
+      "url": "https://www.youtube.com/watch?v=zHeqUUGVtVE",
+      "views": 90,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3001.0
+    },
+    {
+      "id": "pptUcOlQi3E",
+      "title": "Grow Better: Aligning Data, Tech, and Processes to Drive Digital Transformation",
+      "url": "https://www.youtube.com/watch?v=pptUcOlQi3E",
+      "views": 6,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3067.0
+    },
+    {
+      "id": "07u6AoSQvCg",
+      "title": "Design you network. Build your scrum",
+      "url": "https://www.youtube.com/watch?v=07u6AoSQvCg",
+      "views": 7,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1894.0
+    },
+    {
+      "id": "mF3gdZR0uYk",
+      "title": "12 Crucial Do's and Don'ts for B2B Influencer Marketing",
+      "url": "https://www.youtube.com/watch?v=mF3gdZR0uYk",
+      "views": 57,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1440.0
+    },
+    {
+      "id": "KjWVhaY0W30",
+      "title": "Yes, It's Possible To Make Money With Original Content",
+      "url": "https://www.youtube.com/watch?v=KjWVhaY0W30",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1092.0
+    },
+    {
+      "id": "eVvNMS5f6nM",
+      "title": "Using Cloud Providers to Achieve HIPAA Compliance",
+      "url": "https://www.youtube.com/watch?v=eVvNMS5f6nM",
+      "views": 63,
+      "likes": 3,
+      "published": null,
+      "duration_sec": 1517.0
+    },
+    {
+      "id": "jkzjWdcXQk0",
+      "title": "The How and Why of Designing Connectivity into Your Start-up",
+      "url": "https://www.youtube.com/watch?v=jkzjWdcXQk0",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2008.0
+    },
+    {
+      "id": "rr6sXbQbod4",
+      "title": "Pandemic Parenting: strategies for families in this challenging time",
+      "url": "https://www.youtube.com/watch?v=rr6sXbQbod4",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2002.0
+    },
+    {
+      "id": "xnE7rPpB8Fg",
+      "title": "Non-Dilutive Federal Research Funding for Technology Commercialization",
+      "url": "https://www.youtube.com/watch?v=xnE7rPpB8Fg",
+      "views": 25,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2498.0
+    },
+    {
+      "id": "IPwpHDk_dsQ",
+      "title": "Kendall Qualls: From Harlem to Healthcare",
+      "url": "https://www.youtube.com/watch?v=IPwpHDk_dsQ",
+      "views": 48,
+      "likes": 2,
+      "published": null,
+      "duration_sec": 1903.0
+    },
+    {
+      "id": "-i1F7eyDnrk",
+      "title": "Keeping the Fire Alive: Find Balance and Prevent Burnout",
+      "url": "https://www.youtube.com/watch?v=-i1F7eyDnrk",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3323.0
+    },
+    {
+      "id": "jgTcErHKNtQ",
+      "title": "IP Secrets to Supercharge Your Startup",
+      "url": "https://www.youtube.com/watch?v=jgTcErHKNtQ",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1863.0
+    },
+    {
+      "id": "IK_rGBGnZFU",
+      "title": "How To Create Breakthrough Connections for Breakthrough Team Performance",
+      "url": "https://www.youtube.com/watch?v=IK_rGBGnZFU",
+      "views": 38,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1948.0
+    },
+    {
+      "id": "H3DMFjPp3kw",
+      "title": "The Art of Holding People Accountable",
+      "url": "https://www.youtube.com/watch?v=H3DMFjPp3kw",
+      "views": 89,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2410.0
+    },
+    {
+      "id": "XG6m6UbdSVE",
+      "title": "The Future of Solar Energy and Battery Storage",
+      "url": "https://www.youtube.com/watch?v=XG6m6UbdSVE",
+      "views": 44,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3333.0
+    },
+    {
+      "id": "osP8ai1Vq_s",
+      "title": "Powering Through a Pivot: How SOULMUCH Navigated Uncertainty & Stated True to their Mission",
+      "url": "https://www.youtube.com/watch?v=osP8ai1Vq_s",
+      "views": 25,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1821.0
+    },
+    {
+      "id": "na9HqLm_L20",
+      "title": "Moment of Zen",
+      "url": "https://www.youtube.com/watch?v=na9HqLm_L20",
+      "views": 7,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1806.0
+    },
+    {
+      "id": "4PTiWUZCdJA",
+      "title": "AI & The Black Experience",
+      "url": "https://www.youtube.com/watch?v=4PTiWUZCdJA",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2510.0
+    },
+    {
+      "id": "tf_oZO-sZ-o",
+      "title": "Unlocking New Revenue for Social Innovation",
+      "url": "https://www.youtube.com/watch?v=tf_oZO-sZ-o",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2744.0
+    },
+    {
+      "id": "JMBQ_vAC57k",
+      "title": "Values-Based Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=JMBQ_vAC57k",
+      "views": 20,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1840.0
+    },
+    {
+      "id": "VIbwYY0xXK4",
+      "title": "Unconscious Bias: Nip It in the Bud",
+      "url": "https://www.youtube.com/watch?v=VIbwYY0xXK4",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1831.0
+    },
+    {
+      "id": "i6ORA4PDRss",
+      "title": "Kickstart your service-based business that makes a difference",
+      "url": "https://www.youtube.com/watch?v=i6ORA4PDRss",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1658.0
+    },
+    {
+      "id": "50II62RZZIo",
+      "title": "Innovation to Execution: Turning your ideas into a plan!",
+      "url": "https://www.youtube.com/watch?v=50II62RZZIo",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1273.0
+    },
+    {
+      "id": "nIUaTXJwaU8",
+      "title": "How to Profit from a Sustainable, Circular Economy",
+      "url": "https://www.youtube.com/watch?v=nIUaTXJwaU8",
+      "views": 34,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1502.0
+    },
+    {
+      "id": "V7CnGE_CR3A",
+      "title": "Growing Engineering: From Startup to Market Leader",
+      "url": "https://www.youtube.com/watch?v=V7CnGE_CR3A",
+      "views": 10,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1026.0
+    },
+    {
+      "id": "GyOQvCyqi-Y",
+      "title": "Turning Passion into Purpose: Becoming Social Entrepreneurs",
+      "url": "https://www.youtube.com/watch?v=GyOQvCyqi-Y",
+      "views": 23,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2665.0
+    },
+    {
+      "id": "L5u0cIlOaaM",
+      "title": "Startup Grind-  Launching a Sustainable Business Venture Online",
+      "url": "https://www.youtube.com/watch?v=L5u0cIlOaaM",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1897.0
+    },
+    {
+      "id": "4o0KCJWaUy8",
+      "title": "How to incorporate the Sustainable Development Goals into Your Startup: Hosted by Impact Hub MSP",
+      "url": "https://www.youtube.com/watch?v=4o0KCJWaUy8",
+      "views": 32,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3195.0
+    },
+    {
+      "id": "URnZ76PoRx0",
+      "title": "Founders Panel: Lessons Learned in Growing Your Social Enterprise",
+      "url": "https://www.youtube.com/watch?v=URnZ76PoRx0",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2479.0
+    },
+    {
+      "id": "J2izGWCHfcw",
+      "title": "Disrupting the Status Quo in Your Organization and Community",
+      "url": "https://www.youtube.com/watch?v=J2izGWCHfcw",
+      "views": 13,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3243.0
+    },
+    {
+      "id": "wfhqAG3NRhk",
+      "title": "Climate Tech Meet & Greet & Show & Tell",
+      "url": "https://www.youtube.com/watch?v=wfhqAG3NRhk",
+      "views": 14,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2692.0
+    },
+    {
+      "id": "c96g5FsYY64",
+      "title": "Building a B Corp: A Panel Discussion",
+      "url": "https://www.youtube.com/watch?v=c96g5FsYY64",
+      "views": 14,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2776.0
+    },
+    {
+      "id": "KIwpoZsIU9E",
+      "title": "A Gay Jew, A Black Man & A White Mom Walk into a Boardroom",
+      "url": "https://www.youtube.com/watch?v=KIwpoZsIU9E",
+      "views": 30,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1687.0
+    },
+    {
+      "id": "bfoAdCa_4DI",
+      "title": "#CovidComeback -  Business Accelerator for Digital Success",
+      "url": "https://www.youtube.com/watch?v=bfoAdCa_4DI",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2949.0
+    },
+    {
+      "id": "Ngmaao4hZ1M",
+      "title": "BETA's & Matchstick's Commitment to Diversity",
+      "url": "https://www.youtube.com/watch?v=Ngmaao4hZ1M",
+      "views": 7,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2395.0
+    },
+    {
+      "id": "qoNSaH48yr8",
+      "title": "Building a Social Impact Business: Lessons Learned from 4 Early-Stage Founders",
+      "url": "https://www.youtube.com/watch?v=qoNSaH48yr8",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2802.0
+    },
+    {
+      "id": "mDqvYVY__N8",
+      "title": "Crash Course on Hiring Developers",
+      "url": "https://www.youtube.com/watch?v=mDqvYVY__N8",
+      "views": 22,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 4279.0
+    },
+    {
+      "id": "8M-r13-OJDo",
+      "title": "What to Expect from a Development Team",
+      "url": "https://www.youtube.com/watch?v=8M-r13-OJDo",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2308.0
+    },
+    {
+      "id": "5dRlG-6AcNM",
+      "title": "UnPub \u2013 Re imagining Education and Collaboration with a Purpose",
+      "url": "https://www.youtube.com/watch?v=5dRlG-6AcNM",
+      "views": 33,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3112.0
+    },
+    {
+      "id": "zceua5oTwUo",
+      "title": "The Power and Potential of Intergenerational Leadership Teams",
+      "url": "https://www.youtube.com/watch?v=zceua5oTwUo",
+      "views": 30,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2074.0
+    },
+    {
+      "id": "4dbFjjuADq4",
+      "title": "The Entrepreneur's Data Privacy Primer",
+      "url": "https://www.youtube.com/watch?v=4dbFjjuADq4",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1634.0
+    },
+    {
+      "id": "UbbDqrJaYeU",
+      "title": "The Empathy Challenge: Practice Recognizing Your Blind Spots",
+      "url": "https://www.youtube.com/watch?v=UbbDqrJaYeU",
+      "views": 48,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3021.0
+    },
+    {
+      "id": "kokjhkyDTjo",
+      "title": "The AI First Mindset: How to Add, Leverage & Optimize AI",
+      "url": "https://www.youtube.com/watch?v=kokjhkyDTjo",
+      "views": 49,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1550.0
+    },
+    {
+      "id": "Eqbn75eYvLc",
+      "title": "How Interest in Workforce Equity & Record Unemployment can Narrow the Tech Skills Gap",
+      "url": "https://www.youtube.com/watch?v=Eqbn75eYvLc",
+      "views": 31,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 3857.0
+    },
+    {
+      "id": "hXXGrGwIWPs",
+      "title": "Social Justice in a Digital World",
+      "url": "https://www.youtube.com/watch?v=hXXGrGwIWPs",
+      "views": 45,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 1673.0
+    },
+    {
+      "id": "SQ2hV77zhr4",
+      "title": "Scaling Through User Voice: Evaluating Your Attention to Educator Voices",
+      "url": "https://www.youtube.com/watch?v=SQ2hV77zhr4",
+      "views": 15,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3411.0
+    },
+    {
+      "id": "TrBPW1SlbOc",
+      "title": "Working with Corporates: What Startups Should Know",
+      "url": "https://www.youtube.com/watch?v=TrBPW1SlbOc",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2452.0
+    },
+    {
+      "id": "QGZCoZaJ86c",
+      "title": "25 Digital leaders interviewed in 25 minutes",
+      "url": "https://www.youtube.com/watch?v=QGZCoZaJ86c",
+      "views": 56,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1769.0
+    },
+    {
+      "id": "RIb7zdZR-mo",
+      "title": "Mentor Morning: Financing Scaling from Traction to IPO!",
+      "url": "https://www.youtube.com/watch?v=RIb7zdZR-mo",
+      "views": 25,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2975.0
+    },
+    {
+      "id": "QNO-sQT82ds",
+      "title": "Scaling Customer Success Through Growth",
+      "url": "https://www.youtube.com/watch?v=QNO-sQT82ds",
+      "views": 29,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2691.0
+    },
+    {
+      "id": "Pi3pX8c3XcU",
+      "title": "Immersive Technology 101",
+      "url": "https://www.youtube.com/watch?v=Pi3pX8c3XcU",
+      "views": 27,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1528.0
+    },
+    {
+      "id": "8b8MfJRvrXc",
+      "title": "C\u00f3mo Aprovechar la Inteligencia Emocional y la Atenci\u00f3n Plena para Tener Relaciones Profesionales",
+      "url": "https://www.youtube.com/watch?v=8b8MfJRvrXc",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 5358.0
+    },
+    {
+      "id": "TU4K4tAe3ok",
+      "title": "Fix It Fireside: Scaling Your Company and Thinking Big with Lunar Startups and The Coven",
+      "url": "https://www.youtube.com/watch?v=TU4K4tAe3ok",
+      "views": 20,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2813.0
+    },
+    {
+      "id": "kBynIMb9gEo",
+      "title": "Breaking Techs-pectations",
+      "url": "https://www.youtube.com/watch?v=kBynIMb9gEo",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1236.0
+    },
+    {
+      "id": "rbkI7Lnq9FY",
+      "title": "Become a Technovation[MN] Mentor",
+      "url": "https://www.youtube.com/watch?v=rbkI7Lnq9FY",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1709.0
+    },
+    {
+      "id": "e8tt8AsQxz4",
+      "title": "Fireside Chats with African American Educators",
+      "url": "https://www.youtube.com/watch?v=e8tt8AsQxz4",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 6135.0
+    },
+    {
+      "id": "ncAAYJYpz8M",
+      "title": "Emotional Intelligence and Mindfulness for Personal and Professional Relationships",
+      "url": "https://www.youtube.com/watch?v=ncAAYJYpz8M",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 5437.0
+    },
+    {
+      "id": "LDwaSq_Cje8",
+      "title": "Managing Global Tech Teams During a Pandemic",
+      "url": "https://www.youtube.com/watch?v=LDwaSq_Cje8",
+      "views": 17,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2881.0
+    },
+    {
+      "id": "dgCNaDrxh5w",
+      "title": "AMA with Jeopardy! College Championship Winner Nibir Sarma",
+      "url": "https://www.youtube.com/watch?v=dgCNaDrxh5w",
+      "views": 63,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1714.0
+    },
+    {
+      "id": "96LgEJAV6xI",
+      "title": "Workplace Inclusion - The Time is Now!",
+      "url": "https://www.youtube.com/watch?v=96LgEJAV6xI",
+      "views": 15,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1749.0
+    },
+    {
+      "id": "LedAGQuAmFM",
+      "title": "Too Good To Waste",
+      "url": "https://www.youtube.com/watch?v=LedAGQuAmFM",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3058.0
+    },
+    {
+      "id": "m5cZ2OgFAoE",
+      "title": "The Power of Rural Innovation through Collaboration",
+      "url": "https://www.youtube.com/watch?v=m5cZ2OgFAoE",
+      "views": 16,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2593.0
+    },
+    {
+      "id": "X31CLcMXntk",
+      "title": "Spilling the early VC tea: the secret to getting your check",
+      "url": "https://www.youtube.com/watch?v=X31CLcMXntk",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3783.0
+    },
+    {
+      "id": "pH4xNFQRoc8",
+      "title": "SBA funding and resources for new ventures: How SBA can help you start, grow and recover",
+      "url": "https://www.youtube.com/watch?v=pH4xNFQRoc8",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3050.0
+    },
+    {
+      "id": "l4jyloMrD-w",
+      "title": "Making Change STICK: Straight forward Advice to Enable Your Culture and Drive Results",
+      "url": "https://www.youtube.com/watch?v=l4jyloMrD-w",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2519.0
+    },
+    {
+      "id": "oc8VgzkAKMc",
+      "title": "Legal FAQ for Start ups",
+      "url": "https://www.youtube.com/watch?v=oc8VgzkAKMc",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2041.0
+    },
+    {
+      "id": "jHbl_Xrxte4",
+      "title": "Innovative Solutions Across the Impact Venture Sector: A Conversation with the Founders",
+      "url": "https://www.youtube.com/watch?v=jHbl_Xrxte4",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3036.0
+    },
+    {
+      "id": "-iY1pA8xB-Y",
+      "title": "Food Justice: Playing with Plants with Youth Farm",
+      "url": "https://www.youtube.com/watch?v=-iY1pA8xB-Y",
+      "views": 32,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1194.0
+    },
+    {
+      "id": "JLWgfm_hiKQ",
+      "title": "Millennial Farmer",
+      "url": "https://www.youtube.com/watch?v=JLWgfm_hiKQ",
+      "views": 17,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1354.0
+    },
+    {
+      "id": "0mpehB3IBow",
+      "title": "From Concept To Company in Food and Agriculture",
+      "url": "https://www.youtube.com/watch?v=0mpehB3IBow",
+      "views": 15,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2316.0
+    },
+    {
+      "id": "TLr5w_1fd9k",
+      "title": "Answers to 10 of the Biggest Employment Law Questions Facing Startups and Emerging Companies",
+      "url": "https://www.youtube.com/watch?v=TLr5w_1fd9k",
+      "views": 15,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1971.0
+    },
+    {
+      "id": "JC34vWvzLsQ",
+      "title": "Bitcoin, not Blockchain",
+      "url": "https://www.youtube.com/watch?v=JC34vWvzLsQ",
+      "views": 26,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2844.0
+    },
+    {
+      "id": "y-hfuoYpmTU",
+      "title": "Financing your Startup",
+      "url": "https://www.youtube.com/watch?v=y-hfuoYpmTU",
+      "views": 17,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2832.0
+    },
+    {
+      "id": "Oy9YGAFtxQ8",
+      "title": "Diversity in Venture Capital & Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=Oy9YGAFtxQ8",
+      "views": 18,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2813.0
+    },
+    {
+      "id": "LEIb456r5l8",
+      "title": "How St. Paul's Restaurants Found Resiliency",
+      "url": "https://www.youtube.com/watch?v=LEIb456r5l8",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3716.0
+    },
+    {
+      "id": "BJgOI9lkEUM",
+      "title": "Funding Your Start Up Beyond VCs, Angels, and Accelerators",
+      "url": "https://www.youtube.com/watch?v=BJgOI9lkEUM",
+      "views": 11,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2437.0
+    },
+    {
+      "id": "_gRcam_OZ1E",
+      "title": "TCSW Awards Opener",
+      "url": "https://www.youtube.com/watch?v=_gRcam_OZ1E",
+      "views": 48,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 89.0
+    },
+    {
+      "id": "kwq6JloQp-E",
+      "title": "TCSW Startup Awards Broadcast",
+      "url": "https://www.youtube.com/watch?v=kwq6JloQp-E",
+      "views": 36,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1848.0
+    },
+    {
+      "id": "BsbGwaEyoUY",
+      "title": "Productivity with Heart: Aligning Your Values with your Schedule",
+      "url": "https://www.youtube.com/watch?v=BsbGwaEyoUY",
+      "views": 31,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1680.0
+    },
+    {
+      "id": "iSsGH5XKYFU",
+      "title": "A Fireside Chat with the Founders of H2Ok Innovations",
+      "url": "https://www.youtube.com/watch?v=iSsGH5XKYFU",
+      "views": 149,
+      "likes": 4,
+      "published": null,
+      "duration_sec": 1911.0
+    },
+    {
+      "id": "hNjPOLX0GFU",
+      "title": "Stories from EdTech Founders",
+      "url": "https://www.youtube.com/watch?v=hNjPOLX0GFU",
+      "views": 53,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2380.0
+    },
+    {
+      "id": "LGK5Jr74OWE",
+      "title": "Getting Your Startup Ready For Fundraising:  What You Need To Know",
+      "url": "https://www.youtube.com/watch?v=LGK5Jr74OWE",
+      "views": 22,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3284.0
+    },
+    {
+      "id": "1qHeOZI1h_U",
+      "title": "OnRamp Education & Workforce Innovation Accelerator: Big Plans and Big Expectations",
+      "url": "https://www.youtube.com/watch?v=1qHeOZI1h_U",
+      "views": 55,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 862.0
+    },
+    {
+      "id": "Lo8Sm5pCLV8",
+      "title": "The Mn Afterschool Advance Story: Collaborate to Innovate",
+      "url": "https://www.youtube.com/watch?v=Lo8Sm5pCLV8",
+      "views": 26,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2145.0
+    },
+    {
+      "id": "ME3YxWdUP-U",
+      "title": "Equity, Distribution, and Access for All Learners in a COVID-19 Landscape",
+      "url": "https://www.youtube.com/watch?v=ME3YxWdUP-U",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2790.0
+    },
+    {
+      "id": "ZLM9Thh9K9E",
+      "title": "Developing Culturally Relevant Content to Improve Student Engagement",
+      "url": "https://www.youtube.com/watch?v=ZLM9Thh9K9E",
+      "views": 10,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 3124.0
+    },
+    {
+      "id": "VqNPZqa0Qpg",
+      "title": "Creating Personal & Authentic Cultures of Innovation",
+      "url": "https://www.youtube.com/watch?v=VqNPZqa0Qpg",
+      "views": 9,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2485.0
+    },
+    {
+      "id": "4GhOcocjGjQ",
+      "title": "Why Every Startup Needs To Think Like A Lobbyist - Even Yours",
+      "url": "https://www.youtube.com/watch?v=4GhOcocjGjQ",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1876.0
+    },
+    {
+      "id": "u25hRwT4SDY",
+      "title": "Productivity with Heart: Aligning your values -- the Zoom version",
+      "url": "https://www.youtube.com/watch?v=u25hRwT4SDY",
+      "views": 4,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1680.0
+    },
+    {
+      "id": "OnXFuS4KJtM",
+      "title": "The Startup Game Show",
+      "url": "https://www.youtube.com/watch?v=OnXFuS4KJtM",
+      "views": 59,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1570.0
+    },
+    {
+      "id": "g67vWi9LoQs",
+      "title": "Tales of the COVID-19 Pivot",
+      "url": "https://www.youtube.com/watch?v=g67vWi9LoQs",
+      "views": 22,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2816.0
+    },
+    {
+      "id": "IKnfRvH7qNA",
+      "title": "Supporting Founder Wellness and Mental Health",
+      "url": "https://www.youtube.com/watch?v=IKnfRvH7qNA",
+      "views": 8,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2694.0
+    },
+    {
+      "id": "DsTOUwD4oGc",
+      "title": "Uplifting Founders: Delegate to Elevate",
+      "url": "https://www.youtube.com/watch?v=DsTOUwD4oGc",
+      "views": 12,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1642.0
+    },
+    {
+      "id": "S9u7m-wSjlM",
+      "title": "Unleashing The Power of YOUR Idea",
+      "url": "https://www.youtube.com/watch?v=S9u7m-wSjlM",
+      "views": 11,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 2661.0
+    },
+    {
+      "id": "f_gci7-8WJ4",
+      "title": "Scaling Within: Expand Your Internal Capacity to Endure Change in the Midst of Uncertainty",
+      "url": "https://www.youtube.com/watch?v=f_gci7-8WJ4",
+      "views": 35,
+      "likes": 1,
+      "published": null,
+      "duration_sec": 2862.0
+    },
+    {
+      "id": "dMy1d2Jv6GI",
+      "title": "Scalable Operations: How structure can drive growth",
+      "url": "https://www.youtube.com/watch?v=dMy1d2Jv6GI",
+      "views": 23,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1301.0
+    },
+    {
+      "id": "abejirTeQK8",
+      "title": "Scaling Your MVP: What should your tech look like?",
+      "url": "https://www.youtube.com/watch?v=abejirTeQK8",
+      "views": 49,
+      "likes": 0,
+      "published": null,
+      "duration_sec": 1906.0
+    },
+    {
+      "id": "qNaz5p6Eojg",
+      "title": "Twin Cities Startup Week (TCSW) 2023 TEASER 2",
+      "url": "https://www.youtube.com/watch?v=qNaz5p6Eojg",
+      "views": 172,
+      "likes": 2,
+      "published": null,
+      "duration_sec": null
+    },
+    {
+      "id": "YN1AB6LGjpo",
+      "title": "Twin Cities Startup Week (TCSW) 2023 TEASER 3",
+      "url": "https://www.youtube.com/watch?v=YN1AB6LGjpo",
+      "views": 190,
+      "likes": 2,
+      "published": null,
+      "duration_sec": null
+    },
+    {
+      "id": "dmQfzi6kLpg",
+      "title": "Twin Cities Startup Week (TCSW) 2023 TEASER 1",
+      "url": "https://www.youtube.com/watch?v=dmQfzi6kLpg",
+      "views": 110,
+      "likes": 0,
+      "published": null,
+      "duration_sec": null
+    }
+  ],
+  "google_trends": {}
+}
