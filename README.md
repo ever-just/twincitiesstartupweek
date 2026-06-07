@@ -95,35 +95,34 @@ PLANNING/
 
 ## INFRASTRUCTURE
 
-The event management platform at **[tcsw.everjust.app](https://tcsw.everjust.app)**.
+The operational backbone of TCSW 2026, running at **[tcsw.everjust.app](https://tcsw.everjust.app)**.
 
-Self-hosted on AWS EC2 via Docker Compose. Manages CRM, contacts, event registration, project ops, sponsor pipeline, and email marketing — all under TCSW branding.
+This is the platform the SMS team uses to run the event — not a public-facing website, but an internal operating system for managing every moving part of TCSW production.
+
+**What it handles:**
+
+- **Sponsors** — pipeline tracking from prospect to signed, with tier management and relationship history
+- **Contacts** — 600+ speakers, 68 organizations, venue contacts, volunteers, and partners in one place
+- **Events** — session scheduling, ticket types, registration, and attendee management across all venues
+- **Projects** — internal workstreams (programming, venues, marketing, ops) with task tracking
+- **Email** — outbound campaigns to sponsors, speakers, attendees, and community
+- **CRM** — 67 active sponsor opportunities with stage tracking and owner assignment
+
+The platform is pre-loaded with TCSW's full historical contact and sponsor data, so the team starts with context rather than a blank slate.
 
 ```
 INFRASTRUCTURE/
 ├── custom-modules/
-│   ├── tcsw_branding/     TCSW theme, colors, login page
+│   ├── tcsw_branding/     TCSW visual identity applied across the platform
 │   └── tcsw_events/       Custom event types, sponsor tiers, CRM pipeline
 ├── deployment/
 │   ├── docker-compose.yml
 │   ├── .env.example
 │   └── scripts/backup.sh
-└── README.md              Platform setup, deployment, and module docs
+└── README.md              Setup, deployment, and module documentation
 ```
 
-**Platform status:**
-
-| What | Detail |
-|---|---|
-| URL | https://tcsw.everjust.app |
-| Login | company@everjust.org |
-| Server | AWS EC2 (us-east-1) |
-| Organizations loaded | 68 |
-| Speakers loaded | 600 |
-| Sponsor pipeline opps | 67 |
-| Events configured | 8 |
-
-See `INFRASTRUCTURE/README.md` for deployment and module documentation.
+See `INFRASTRUCTURE/README.md` for deployment and technical documentation.
 
 ---
 
