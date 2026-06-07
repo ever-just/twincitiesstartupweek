@@ -12,12 +12,4 @@
         <field name="state_id" ref="base.state_us_24"/>
     </record>
 
-    <!-- Remove Odoo from app title -->
-    <record id="base.res_users_action_my" model="ir.actions.act_window">
-        <field name="name">My Profile</field>
-    </record>
-
-    <!-- System parameters for clean branding -->
-    <record id="web.action_website" model="ir.actions.act_url" forcecreate="0">
-    </record>
 </odoo>
