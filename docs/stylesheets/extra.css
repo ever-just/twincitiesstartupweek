@@ -49,12 +49,9 @@
   margin: .4rem 0 1.6rem;
 }
 .tcsw-hero img {
-  max-width: 380px;
-  width: 72%;
-  background: #fff;
-  padding: 16px 22px;
-  border-radius: 12px;
-  box-shadow: 0 8px 28px rgba(0,0,0,.18);
+  max-width: 420px;
+  width: 78%;
+  height: auto;
 }
 .tcsw-hero h2 {
   color: #fff;
