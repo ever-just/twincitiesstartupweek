@@ -1,0 +1,86 @@
+site_name: Twin Cities Startup Week — Research
+site_description: Synthesized 12-year intelligence dossier on Twin Cities Startup Week (TCSW).
+site_author: SMS / BETA research
+site_url: https://tcstartupweekresearch.everjust.org/
+
+repo_name: ever-just/twincitiesstartupweek
+repo_url: https://github.com/ever-just/twincitiesstartupweek
+edit_uri: edit/master/docs/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  logo: assets/tcsw-logo.png
+  favicon: assets/tcsw-logo.png
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Overview: index.md
+  - History: history.md
+  - 2026 Plan: 2026.md
+  - Organization & Leadership: organization.md
+  - Sponsors: sponsors.md
+  - Capital Ecosystem: investors.md
+  - Programming: programming.md
+  - People & Speakers: people.md
+  - Directory: directory.md
+  - Strategy: strategy.md
+  - Media & Social: media.md
+  - Data & Sources: data.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/tcstartupweek
+    - icon: fontawesome/brands/github
+      link: https://github.com/ever-just/twincitiesstartupweek

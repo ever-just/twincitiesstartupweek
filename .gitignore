@@ -25,6 +25,9 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
+# MkDocs build output
+site/
+
 # Environment
 .env
 *.env
