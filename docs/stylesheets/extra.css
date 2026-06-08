@@ -120,3 +120,35 @@
 
 /* Nav: active item in brand teal already via primary; tweak link weight */
 .md-nav__link--active { font-weight: 700; }
+
+/* ===== Grid.js embedded tables ===== */
+.gridjs-wrapper { box-shadow: none; border-radius: 8px; }
+.gridjs-table { font-size: .8rem; }
+th.gridjs-th { background: #0C495A; color: #fff; }
+th.gridjs-th .gridjs-th-content { color: #fff; }
+.gridjs-search-input {
+  border: 1px solid rgba(12,73,90,.3);
+  border-radius: 7px;
+  padding: .45rem .7rem;
+}
+.gridjs-td a { color: #0C495A; font-weight: 600; }
+button.gridjs-sort { filter: invert(1) brightness(2); }
+
+/* Dark mode adaptation */
+[data-md-color-scheme="slate"] .gridjs-container { color: #cdd6da; }
+[data-md-color-scheme="slate"] .gridjs-wrapper,
+[data-md-color-scheme="slate"] .gridjs-td,
+[data-md-color-scheme="slate"] .gridjs-search-input,
+[data-md-color-scheme="slate"] .gridjs-footer,
+[data-md-color-scheme="slate"] td.gridjs-td {
+  background-color: transparent;
+  border-color: rgba(255,255,255,.12);
+  color: #cdd6da;
+}
+[data-md-color-scheme="slate"] .gridjs-td a { color: #6fcfe2; }
+[data-md-color-scheme="slate"] .gridjs-search-input { color: #fff; }
+[data-md-color-scheme="slate"] .gridjs-pagination,
+[data-md-color-scheme="slate"] .gridjs-pagination .gridjs-pages button {
+  color: #cdd6da;
+  background-color: transparent;
+}

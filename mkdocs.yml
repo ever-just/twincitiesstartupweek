@@ -45,7 +45,13 @@ theme:
         name: Switch to light mode
 
 extra_css:
+  - https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css
   - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js
+  - https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js
+  - javascripts/tables.js
 
 nav:
   - Overview: index.md
@@ -55,6 +61,7 @@ nav:
   - Sponsors: sponsors.md
   - Capital Ecosystem: investors.md
   - Programming: programming.md
+  - Sessions: sessions.md
   - People & Speakers: people.md
   - Directory: directory.md
   - Strategy: strategy.md

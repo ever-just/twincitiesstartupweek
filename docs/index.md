@@ -57,6 +57,7 @@
 | [Sponsors](sponsors.md) | Sponsor history and 2026 re-engagement targets |
 | [Capital Ecosystem](investors.md) | Active MN VCs and MN Cup economics |
 | [Programming](programming.md) | Signature and recurring events |
+| [Sessions](sessions.md) | Searchable archive of 398 catalogued sessions |
 | [People & Speakers](people.md) | 625 catalogued speakers and the most active voices |
 | [Directory](directory.md) | All tracked organizations, sponsors, and venues |
 | [Strategy](strategy.md) | SWOT, positioning, marketing-ready quotes |

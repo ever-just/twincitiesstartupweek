@@ -1,6 +1,10 @@
 # Directory
 
-Every organization, sponsor, and venue tracked in the research (53 records). Grouped by role; years and links from the organizations database.
+Every organization, sponsor, and venue tracked in the research (53 records), straight from the organizations database. Search and sort the live table below, or browse the curated groupings further down.
+
+## All organizations
+
+<div id="grid-directory">Loading directory…</div>
 
 ## Organizers & core partners
 
@@ -62,7 +66,11 @@ Every organization, sponsor, and venue tracked in the research (53 records). Gro
 
 ## Venues
 
-Confirmed venues, concentrated in the 2023 archive.
+Confirmed venues, concentrated in the 2023 archive. Live table (filtered to venue records):
+
+<div id="grid-venues">Loading venues…</div>
+
+A static reference copy:
 
 | Venue | Years | Site |
 |---|---|---|
