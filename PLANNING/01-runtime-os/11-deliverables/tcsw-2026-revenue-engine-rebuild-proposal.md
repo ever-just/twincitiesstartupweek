@@ -23,11 +23,15 @@ BETA is not asking SMS to simply run an event.
 
 The visible request is event production support. The actual work required is rebuilding the operating and revenue engine that allows Twin Cities Startup Week to become fundable, visible, trustworthy, and repeatable.
 
-TCSW is currently being treated as a week of events that needs marketing, sponsorship, and logistics support. That is a misdiagnosis. SMS's internal investigation and findings diagnose this as a structural problem more than an event-production one. TCSW is an underbuilt ecosystem platform: an official calendar, sponsor product, ticketed access layer, host activation marketplace, and public trust vehicle for Minnesota innovation.
+TCSW is currently being treated as a week of events that needs marketing, sponsorship, and logistics support. That is a misdiagnosis. SMS's internal investigation and findings diagnose this as a structural problem more than an event-production one. TCSW is an underbuilt ecosystem platform: an official calendar, sponsor product, ticketed access layer, Open Doors host marketplace, and public trust vehicle for Minnesota innovation.
 
 The problem is not that TCSW lacks value. The problem is that the current model does not sufficiently package, price, operate, or capture that value.
 
+The fastest proof sits in the calendar itself. An **Open Doors Calendar** — where the ecosystem's organizations pay for official placement and open their doors during the one week Minnesota's startup attention concentrates — is the highest-margin product in this proposal and the earliest revenue: it requires no venue spend and no new audience, and it can begin producing revenue before the first sponsor contract closes.
+
 SMS is prepared to help rebuild and operate that engine for TCSW 2026 under terms that match the risk, authority, compensation, and execution reality required.
+
+The terms are one-time; the asset is not. SMS's compensation is tied to TCSW 2026 performance alone, while the rebuilt engine — the products, the pricing, the operating playbook, and a more valuable official calendar — remains BETA's and keeps producing revenue in 2027 and every year after. This proposal solves more than this year's revenue problem; the lasting benefit accrues to BETA exclusively.
 
 This proposal is intentionally direct because it begins with disclosure. It is designed to protect BETA, protect SMS, support Angela, and give the board a clear decision: whether BETA accepts the structural diagnosis and authorizes the structural repair.
 
@@ -91,39 +95,11 @@ That is the revenue engine SMS is proposing to rebuild.
 
 ## 4. The Three-Product Revenue Model
 
-TCSW should be understood as three related products.
+TCSW should be understood as three related products, sequenced for cash flow: the Open Doors Calendar opens revenue earliest, sponsorship compounds it, and ticketing completes it.
 
-### Product 1: Sponsor / Status Product
+### Product 1: The Open Doors Calendar (Host / Calendar-Slot Product)
 
-Sponsors pay for public association with Minnesota innovation.
-
-They are buying:
-
-- ecosystem visibility;
-- institutional signaling;
-- sponsor status;
-- association with the rebuild of Minnesota's startup gathering point;
-- access to founders, operators, technologists, investors, students, universities, and innovation teams;
-- the right to be seen helping make the ecosystem more connected.
-
-This is not simply logo placement. It is visible stewardship.
-
-### Product 2: Ticket / Access Product
-
-Attendees pay for access to the official week.
-
-They are buying:
-
-- curated access to rooms, programs, hosts, and people;
-- the right to participate in the official TCSW calendar;
-- opportunities for discovery, connection, learning, and proximity;
-- a structured way into Minnesota's startup and innovation ecosystem.
-
-Ticketing should be priced and designed around access, clarity, and experience, not as an afterthought.
-
-### Product 3: Host / Calendar-Slot Product
-
-This is the underdeveloped product.
+This is the most underdeveloped product in the current model — and the highest-margin one.
 
 Technology companies, universities, coworking spaces, funds, accelerators, agencies, AI teams, healthcare innovators, civic partners, and ecosystem stakeholders can pay, partner, or apply to open their doors as official TCSW hosts.
 
@@ -138,7 +114,37 @@ They are buying:
 - legitimacy from the official TCSW badge;
 - the ability to convene the audience they want to reach.
 
+The economics are the point. Demand already exists — organizations want official placement during the one week the ecosystem's attention concentrates — and hosts bring their own rooms, programming, and audiences. Selling placement requires no venue spend, no catering, and no new audience acquisition; the marginal cost is curation and quality control, which is precisely the work SMS is built for. In the financial model, this is the product expected to generate the first Net New TCSW Revenue — funding the Section 8 activation recovery and the earliest phases of the Section 10 waterfall.
+
 This is closer to NY Tech Week or Doors Open Minneapolis than a traditional conference model. TCSW can become a premium calendar where the ecosystem hosts itself through a coherent, branded, centrally operated platform.
+
+### Product 2: Sponsor / Status Product
+
+Sponsors pay for public association with Minnesota innovation.
+
+They are buying:
+
+- ecosystem visibility;
+- institutional signaling;
+- sponsor status;
+- association with the rebuild of Minnesota's startup gathering point;
+- access to founders, operators, technologists, investors, students, universities, and innovation teams;
+- the right to be seen helping make the ecosystem more connected.
+
+This is not simply logo placement. It is visible stewardship.
+
+### Product 3: Ticket / Access Product
+
+Attendees pay for access to the official week.
+
+They are buying:
+
+- curated access to rooms, programs, hosts, and people;
+- the right to participate in the official TCSW calendar;
+- opportunities for discovery, connection, learning, and proximity;
+- a structured way into Minnesota's startup and innovation ecosystem.
+
+Ticketing should be priced and designed around access, clarity, and experience, not as an afterthought.
 
 ---
 
@@ -197,11 +203,11 @@ Because SMS is being asked to carry the operating, production, creative, and com
 
 All TCSW 2026 marketing and official announcements must include written credit to SMS. This requirement applies to, at minimum:
 
-- public-facing event pages and the official TCSW website;
-- the official TCSW calendar and host/event listings;
+- the official TCSW website and all public-facing event pages, with the credit in the site-wide footer;
+- the official TCSW calendar and host/event listings, including embedded calendar metadata so the credit persists in syndicated and archived listings;
 - sponsor-facing decks, offers, and materials;
-- press releases and media statements;
-- printed and digital signage;
+- press releases and media statements, as a standing line in the official press boilerplate;
+- physical event signage and digital signage on site;
 - email and newsletter communications;
 - social media posts and paid campaign creative;
 - event programs, badges, and on-site collateral;
@@ -222,7 +228,9 @@ Terms of the accreditation:
 - the credit must appear **in writing** wherever TCSW 2026 production, experience design, or event operation is publicly represented;
 - the credit must be legible and not hidden, footnoted away from relevant context, or removed without SMS's written consent;
 - BETA remains the institutional steward of TCSW; SMS must be publicly and consistently credited as the producer;
-- this clause survives for all TCSW 2026 materials that reflect work SMS actually produced, including post-event recaps, archives, and reporting; termination mechanics for the credit are defined in the operating agreement.
+- this clause survives for all TCSW 2026 materials that reflect work SMS actually produced, including post-event recaps, archives, and reporting; termination mechanics for the credit are defined in the operating agreement;
+- an accidental omission is not a breach if corrected within five business days of written notice; persistent or willful omission is a material breach;
+- the operating agreement will attach a placement schedule (Schedule B) enumerating asset types and exact credit positions; the list above is a floor, not a ceiling.
 
 This accreditation is a reputational, commercial, and trust requirement, not a cosmetic preference. It is a condition of SMS's participation.
 
@@ -462,6 +470,10 @@ Sprint priorities:
 
 The first sprint should not begin until activation, authority, data access, and public-credit terms are agreed in writing.
 
+**Sprint clock.** Sprint Day 1 is the first business day after (1) written authorization and (2) confirmation of the activation path under Section 8. All sprint milestones run from Sprint Day 1, not from calendar dates. If signoff lands on the June 19, 2026 target, Sprint Day 1 falls on June 22, 2026.
+
+**Runway re-baseline.** TCSW's dates are fixed. If authorization lands after July 7, 2026, scope and revenue targets are re-baselined in writing to the remaining runway before the sprint begins. A late decision does not put either party in breach; it reduces what the engine can deliver by September.
+
 ---
 
 ## 14. Risk and Protection
@@ -496,7 +508,7 @@ BETA receives:
 - a revived public-facing TCSW experience;
 - a clearer sponsor product;
 - a ticket/access product with stronger logic;
-- a host/calendar-slot product that can be reused in future years;
+- an Open Doors Calendar host product that can be reused in future years;
 - public campaign and landing-page direction;
 - a more valuable official calendar;
 - improved partner and attendee clarity;
@@ -504,9 +516,13 @@ BETA receives:
 - a reusable production and revenue playbook;
 - a stronger asset for 2027 and beyond.
 
+Every item on this list outlives the engagement. The waterfall in Section 10 applies to TCSW 2026 revenue alone — SMS makes no claim on future years. The TCSW products, the TCSW operating playbook, the sponsor relationships, and the restored value of the official calendar all remain with BETA and keep producing revenue in 2027 and every year after, whether or not SMS is retained again. The 2026 waterfall is the one-time cost of acquiring a permanent revenue engine.
+
 SMS's work is not only to produce TCSW 2026.
 
 SMS's work is to leave BETA with a stronger revenue engine than it has today.
+
+> **SMS is paid once, on 2026 performance. The engine BETA keeps pays every year after.**
 
 ---
 
@@ -525,7 +541,7 @@ Immediate approvals requested:
 7. grant SMS a right of first negotiation for the TCSW 2027 production partnership, exercisable after the 2026 post-event review;
 8. authorize Angela and SMS to finalize the operating agreement immediately;
 9. confirm the board, finance, and legal signoff path so the operating agreement is executed by June 19, 2026;
-10. authorize the first 30-day sprint to begin June 22, 2026, immediately after written agreement.
+10. authorize the first 30-day sprint to begin on Sprint Day 1 — the first business day after written authorization and confirmation of the activation path — which falls on June 22, 2026 if signoff lands on the June 19 target.
 
 The operating agreement will additionally define, at minimum: contracting entities and signatories; term, termination, and walk-away rights for both parties; event cancellation and force majeure; intellectual property ownership (TCSW-branded outputs to BETA; SMS methodology, playbook templates, and the SMS app to SMS); attendee and community data ownership and privacy; payment cadence and reconciliation; insurance, liability, and indemnification; and dispute resolution. These items are scheduled, not unresolved risks.
 
@@ -540,6 +556,8 @@ The remaining calendar does not allow for an under-scoped, underfunded, or ambig
 TCSW is not merely an event that needs support.
 
 It is an underbuilt ecosystem revenue platform.
+
+And once rebuilt, the platform does not need rebuilding twice. Authorizing this work solves more than the 2026 revenue problem: 2027 begins with products, prices, playbooks, and proof instead of a blank page. The lasting benefit of the rebuilt engine accrues to BETA exclusively.
 
 BETA holds the official calendar, brand, and institutional trust. Angela has the confidence and relational posture to steward the moment. SMS has the production, community design, creative, operations, technology, and revenue architecture capacity to rebuild the engine.
 
