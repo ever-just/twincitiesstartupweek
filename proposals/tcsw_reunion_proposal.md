@@ -23,7 +23,7 @@ To ensure professional execution and financial sustainability, revenue will be d
 *   **Tranche 5: Legacy/Treasury:** 20/80 (SMS/Beta) split directed toward the nonprofit treasury to ensure long-term ecosystem health.
 
 ## 5. Governance & Data
-*   **Brand Ownership:** Beta remains the sole owner of the Twin Cities Startup Week brand.
+*   **Brand Ownership:** Beta remains the sole owner of the Twin Cities Startup Week brand with accreditation "produced by SMS".
 *   **Data Control:** All CRM and attendee data is hosted on Beta’s Odoo instance; Beta maintains full ownership of all ecosystem data generated.
 *   **SMS Execution:** SMS provides professional execution and operational separation to ensure a high-velocity recovery.
 *   **No-Poach Policy:** SMS commits to a strict 24-month no-poach policy regarding legacy TCSW/Beta sponsors and partners.
