@@ -1,17 +1,18 @@
-<!-- 2026-06-09: Board-ready proposal for Angela, BETA leadership, and the BETA board. Defines TCSW 2026 as a revenue-engine rebuild, names SMS scope, economics, event-cost and fee responsibility, authority, risk boundaries, and the binding "Produced by SMS" public accreditation requirement. Canonical source for the Word/.docx export. -->
+<!-- 2026-06-09: Board-ready proposal for Angela, BETA leadership, and the BETA board. Defines TCSW 2026 as a revenue-engine rebuild, names SMS scope, economics, event-cost and fee responsibility, authority, risk boundaries, and the binding "Produced by SMS" public accreditation requirement. Canonical source for the Word/.docx export. 2026-06-10: plain-language pass; selling mandate (SMS finds/warms, Angela closes); two-clock timeline; split closing model; team-first payout order; 48-hour decision window with Sprint Day 1 = day of signature. -->
 
 ---
 title: "TCSW 2026 Revenue Engine Rebuild Proposal"
 subtitle: "Strangers Meeting Strangers (SMS) x BETA"
 author: "Strangers Meeting Strangers (SMS)"
-date: "June 9, 2026"
+date: "June 10, 2026"
 ---
 
 **Prepared for:** Angela Eifert, BETA leadership, and the BETA Board  
 **Prepared by:** Strangers Meeting Strangers (SMS)  
-**Date:** June 9, 2026  
+**Date:** June 10, 2026  
 **Event:** Twin Cities Startup Week 2026  
 **Event dates:** September 14-18, 2026  
+**Engagement term:** through October 18, 2026 — production ends one month after the event  
 **Proposed SMS role:** Revenue Engine Build, End-to-End Production, and Community Experience Partner  
 **Institutional steward:** BETA / The Beta Group  
 
@@ -19,46 +20,46 @@ date: "June 9, 2026"
 
 ## 1. Executive Summary
 
-BETA is not asking SMS to simply run an event.
+Here is the situation, stated plainly.
 
-The visible request is event production support. The actual work required is rebuilding the operating and revenue engine that allows Twin Cities Startup Week to become fundable, visible, trustworthy, and repeatable.
+Twin Cities Startup Week begins September 14 — 96 days from this proposal. The money that funds it has not been raised. Because hosts need weeks to plan what they host and sponsors need internal approvals, the real selling window is the next six weeks — and the first fifteen days after signature decide whether the anchor deals exist that make the rest possible. That is why this proposal asks for a decision within **48 hours**, with work starting the day the signature lands.
 
-TCSW is currently being treated as a week of events that needs marketing, sponsorship, and logistics support. That is a misdiagnosis. SMS's internal investigation and findings diagnose this as a structural problem more than an event-production one. TCSW is an underbuilt ecosystem platform: an official calendar, sponsor product, ticketed access layer, Open Doors host marketplace, and public trust vehicle for Minnesota innovation.
+BETA is not asking SMS to simply run an event. The visible request is event production support. The real work is rebuilding the machine that sells the week, so TCSW becomes fundable, visible, trustworthy, and repeatable.
 
-The problem is not that TCSW lacks value. The problem is that the current model does not sufficiently package, price, operate, or capture that value.
+TCSW is currently treated as a week of events that needs marketing and logistics help. SMS's preparation for this proposal found something different: a structural gap. TCSW is an underbuilt platform — an official calendar, a sponsor product, a ticket product, an Open Doors host marketplace, and a public trust vehicle for Minnesota innovation. The problem is not that TCSW lacks value. The problem is that the current model does not package, price, sell, or capture that value.
 
-The fastest proof sits in the calendar itself. An **Open Doors Calendar** — where the ecosystem's organizations pay for official placement and open their doors during the one week Minnesota's startup attention concentrates — is the highest-margin product in this proposal and the earliest revenue: it requires no venue spend and no new audience, and it can begin producing revenue before the first sponsor contract closes.
+The fastest proof sits in the calendar itself. An **Open Doors Calendar** — where organizations pay to host official events during the one week the whole ecosystem is paying attention — is the highest-margin product in this proposal and the earliest money: hosts bring their own rooms, programming, and audiences, so there is almost nothing to spend before revenue arrives. SMS designed this model and brought it to BETA before asking for a dollar.
 
-SMS is prepared to help rebuild and operate that engine for TCSW 2026 under terms that match the risk, authority, compensation, and execution reality required.
+Here is the job in one sentence: SMS redesigns and rebuilds TCSW into something worth buying, sells it — finding and warming every buyer for Angela to close — and then produces the week those deals pay for.
 
-The terms are one-time; the asset is not. SMS's compensation is tied to TCSW 2026 performance alone, while the rebuilt engine — the products, the pricing, the operating playbook, and a more valuable official calendar — remains BETA's and keeps producing revenue in 2027 and every year after. This proposal solves more than this year's revenue problem; the lasting benefit accrues to BETA exclusively.
+The terms are one-time; the asset is not. SMS is paid on TCSW 2026 alone. The rebuilt engine — the products, the prices, the playbook, the restored calendar — stays with BETA and keeps earning in 2027 and every year after.
 
-This proposal is intentionally direct because it begins with disclosure. It is designed to protect BETA, protect SMS, support Angela, and give the board a clear decision: whether BETA accepts the structural diagnosis and authorizes the structural repair.
+This proposal is intentionally direct because it begins with disclosure. It is designed to protect BETA, protect SMS, support Angela, and give the board one clear decision: whether BETA authorizes the structural repair — and grants the decision authority that makes it deliverable.
 
-> **SMS cannot in good faith and responsibly accept production accountability without first disclosing our internal diagnosis: the problem is structural, not event production.**
+> **SMS cannot in good faith accept production accountability without first naming what it sees: the problem is structural, not event production.**
 
 ---
 
 ## 2. The Core Diagnosis
 
-What follows discloses the findings of SMS's internal investigation.
+What follows is what SMS found while preparing this proposal. It is stated carefully and without blame: the gap is in the machine, not in any person — and naming it is the first step of fixing it.
 
 TCSW is not fundamentally challenged because of one missing sponsor, one weak website, one venue gap, or one marketing issue.
 
 TCSW is underperforming because the engine that should convert its ecosystem position into revenue, trust, participation, and public momentum is under-built.
 
-SMS's findings include:
+The structural gaps:
 
 - an undervalued official ecosystem calendar;
 - unclear sponsor value;
 - underdeveloped host and calendar-slot products;
-- ticket value that is not yet tied to a coherent experience promise;
-- fragmented venue and programming logic;
-- public-facing brand and campaign assets that do not yet communicate the full opportunity;
-- cash-flow constraints that limit execution capacity;
+- tickets that do not yet promise a clear experience for the price;
+- venues and programming that do not yet fit together;
+- public brand and campaign materials that undersell the week;
+- cash-flow pressure that limits what BETA can execute;
 - an executive function carrying too many roles at once;
-- an operating model that has historically scoped this work as event labor rather than engine repair;
-- prior trust damage that cannot be resolved through surface-level marketing.
+- work scoped as event labor when it needs engine repair;
+- public trust that must be rebuilt through delivery, not marketing alone.
 
 This is why standard event support will not be enough.
 
@@ -95,7 +96,7 @@ That is the revenue engine SMS is proposing to rebuild.
 
 ## 4. The Three-Product Revenue Model
 
-TCSW should be understood as three related products, sequenced for cash flow: the Open Doors Calendar opens revenue earliest, sponsorship compounds it, and ticketing completes it.
+TCSW is three products, listed here in the order the money arrives: the Open Doors Calendar earns first, sponsorship builds on it, and ticketing completes it.
 
 ### Product 1: The Open Doors Calendar (Host / Calendar-Slot Product)
 
@@ -114,7 +115,7 @@ They are buying:
 - legitimacy from the official TCSW badge;
 - the ability to convene the audience they want to reach.
 
-The economics are the point. Demand already exists — organizations want official placement during the one week the ecosystem's attention concentrates — and hosts bring their own rooms, programming, and audiences. Selling placement requires no venue spend, no catering, and no new audience acquisition; the marginal cost is curation and quality control, which is precisely the work SMS is built for. In the financial model, this is the product expected to generate the first Net New TCSW Revenue — funding the Section 8 activation recovery and the earliest phases of the Section 10 waterfall.
+The money logic is simple. Organizations already want to be on the official calendar during the one week the whole ecosystem is watching. Hosts bring their own rooms, their own programming, and their own audiences — so a calendar slot costs almost nothing to deliver. The real work is curation and quality control, which is exactly what SMS does. This is the product expected to bring in the first new dollars: the dollars that repay the start-up funding in Section 8 and begin the payout order in Section 10.
 
 This is closer to NY Tech Week or Doors Open Minneapolis than a traditional conference model. TCSW can become a premium calendar where the ecosystem hosts itself through a coherent, branded, centrally operated platform.
 
@@ -152,30 +153,31 @@ Ticketing should be priced and designed around access, clarity, and experience, 
 
 SMS proposes to serve as BETA's **Revenue Engine Build, End-to-End Production, and Community Experience Partner** for TCSW 2026.
 
-This means SMS would not simply execute tasks. SMS would help rebuild the system that makes TCSW valuable, fundable, and repeatable.
+The job is end-to-end: redesign and rebuild the week's products, sell them, and produce the event they pay for. The selling side, in plain terms: SMS finds the buyers, warms them up, and hands them to Angela ready to sign — for all three products, not just sponsors. SMS develops the products, designs the campaign, runs the outreach, builds the pipeline, and prepares every deal. BETA holds the pen: every contract is signed by BETA.
 
-SMS's work would include:
+Because the two kinds of deals behave differently, closing works two ways:
 
-- revenue product architecture;
-- sponsor narrative and packaging;
-- host/calendar-slot model design;
-- ticket/access model support;
-- campaign and public positioning;
-- landing page and sponsor-facing materials;
-- programming architecture;
-- venue and location architecture;
-- attendee journey design;
-- run-of-show and production operating structure;
-- SMS app/community experience layer;
-- weekly operating cadence;
-- risk register and decision tracking;
-- first 30-day execution sprint.
+- **Open Doors host slots** sell at board-approved standard prices on a standard agreement. SMS runs the entire process; Angela countersigns the week's agreements in one sitting. High volume, no bottleneck.
+- **Sponsor deals** are closed personally by Angela, with SMS preparing the targets, the materials, the pricing, and the follow-through behind her.
+
+SMS hands BETA deals that are ready to sign. In return, BETA commits to act on each one within three business days, so no deal dies waiting. The mechanics live in the operating agreement.
+
+This division matters because SMS's own findings name the risk: an executive function carrying too many roles at once. The model is built so Angela closes deals without becoming the place deals wait.
+
+Alongside the selling motion, SMS's work covers six areas:
+
+- the three revenue products — design, pricing, and offers;
+- the public campaign — positioning, landing page, and sponsor- and host-facing materials;
+- programming and the attendee experience — intake standards, the attendee journey, and run-of-show;
+- venues and locations;
+- the operating system — the weekly rhythm with Angela, risk tracking, decision logs, and the first 30-day sprint;
+- the SMS app as the week's community layer.
 
 This is not scope expansion for its own sake.
 
-It is risk control.
+It is risk control — and it comes with one protective term, in plain sight: SMS holds decision authority to decline, defer, or re-scope any request that exceeds what can be executed successfully in the time remaining. A successful event sometimes depends on a respectful no.
 
-> **End-to-end accountability requires enough authority to prevent fragmentation.**
+> **End-to-end accountability requires enough authority to prevent fragmentation — including the authority to say no when capacity says no.**
 
 ---
 
@@ -238,11 +240,11 @@ This accreditation is a reputational, commercial, and trust requirement, not a c
 
 ## 8. Required Activation Structure
 
-SMS cannot responsibly begin formal execution without activation funding.
+SMS cannot responsibly start the work without start-up funding.
 
 The required activation amount is **$30,000**.
 
-This activation exists to start the engine, not to fully compensate the total work required. It funds the SMS team, not event production costs, which are defined separately in Section 9.
+This money starts the engine; it does not come close to paying for the total work. It funds the SMS team, not event costs — those are defined separately in Section 9.
 
 Recommended allocation:
 
@@ -258,19 +260,21 @@ Recommended allocation:
 
 If BETA can pay this directly upon agreement, that is the cleanest path.
 
-If BETA cannot pay this amount from current cash, then the first **$30,000** of Net New TCSW Revenue — calculated after transaction fees and the approved event production budget (see Section 9) — must be irrevocably assigned to SMS before any other split allocation, conditioned on SMS's continued performance under the agreement. Only one activation path applies: if BETA pays the activation directly, Phase 1 of the waterfall in Section 10 is satisfied and does not repeat.
+If BETA cannot pay this from current cash, then the first **$30,000** of new TCSW money — after card and platform fees, before event costs — belongs irrevocably to SMS, paid as the money arrives, and only while SMS keeps doing the work. The team is paid first for the same reason every production pays its crew: the people producing the week are its first vendor, and unpaid labor cannot be the production model. One path or the other applies, never both: the payout order in Section 10 begins with whichever party funded the activation — SMS's deferred team if it went unpaid, or BETA's advance if BETA paid cash. Nobody recovers twice.
 
-Gross new TCSW revenue includes sponsorship revenue, host/calendar-slot revenue, ticket revenue, vendor or activation revenue, and any other revenue generated for TCSW 2026 after agreement execution, unless explicitly excluded in writing. At signing, the parties will attach a short schedule (Schedule A) listing any pre-existing commitments or expected renewals excluded from the waterfall, so neither party is paid on revenue it did not help create.
+What counts as new revenue: sponsorships, host and calendar-slot sales, tickets, vendor and activation money — anything generated for TCSW 2026 after the agreement is signed, unless excluded in writing. At signing, both parties attach a short list (Schedule A) of pre-existing commitments and expected renewals that do not count, so neither side is paid on money it did not help create.
+
+> **In plain terms:** $30,000 starts the engine. BETA pays it in cash if it can. If it cannot, the team is paid from the first new money the week brings in — first in line, the way every production pays its crew — and only while SMS is doing the work.
 
 ---
 
 ## 9. Event Costs, Fees, and Financial Responsibility
 
-A revenue model is only credible if the cost base is defined as clearly as the revenue. This section establishes who pays event costs, how fees are handled, and how both interact with the revenue waterfall.
+A revenue model is only credible if the costs are defined as clearly as the revenue. This section says who pays for what, and in what order.
 
-**Net revenue principle.** The revenue waterfall in Section 10 applies to **Net New TCSW Revenue**, not gross. Net New TCSW Revenue is gross new TCSW revenue minus (1) transaction and platform fees and (2) the pre-approved direct event production budget. Fees and approved event costs come off the top before any SMS/BETA split.
+**The net principle.** The payout order in Section 10 splits **Net New TCSW Revenue** — the new money actually left after (1) card and platform fees and (2) the approved event production budget. Costs come out before anyone splits anything.
 
-**Direct event costs are BETA-owned.** As institutional steward, BETA is the contracting party for direct event costs and is responsible for funding them within the approved budget. SMS directs and recommends spend but does not sign vendor contracts and is not required to fund event hard costs from its activation or its waterfall share. Direct event costs include:
+**Event costs are BETA's to contract — and the week's to pay.** Two different questions, two different answers. Who signs: BETA. As the institutional steward, BETA signs vendor contracts and holds the accounts they are paid from. Whose money: the week's own. The approved budget is funded off the top of incoming revenue (Phase 1 in Section 10), so the money flowing through BETA's accounts to vendors is TCSW revenue, not BETA's treasury. SMS directs and recommends spending but does not sign vendor contracts and does not pay event costs from its own pocket. Direct event costs include:
 
 - venue rental, deposits, and facility fees;
 - catering, food, and beverage;
@@ -283,15 +287,15 @@ A revenue model is only credible if the cost base is defined as clearly as the r
 - transportation, parking, and on-site logistics;
 - a contingency reserve.
 
-**Fees are netted first.** Payment processing, ticketing-platform, and sponsorship-collection fees are deducted from gross revenue before the production budget and the waterfall are calculated. Merchant processing and funds of record sit with BETA, or a BETA-controlled account, so cash custody and tax reporting remain with the institutional steward.
+**Fees come out first.** Card processing, ticketing platform, and sponsorship collection fees come off the top before the budget and the split are calculated. All funds sit in BETA's accounts.
 
-**The approved production budget.** Before public offers launch, SMS and BETA agree a written, board-approved TCSW 2026 production budget with a not-to-exceed cap. The budget is funded off the top of revenue and from sponsor cash as it arrives. SMS recommends and directs spend within the cap; BETA approves any single commitment above an agreed threshold and any increase to the cap. Unspent budget returns to Net New TCSW Revenue.
+**The approved budget.** Before anything is publicly sold, SMS and BETA agree a written, board-approved production budget with a hard cap. The budget is funded off the top as money arrives. SMS directs spending inside the cap; BETA approves anything above the agreed threshold and any increase to the cap. Whatever is not spent flows back into the split.
 
-**What SMS does and does not carry.** SMS covers its own team tools and internal working costs through the **$30,000** activation in Section 8. SMS does not fund event hard costs, vendor deposits, or platform fees from its own capital. SMS's financial risk is deferred, performance-based **labor** recovered through the activation and waterfall, not cash outlay for event production.
+**What SMS carries — and does not.** SMS covers its own team and tools through the **$30,000** in Section 8. SMS does not pay venues, vendors, deposits, or platform fees from its own capital. SMS's risk is its labor, paid only if the engine produces — not cash out of pocket.
 
-**Working capital and timing.** Event costs are funded primarily from incoming sponsor and ticket revenue and from BETA-arranged working capital. Where deposits fall due before revenue lands, BETA is responsible for the float or for sequencing commitments to available cash; SMS will build the spend plan to match cash availability and the no-room-no-promise rule: nothing is publicly promised — capacity, venue, or experience — until the room that delivers it is confirmed.
+**Timing.** The first call on the first new dollars is the team's $30,000 (Section 8) — the crew is paid as money arrives, not after vendor bills clear; vendor bills come due later, on their own contract schedules. Event costs are paid out of incoming revenue and BETA-arranged working capital. If a deposit comes due before the money lands, BETA chooses in writing to advance it — or the commitment waits. Any advance is first in line for repayment from the budget as revenue arrives. The structure is built so BETA cannot drift into the red by accident; its treasury moves only by its own written choice. The standing rule: nothing is publicly promised — capacity, venue, or experience — until the room that delivers it is confirmed.
 
-**Downside and shortfalls.** Refunds, chargebacks, and uncollected sponsor commitments reduce gross revenue before net is calculated, so neither party is paid on money that does not actually land. No commitment exceeding the approved budget may be made without BETA's written approval, protecting BETA from uncapped liability and SMS from overspend it did not authorize.
+**When money falls through.** Refunds, chargebacks, and sponsor commitments that never arrive are subtracted before anything is split — nobody is paid on money that does not actually land. And no one may commit beyond the approved budget without BETA's written approval: that protects BETA from runaway liability and SMS from overspend it did not authorize.
 
 > **Costs and fees come off the top; SMS and BETA split what the engine actually nets.**
 
@@ -299,47 +303,39 @@ A revenue model is only credible if the cost base is defined as clearly as the r
 
 ## 10. Risk-Adjusted Revenue Waterfall
 
-Because BETA is operating under constrained nonprofit cash-flow conditions, SMS is being asked to defer part of its compensation into performance-based upside.
+Because BETA cannot pay standard vendor prices upfront, SMS is deferring most of its pay into a share of what the engine actually produces.
 
-That requires a risk-adjusted revenue waterfall, not standard vendor pricing.
+That requires a payout order — a waterfall — not an invoice. The design rule: SMS earns the bigger share early, when the risk is SMS's; the split levels to equal partnership as the totals grow.
 
-The waterfall is designed to compensate SMS when risk is highest and return increasing upside to BETA as the engine becomes more successful.
+Every split percentage below applies to **Net New TCSW Revenue** as defined in Section 9 — new money after fees and the event budget. One payment comes before everything else, including the event's bills: the team's.
 
-All amounts and tranche thresholds below refer to **Net New TCSW Revenue** as defined in Section 9 — that is, gross revenue after transaction fees and the approved event production budget. Event costs are funded before any split.
+### Phase 0: The Team — the Week's First Vendor
 
-### Phase 1: SMS Activation Recovery
+The first **$30,000** of new TCSW money pays whichever party funded the Section 8 activation — and it is the first call on the first dollars that arrive:
 
-First **$30,000** of Net New TCSW Revenue goes to SMS. This phase applies only where the Section 8 activation was not paid directly: if BETA funded the activation in cash, Phase 1 is already satisfied and the waterfall begins at Phase 2 — which then recovers BETA's advance.
+- if the activation went unpaid, it pays SMS's team — the people doing the finding, warming, and building. Every production pays its crew, and the crew is this week's first vendor; the team is paid as money lands, not after the event's bills clear;
+- if BETA advanced the activation in cash, it repays BETA's treasury first.
 
-Purpose:
+One recovery, never two. Each party gets back what it actually put in before any split begins.
 
-- activate the core SMS team;
-- begin campaign, revenue, programming, and operating work;
-- prevent unpaid labor from becoming the production model.
+### Phase 1: Every Obligation Paid in Full
 
-### Phase 2: BETA Stabilization Recovery
+Before either party takes a dollar of the split, every vendor, venue, fee, and event contractor is paid in full from the approved budget. BETA signs the contracts (Section 9); the week's own revenue pays the bills — not BETA's treasury, and never SMS's pocket. This is the budget negotiated, board-approved, and agreed between BETA and SMS before anything is publicly sold. Because no commitment is signed until the budget that covers it is funded (Section 9), paying the team first can never leave a vendor short — at worst, a commitment waits until the money is real. Following through on every agreement is how TCSW keeps its standing in the community.
 
-Next **$30,000** of Net New TCSW Revenue goes to BETA.
+### Phase 2: Early Rebuild
 
-Purpose:
-
-- restore parity after SMS activation;
-- support BETA's operating needs;
-- demonstrate that SMS's model is not extractive.
-
-### Phase 3: Early Engine Rebuild Tranche
-
-Revenue from **$60,001 to $100,000**:
+Revenue from **$30,001 to $100,000**:
 
 - **80% SMS**
 - **20% BETA**
 
 Purpose:
 
-- compensate SMS for the highest-risk rebuild period;
-- fund the operating, creative, revenue, product, and programming work required to make the platform real.
+- pay SMS for the stretch when selling risk is highest and every deal starts cold;
+- fund the operating, creative, revenue, product, and programming work that makes the platform real;
+- in the lean case, this is not profit — it is deferred payroll for the team that built and sold the week.
 
-### Phase 4: Growth Tranche
+### Phase 3: Growth
 
 Revenue from **$100,001 to $250,000**:
 
@@ -350,39 +346,31 @@ Purpose:
 
 - continue compensating execution while allowing BETA to benefit from engine growth.
 
-### Phase 5: Maturity Tranche
+### Phase 4: Partnership
 
-Revenue from **$250,001 to $500,000**:
+All revenue above **$250,000**:
 
 - **50% SMS**
 - **50% BETA**
 
 Purpose:
 
-- establish shared upside once the platform begins functioning at scale.
+- above this line the parties are equal partners in every additional dollar — no further escalation, no open ranges, nothing to renegotiate later.
 
-### Phase 6: Institutional Upside Tranche
-
-Revenue above **$500,000**:
-
-- **20-35% SMS**
-- **65-80% BETA**
-
-Purpose:
-
-- return increasing upside to BETA once SMS has helped rebuild the engine and reduce early execution risk.
-
-The percentages above describe marginal tranches. Cumulatively, the blended split converges toward BETA as the engine scales:
+Each percentage applies only to the dollars inside its own stage. Add the stages together and the blended split moves toward an even partnership as the engine grows:
 
 | Net New TCSW Revenue | SMS receives | BETA receives | Blended split |
 |---|---:|---:|---|
-| $50,000 | $30,000 | $20,000 | 60 / 40 |
-| $100,000 | $62,000 | $38,000 | 62 / 38 |
-| $250,000 | $159,500 | $90,500 | 64 / 36 |
-| $500,000 | $284,500 | $215,500 | 57 / 43 |
-| $1,000,000 | $422,000 | $578,000 | 42 / 58 |
+| $50,000 | $46,000 | $4,000 | 92 / 8 |
+| $60,000 | $54,000 | $6,000 | 90 / 10 |
+| $100,000 | $86,000 | $14,000 | 86 / 14 |
+| $250,000 | $183,500 | $66,500 | 73 / 27 |
+| $500,000 | $308,500 | $191,500 | 62 / 38 |
+| $1,000,000 | $558,500 | $441,500 | 56 / 44 |
 
-The final row assumes Phase 6 at the midpoint of its stated range; every figure is calculated after BETA's event production budget has already been funded. The Phase 6 split is intentionally the only commercial term left open in this proposal; it will be fixed in the operating agreement. The principle stands: SMS receives a higher early share while risk and labor are highest; BETA receives increasing upside as the engine matures.
+Read the low rows honestly. At $60,000 total, SMS's share works out to roughly $2,700 per person per month across a five-person team and a four-month build — payroll, not profit. BETA's protection in the lean case is not its split percentage: it is that the week happened, every obligation was paid in full at Phase 1, and the engine was rebuilt at no cash cost to BETA. Every figure comes after that budget is already funded. No split in this proposal is left open for later negotiation: what the board approves is what the agreement contains.
+
+> **In plain terms:** the team is paid first — the first $30,000, the way every production pays its crew. Every other obligation is then paid in full before either party takes a dollar of profit. After that, SMS earns the bigger share while the totals are small — payroll before profit — and above $250,000 every additional dollar splits down the middle.
 
 ---
 
@@ -390,20 +378,19 @@ The final row assumes Phase 6 at the midpoint of its stated range; every figure 
 
 SMS cannot be accountable for a coherent public experience without sufficient authority over the systems that create that experience.
 
-SMS requires authority to lead or direct:
+The ask is simple and protective: SMS holds **final decision authority over event structure, programming, and production standards** — including the authority to push back on any request that exceeds the capacity to execute a successful event in the time remaining.
 
-- revenue product architecture;
-- sponsor package design and feasibility review;
-- host/calendar-slot product structure;
-- public campaign and landing page direction;
-- visual and verbal experience design;
-- programming intake standards;
-- venue/location recommendations;
-- attendee journey design;
-- SMS app positioning as a connection layer;
-- production cadence;
-- operating trackers, decision logs, and risk escalation;
-- spend recommendations and direction within the approved production budget (see Section 9).
+In practice, SMS directs the work it is accountable for:
+
+- the three revenue products and their standard terms;
+- the public campaign, landing page, and experience design;
+- programming intake, the attendee journey, and run-of-show;
+- venue and location recommendations;
+- production cadence, operating trackers, decision logs, and risk escalation;
+- spending direction within the approved budget (Section 9);
+- the SMS app as the week's connection layer.
+
+This authority is not control for its own sake. It exists so that no commitment is made — by anyone — that the remaining time and capacity cannot deliver.
 
 BETA retains final authority over:
 
@@ -424,7 +411,7 @@ The principle is simple:
 
 ## 12. Data Access Required
 
-SMS cannot rebuild the revenue engine from an information deficit.
+SMS cannot sell what it cannot see.
 
 Before the first 30-day sprint begins, BETA should provide access to:
 
@@ -442,11 +429,15 @@ Before the first 30-day sprint begins, BETA should provide access to:
 - known vendor obligations;
 - board constraints or approval requirements.
 
-This data is required to price the products correctly, avoid duplicate outreach, protect sponsor trust, and build a credible operating plan.
+This data is required to price the products correctly, avoid duplicate outreach, protect sponsor trust, and build a credible operating plan. Selling starts on day one only if this data is handed over on day one.
 
 ---
 
 ## 13. First 30-Day Sprint
+
+Two clocks govern this engagement, and they are not the same clock.
+
+The event clock says TCSW is 96 days away. The revenue clock is shorter: hosts need weeks to plan and promote what they host, sponsors need internal approvals, and the budget must be funded before anything is promised. In practice, the selling window is roughly the next six weeks — and the first fifteen days after signature decide whether the anchor deals exist that make the rest possible. That is why the sprint below is front-loaded toward offers, outreach, and pipeline, and why every day between proposal and signature costs selling time the calendar will not give back.
 
 After written authorization, SMS would begin a first 30-day sprint with one goal:
 
@@ -458,21 +449,24 @@ Sprint priorities:
 2. define sponsor, ticket, and host/calendar-slot products;
 3. produce sponsor-facing and host-facing offer language;
 4. build sponsor and host target lists;
-5. clarify current venue commitments and gaps;
-6. produce venue/location architecture recommendation;
-7. establish programming intake standards;
-8. define attendee journey and access model;
-9. launch public campaign spine and landing page direction;
-10. define SMS app MVP use cases for TCSW;
-11. create risk register and operating trackers;
-12. launch weekly SMS x Angela operating cadence;
-13. produce weekly board-facing status summaries.
+5. begin host and sponsor outreach and hand Angela the first warmed deals;
+6. clarify current venue commitments and gaps;
+7. produce the venue and location plan;
+8. establish programming intake standards;
+9. define attendee journey and access model;
+10. launch public campaign spine and landing page direction;
+11. define SMS app MVP use cases for TCSW;
+12. create risk tracking and operating trackers;
+13. launch the weekly SMS x Angela operating rhythm;
+14. produce weekly board-facing status summaries.
 
 The first sprint should not begin until activation, authority, data access, and public-credit terms are agreed in writing.
 
-**Sprint clock.** Sprint Day 1 is the first business day after (1) written authorization and (2) confirmation of the activation path under Section 8. All sprint milestones run from Sprint Day 1, not from calendar dates. If signoff lands on the June 19, 2026 target, Sprint Day 1 falls on June 22, 2026.
+**Sprint clock.** Work starts the moment the signature lands. Sprint Day 1 is the day of (1) written authorization and (2) confirmation of the activation path under Section 8 — the same day, not a later start date. All sprint milestones run from Sprint Day 1, not from calendar dates. The decision is requested within **48 hours** of this proposal: if signoff lands on the June 12, 2026 target, Sprint Day 1 is June 12, 2026.
 
-**Runway re-baseline.** TCSW's dates are fixed. If authorization lands after July 7, 2026, scope and revenue targets are re-baselined in writing to the remaining runway before the sprint begins. A late decision does not put either party in breach; it reduces what the engine can deliver by September.
+**If the decision comes late.** TCSW's dates are fixed. If authorization lands after July 7, 2026, scope and revenue targets are re-sized in writing to the time that is left before the sprint begins. A late decision does not put either party in breach; it reduces what the engine can deliver by September.
+
+**When the work ends.** Production does not end when the week does. The engagement runs through **October 18, 2026** — one month after the event closes — covering vendor reconciliation and final payments, sponsor reporting and renewal conversations, host wrap-up, the post-event review, and final payout reconciliation. Following through after the lights go down is how relationships, and TCSW's standing, are kept.
 
 ---
 
@@ -482,8 +476,8 @@ This proposal is designed to protect both BETA and SMS.
 
 | Risk | Why it matters | Required protection |
 |------------|--------------------|--------------------|
-| Misdiagnosis risk | Treating TCSW as event support leaves the engine under-built | Board acceptance of the structural diagnosis |
-| SMS unpaid labor risk | The team cannot carry organizational risk for free | $30,000 activation and revenue waterfall |
+| Misdiagnosis risk | Treating TCSW as event support leaves the engine under-built | SMS's final decision authority over event structure and programming (Section 11) |
+| SMS unpaid labor risk | The team cannot carry organizational risk for free | $30,000 activation paid first, from the first new dollars (Sections 8, 10) |
 | Authorization risk | Goodwill alone cannot anchor a production commitment | Written authorization from appropriate BETA authority |
 | Sponsor promise risk | Overpromising damages trust | SMS feasibility review before sponsor commitments |
 | Venue fragmentation risk | Attendee experience breaks if geography is incoherent | Compact location architecture and no-room-no-promise rule |
@@ -494,6 +488,8 @@ This proposal is designed to protect both BETA and SMS.
 | Event cost responsibility risk | Undefined cost ownership collapses the deal at signing | Net-revenue waterfall and BETA-owned, board-approved production budget (Section 9) |
 | Uncapped spend risk | Production costs could balloon beyond plan | Not-to-exceed budget cap and BETA approval above an agreed threshold (Section 9) |
 | Float / timing risk | Vendor deposits can fall due before revenue lands | BETA-arranged working capital and spend sequenced to available cash (Section 9) |
+| Revenue window risk | The selling window is weeks, not months; a late start shrinks it | Front-loaded sprint, the two-clock plan, and the July 7 checkpoint (Section 13) |
+| Closing bottleneck risk | Every deal routes through one signer | Standard host agreements at board-approved prices, batch countersignature, and the three-business-day response commitment (Section 5) |
 
 SMS is prepared to assume meaningful execution risk. SMS is not prepared to assume undefined risk without authority, compensation, public credit, and payment protection.
 
@@ -516,7 +512,7 @@ BETA receives:
 - a reusable production and revenue playbook;
 - a stronger asset for 2027 and beyond.
 
-Every item on this list outlives the engagement. The waterfall in Section 10 applies to TCSW 2026 revenue alone — SMS makes no claim on future years. The TCSW products, the TCSW operating playbook, the sponsor relationships, and the restored value of the official calendar all remain with BETA and keep producing revenue in 2027 and every year after, whether or not SMS is retained again. The 2026 waterfall is the one-time cost of acquiring a permanent revenue engine.
+Every item on this list outlives this engagement. The payout order in Section 10 applies to TCSW 2026 money only — SMS has no claim on future years. The products, the playbook, the sponsor relationships, and the restored value of the official calendar stay with BETA and keep earning in 2027 and every year after, whether or not SMS is ever hired again. The 2026 split is the one-time cost of a permanent revenue engine.
 
 SMS's work is not only to produce TCSW 2026.
 
@@ -535,17 +531,17 @@ Immediate approvals requested:
 1. approve SMS's role as producer and revenue-engine rebuild partner;
 2. approve the required **Produced by SMS** public accreditation, written into the operating agreement, for all marketing and official announcements;
 3. approve the $30,000 activation structure;
-4. approve the net-revenue waterfall and the Section 9 event-cost and fee responsibility model in principle, including BETA as contracting party for event costs and a board-approved, not-to-exceed production budget;
-5. approve data access required for revenue and operating design;
-6. approve the decision-rights framework;
+4. approve the payout order — team first, every obligation in full, then the split — and the Section 9 cost model in principle: BETA contracts the event costs, inside a board-approved budget with a hard cap;
+5. approve the day-one data handover in Section 12;
+6. grant SMS final decision authority over event structure and programming, sized to what the remaining time and capacity can deliver successfully;
 7. grant SMS a right of first negotiation for the TCSW 2027 production partnership, exercisable after the 2026 post-event review;
 8. authorize Angela and SMS to finalize the operating agreement immediately;
-9. confirm the board, finance, and legal signoff path so the operating agreement is executed by June 19, 2026;
-10. authorize the first 30-day sprint to begin on Sprint Day 1 — the first business day after written authorization and confirmation of the activation path — which falls on June 22, 2026 if signoff lands on the June 19 target.
+9. confirm the board, finance, and legal signoff path so authorization is signed within **48 hours** — by June 12, 2026 — and the operating agreement is executed by June 19, 2026;
+10. authorize the first 30-day sprint to begin immediately upon signing — Sprint Day 1 is the day of signature and activation-path confirmation, June 12, 2026 if signoff lands on the 48-hour target.
 
 The operating agreement will additionally define, at minimum: contracting entities and signatories; term, termination, and walk-away rights for both parties; event cancellation and force majeure; intellectual property ownership (TCSW-branded outputs to BETA; SMS methodology, playbook templates, and the SMS app to SMS); attendee and community data ownership and privacy; payment cadence and reconciliation; insurance, liability, and indemnification; and dispute resolution. These items are scheduled, not unresolved risks.
 
-This decision is urgent because TCSW begins September 14, 2026.
+The ask is a decision within 48 hours, because TCSW begins September 14, 2026 — and the selling window closes long before the event does. Work starts the day the signature lands.
 
 The remaining calendar does not allow for an under-scoped, underfunded, or ambiguous partnership.
 
@@ -559,15 +555,15 @@ It is an underbuilt ecosystem revenue platform.
 
 And once rebuilt, the platform does not need rebuilding twice. Authorizing this work solves more than the 2026 revenue problem: 2027 begins with products, prices, playbooks, and proof instead of a blank page. The lasting benefit of the rebuilt engine accrues to BETA exclusively.
 
-BETA holds the official calendar, brand, and institutional trust. Angela has the confidence and relational posture to steward the moment. SMS has the production, community design, creative, operations, technology, and revenue architecture capacity to rebuild the engine.
+BETA holds the official calendar, brand, and institutional trust. Angela has the standing and the relationships to steward the moment. SMS has the production, community design, creative, operations, technology, and revenue capacity to rebuild the engine.
 
 The question is not whether TCSW needs help.
 
-The question is whether BETA accepts what the findings show TCSW actually is — and authorizes the level of structural repair required.
+The question is whether BETA authorizes the level of structural repair the moment requires — and grants the decision authority that makes it deliverable.
 
-If BETA accepts the diagnosis, SMS is prepared to move quickly.
+If BETA grants that authority, SMS is prepared to move quickly.
 
-If BETA does not accept the diagnosis, the responsible outcome is no engagement — not a narrower contract that asks SMS to carry the consequences of an under-built engine it was not authorized to repair.
+If BETA wants event support without the structure and authority this proposal describes, the responsible outcome is no engagement — not a narrower contract that asks SMS to carry the consequences of an engine it was not authorized to repair.
 
 With respect and urgency, SMS is ready to help rebuild TCSW into its fullest potential.
 
